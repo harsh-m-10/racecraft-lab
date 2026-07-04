@@ -1,0 +1,60 @@
+{
+  "driver": "Sergio Perez",
+  "slug": "sergio-perez",
+  "is_active": true,
+  "power_score": 53.87,
+  "delta_score": 54.71,
+  "chaos_index": 51.45,
+  "sunday_edge": 50.52,
+  "total_races": 155,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": 2.39,
+      "overperformance_norm": 63.08,
+      "races": 21
+    },
+    {
+      "season": 2019,
+      "overperformance": 0.106,
+      "overperformance_norm": 50.82,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": 2.419,
+      "overperformance_norm": 61.09,
+      "races": 15
+    },
+    {
+      "season": 2021,
+      "overperformance": 1.128,
+      "overperformance_norm": 58.09,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": -0.698,
+      "overperformance_norm": 45.41,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": 1.247,
+      "overperformance_norm": 59.74,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": -1.674,
+      "overperformance_norm": 41.96,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": 1.497,
+      "overperformance_norm": 57.5,
+      "races": 8
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "driver": "Romain Grosjean",
+  "slug": "romain-grosjean",
+  "is_active": false,
+  "power_score": 41.49,
+  "delta_score": 43.67,
+  "chaos_index": 44.77,
+  "sunday_edge": 44.1,
+  "total_races": 57,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": -1.84,
+      "overperformance_norm": 39.93,
+      "races": 21
+    },
+    {
+      "season": 2019,
+      "overperformance": -1.654,
+      "overperformance_norm": 37.23,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": 1.011,
+      "overperformance_norm": 53.86,
+      "races": 15
+    }
+  ]
+}

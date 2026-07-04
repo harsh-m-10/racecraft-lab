@@ -1,0 +1,60 @@
+{
+  "driver": "George Russell",
+  "slug": "george-russell",
+  "is_active": true,
+  "power_score": 42.03,
+  "delta_score": 45.47,
+  "chaos_index": 41.96,
+  "sunday_edge": 45.74,
+  "total_races": 160,
+  "seasons": [
+    {
+      "season": 2019,
+      "overperformance": 0.002,
+      "overperformance_norm": 50.02,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": -3.052,
+      "overperformance_norm": 33.0,
+      "races": 17
+    },
+    {
+      "season": 2021,
+      "overperformance": -1.081,
+      "overperformance_norm": 41.28,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": 0.486,
+      "overperformance_norm": 53.86,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": -1.166,
+      "overperformance_norm": 41.97,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": -1.984,
+      "overperformance_norm": 40.76,
+      "races": 24
+    },
+    {
+      "season": 2025,
+      "overperformance": 1.086,
+      "overperformance_norm": 56.65,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": -0.756,
+      "overperformance_norm": 46.21,
+      "races": 8
+    }
+  ]
+}

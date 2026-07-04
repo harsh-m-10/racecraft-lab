@@ -1,0 +1,30 @@
+{
+  "driver": "Nicholas Latifi",
+  "slug": "nicholas-latifi",
+  "is_active": false,
+  "power_score": 63.06,
+  "delta_score": 56.0,
+  "chaos_index": 61.74,
+  "sunday_edge": 64.56,
+  "total_races": 61,
+  "seasons": [
+    {
+      "season": 2020,
+      "overperformance": 2.649,
+      "overperformance_norm": 62.27,
+      "races": 17
+    },
+    {
+      "season": 2021,
+      "overperformance": 1.081,
+      "overperformance_norm": 57.72,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": -0.334,
+      "overperformance_norm": 48.01,
+      "races": 22
+    }
+  ]
+}

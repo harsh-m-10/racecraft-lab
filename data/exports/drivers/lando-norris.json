@@ -1,0 +1,60 @@
+{
+  "driver": "Lando Norris",
+  "slug": "lando-norris",
+  "is_active": true,
+  "power_score": 45.12,
+  "delta_score": 47.77,
+  "chaos_index": 46.46,
+  "sunday_edge": 44.24,
+  "total_races": 160,
+  "seasons": [
+    {
+      "season": 2019,
+      "overperformance": -2.664,
+      "overperformance_norm": 29.42,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": 1.038,
+      "overperformance_norm": 54.0,
+      "races": 17
+    },
+    {
+      "season": 2021,
+      "overperformance": -1.017,
+      "overperformance_norm": 41.77,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": 0.337,
+      "overperformance_norm": 52.8,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": 1.643,
+      "overperformance_norm": 62.66,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": -0.713,
+      "overperformance_norm": 45.66,
+      "races": 24
+    },
+    {
+      "season": 2025,
+      "overperformance": -0.057,
+      "overperformance_norm": 49.23,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": -0.678,
+      "overperformance_norm": 46.6,
+      "races": 8
+    }
+  ]
+}

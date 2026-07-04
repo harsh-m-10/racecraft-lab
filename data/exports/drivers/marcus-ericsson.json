@@ -1,0 +1,18 @@
+{
+  "driver": "Marcus Ericsson",
+  "slug": "marcus-ericsson",
+  "is_active": false,
+  "power_score": 69.79,
+  "delta_score": 62.98,
+  "chaos_index": 65.32,
+  "sunday_edge": 65.68,
+  "total_races": 21,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": 2.373,
+      "overperformance_norm": 62.98,
+      "races": 21
+    }
+  ]
+}

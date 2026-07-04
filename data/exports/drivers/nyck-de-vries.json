@@ -1,0 +1,24 @@
+{
+  "driver": "Nyck De Vries",
+  "slug": "nyck-de-vries",
+  "is_active": false,
+  "power_score": 31.54,
+  "delta_score": 31.81,
+  "chaos_index": 38.58,
+  "sunday_edge": 47.63,
+  "total_races": 11,
+  "seasons": [
+    {
+      "season": 2022,
+      "overperformance": -1.889,
+      "overperformance_norm": 36.91,
+      "races": 1
+    },
+    {
+      "season": 2023,
+      "overperformance": -3.238,
+      "overperformance_norm": 26.71,
+      "races": 10
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "driver": "Jack Doohan",
+  "slug": "jack-doohan",
+  "is_active": false,
+  "power_score": 48.13,
+  "delta_score": 47.62,
+  "chaos_index": 50.0,
+  "sunday_edge": 50.0,
+  "total_races": 7,
+  "seasons": [
+    {
+      "season": 2024,
+      "overperformance": -3.757,
+      "overperformance_norm": 33.94,
+      "races": 1
+    },
+    {
+      "season": 2025,
+      "overperformance": 1.802,
+      "overperformance_norm": 61.3,
+      "races": 6
+    }
+  ]
+}

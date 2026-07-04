@@ -1,0 +1,66 @@
+{
+  "driver": "Pierre Gasly",
+  "slug": "pierre-gasly",
+  "is_active": true,
+  "power_score": 48.18,
+  "delta_score": 50.13,
+  "chaos_index": 48.7,
+  "sunday_edge": 45.85,
+  "total_races": 181,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": -0.085,
+      "overperformance_norm": 49.54,
+      "races": 21
+    },
+    {
+      "season": 2019,
+      "overperformance": -1.256,
+      "overperformance_norm": 40.3,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": -0.399,
+      "overperformance_norm": 46.63,
+      "races": 17
+    },
+    {
+      "season": 2021,
+      "overperformance": -1.609,
+      "overperformance_norm": 37.26,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": 1.147,
+      "overperformance_norm": 58.57,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": 2.045,
+      "overperformance_norm": 65.62,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": 0.98,
+      "overperformance_norm": 52.17,
+      "races": 24
+    },
+    {
+      "season": 2025,
+      "overperformance": 0.0,
+      "overperformance_norm": 49.6,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": 0.291,
+      "overperformance_norm": 51.46,
+      "races": 8
+    }
+  ]
+}

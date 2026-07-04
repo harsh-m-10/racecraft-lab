@@ -1,0 +1,66 @@
+{
+  "driver": "Charles Leclerc",
+  "slug": "charles-leclerc",
+  "is_active": true,
+  "power_score": 37.41,
+  "delta_score": 42.7,
+  "chaos_index": 38.12,
+  "sunday_edge": 41.98,
+  "total_races": 181,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": -2.373,
+      "overperformance_norm": 37.02,
+      "races": 21
+    },
+    {
+      "season": 2019,
+      "overperformance": -0.444,
+      "overperformance_norm": 46.57,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": -1.949,
+      "overperformance_norm": 38.67,
+      "races": 17
+    },
+    {
+      "season": 2021,
+      "overperformance": -2.265,
+      "overperformance_norm": 32.27,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": 1.531,
+      "overperformance_norm": 61.31,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": -0.718,
+      "overperformance_norm": 45.27,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": 0.702,
+      "overperformance_norm": 51.1,
+      "races": 24
+    },
+    {
+      "season": 2025,
+      "overperformance": -1.486,
+      "overperformance_norm": 39.96,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": -3.569,
+      "overperformance_norm": 32.13,
+      "races": 8
+    }
+  ]
+}

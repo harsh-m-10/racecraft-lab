@@ -1,0 +1,24 @@
+{
+  "driver": "Logan Sargeant",
+  "slug": "logan-sargeant",
+  "is_active": false,
+  "power_score": 56.04,
+  "delta_score": 51.0,
+  "chaos_index": 60.51,
+  "sunday_edge": 53.96,
+  "total_races": 36,
+  "seasons": [
+    {
+      "season": 2023,
+      "overperformance": -0.069,
+      "overperformance_norm": 50.05,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": 0.921,
+      "overperformance_norm": 51.95,
+      "races": 14
+    }
+  ]
+}

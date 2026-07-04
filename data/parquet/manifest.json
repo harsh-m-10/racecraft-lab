@@ -1,0 +1,3293 @@
+{
+  "sessions": {
+    "2018-01-Qualifying": {
+      "ingested_at": "2026-07-04T11:27:39+00:00",
+      "laps": 287,
+      "round": 1,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-01-Race": {
+      "ingested_at": "2026-07-04T11:27:42+00:00",
+      "laps": 940,
+      "round": 1,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-02-Qualifying": {
+      "ingested_at": "2026-07-04T11:27:43+00:00",
+      "laps": 244,
+      "round": 2,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-02-Race": {
+      "ingested_at": "2026-07-04T11:27:45+00:00",
+      "laps": 998,
+      "round": 2,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-03-Qualifying": {
+      "ingested_at": "2026-07-04T11:27:47+00:00",
+      "laps": 256,
+      "round": 3,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-03-Race": {
+      "ingested_at": "2026-07-04T11:27:50+00:00",
+      "laps": 1115,
+      "round": 3,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-04-Qualifying": {
+      "ingested_at": "2026-07-04T11:27:52+00:00",
+      "laps": 313,
+      "round": 4,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-04-Race": {
+      "ingested_at": "2026-07-04T11:27:54+00:00",
+      "laps": 848,
+      "round": 4,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-05-Qualifying": {
+      "ingested_at": "2026-07-04T11:27:56+00:00",
+      "laps": 307,
+      "round": 5,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-05-Race": {
+      "ingested_at": "2026-07-04T11:27:58+00:00",
+      "laps": 1021,
+      "round": 5,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-06-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:00+00:00",
+      "laps": 386,
+      "round": 6,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-06-Race": {
+      "ingested_at": "2026-07-04T11:28:02+00:00",
+      "laps": 1516,
+      "round": 6,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-07-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:04+00:00",
+      "laps": 291,
+      "round": 7,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-07-Race": {
+      "ingested_at": "2026-07-04T11:28:06+00:00",
+      "laps": 1219,
+      "round": 7,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-08-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:08+00:00",
+      "laps": 332,
+      "round": 8,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-08-Race": {
+      "ingested_at": "2026-07-04T11:28:10+00:00",
+      "laps": 920,
+      "round": 8,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-09-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:12+00:00",
+      "laps": 331,
+      "round": 9,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-09-Race": {
+      "ingested_at": "2026-07-04T11:28:14+00:00",
+      "laps": 1244,
+      "round": 9,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-10-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:16+00:00",
+      "laps": 264,
+      "round": 10,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-10-Race": {
+      "ingested_at": "2026-07-04T11:28:18+00:00",
+      "laps": 902,
+      "round": 10,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-11-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:20+00:00",
+      "laps": 286,
+      "round": 11,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-11-Race": {
+      "ingested_at": "2026-07-04T11:28:22+00:00",
+      "laps": 1252,
+      "round": 11,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-12-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:24+00:00",
+      "laps": 402,
+      "round": 12,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-12-Race": {
+      "ingested_at": "2026-07-04T11:28:27+00:00",
+      "laps": 1233,
+      "round": 12,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-13-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:28+00:00",
+      "laps": 237,
+      "round": 13,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-13-Race": {
+      "ingested_at": "2026-07-04T11:28:30+00:00",
+      "laps": 693,
+      "round": 13,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-14-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:32+00:00",
+      "laps": 284,
+      "round": 14,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-14-Race": {
+      "ingested_at": "2026-07-04T11:28:32+00:00",
+      "laps": 0,
+      "round": 14,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-15-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:34+00:00",
+      "laps": 269,
+      "round": 15,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-15-Race": {
+      "ingested_at": "2026-07-04T11:28:36+00:00",
+      "laps": 1146,
+      "round": 15,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-16-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:38+00:00",
+      "laps": 232,
+      "round": 16,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-16-Race": {
+      "ingested_at": "2026-07-04T11:28:40+00:00",
+      "laps": 948,
+      "round": 16,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-17-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:42+00:00",
+      "laps": 221,
+      "round": 17,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-17-Race": {
+      "ingested_at": "2026-07-04T11:28:44+00:00",
+      "laps": 977,
+      "round": 17,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-18-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:46+00:00",
+      "laps": 256,
+      "round": 18,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-18-Race": {
+      "ingested_at": "2026-07-04T11:28:48+00:00",
+      "laps": 932,
+      "round": 18,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-19-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:50+00:00",
+      "laps": 286,
+      "round": 19,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-19-Race": {
+      "ingested_at": "2026-07-04T11:28:52+00:00",
+      "laps": 1245,
+      "round": 19,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-20-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:54+00:00",
+      "laps": 300,
+      "round": 20,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-20-Race": {
+      "ingested_at": "2026-07-04T11:28:56+00:00",
+      "laps": 1318,
+      "round": 20,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2018-21-Qualifying": {
+      "ingested_at": "2026-07-04T11:28:58+00:00",
+      "laps": 270,
+      "round": 21,
+      "season": 2018,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2018-21-Race": {
+      "ingested_at": "2026-07-04T11:29:00+00:00",
+      "laps": 943,
+      "round": 21,
+      "season": 2018,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-01-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:01+00:00",
+      "laps": 273,
+      "round": 1,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-01-Race": {
+      "ingested_at": "2026-07-04T11:29:03+00:00",
+      "laps": 1041,
+      "round": 1,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-02-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:05+00:00",
+      "laps": 248,
+      "round": 2,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-02-Race": {
+      "ingested_at": "2026-07-04T11:29:07+00:00",
+      "laps": 1083,
+      "round": 2,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-03-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:08+00:00",
+      "laps": 240,
+      "round": 3,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-03-Race": {
+      "ingested_at": "2026-07-04T11:29:11+00:00",
+      "laps": 1046,
+      "round": 3,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-04-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:12+00:00",
+      "laps": 309,
+      "round": 4,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-04-Race": {
+      "ingested_at": "2026-07-04T11:29:14+00:00",
+      "laps": 948,
+      "round": 4,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-05-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:15+00:00",
+      "laps": 277,
+      "round": 5,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-05-Race": {
+      "ingested_at": "2026-07-04T11:29:17+00:00",
+      "laps": 1276,
+      "round": 5,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-06-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:19+00:00",
+      "laps": 427,
+      "round": 6,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-06-Race": {
+      "ingested_at": "2026-07-04T11:29:21+00:00",
+      "laps": 1490,
+      "round": 6,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-07-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:23+00:00",
+      "laps": 317,
+      "round": 7,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-07-Race": {
+      "ingested_at": "2026-07-04T11:29:25+00:00",
+      "laps": 1312,
+      "round": 7,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-08-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:27+00:00",
+      "laps": 309,
+      "round": 8,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-08-Race": {
+      "ingested_at": "2026-07-04T11:29:29+00:00",
+      "laps": 1037,
+      "round": 8,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-09-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:30+00:00",
+      "laps": 314,
+      "round": 9,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-09-Race": {
+      "ingested_at": "2026-07-04T11:29:32+00:00",
+      "laps": 1401,
+      "round": 9,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-10-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:34+00:00",
+      "laps": 330,
+      "round": 10,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-10-Race": {
+      "ingested_at": "2026-07-04T11:29:36+00:00",
+      "laps": 914,
+      "round": 10,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-11-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:37+00:00",
+      "laps": 277,
+      "round": 11,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-11-Race": {
+      "ingested_at": "2026-07-04T11:29:40+00:00",
+      "laps": 1059,
+      "round": 11,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-12-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:41+00:00",
+      "laps": 293,
+      "round": 12,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-12-Race": {
+      "ingested_at": "2026-07-04T11:29:43+00:00",
+      "laps": 1358,
+      "round": 12,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-13-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:45+00:00",
+      "laps": 242,
+      "round": 13,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-13-Race": {
+      "ingested_at": "2026-07-04T11:29:47+00:00",
+      "laps": 787,
+      "round": 13,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-14-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:48+00:00",
+      "laps": 275,
+      "round": 14,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-14-Race": {
+      "ingested_at": "2026-07-04T11:29:50+00:00",
+      "laps": 991,
+      "round": 14,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-15-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:52+00:00",
+      "laps": 278,
+      "round": 15,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-15-Race": {
+      "ingested_at": "2026-07-04T11:29:54+00:00",
+      "laps": 1165,
+      "round": 15,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-16-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:55+00:00",
+      "laps": 277,
+      "round": 16,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-16-Race": {
+      "ingested_at": "2026-07-04T11:29:57+00:00",
+      "laps": 901,
+      "round": 16,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-17-Qualifying": {
+      "ingested_at": "2026-07-04T11:29:58+00:00",
+      "laps": 287,
+      "round": 17,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-17-Race": {
+      "ingested_at": "2026-07-04T11:30:00+00:00",
+      "laps": 1005,
+      "round": 17,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-18-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:02+00:00",
+      "laps": 303,
+      "round": 18,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-18-Race": {
+      "ingested_at": "2026-07-04T11:30:04+00:00",
+      "laps": 1370,
+      "round": 18,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-19-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:05+00:00",
+      "laps": 270,
+      "round": 19,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-19-Race": {
+      "ingested_at": "2026-07-04T11:30:07+00:00",
+      "laps": 1032,
+      "round": 19,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-20-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:08+00:00",
+      "laps": 271,
+      "round": 20,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-20-Race": {
+      "ingested_at": "2026-07-04T11:30:10+00:00",
+      "laps": 1385,
+      "round": 20,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2019-21-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:11+00:00",
+      "laps": 267,
+      "round": 21,
+      "season": 2019,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2019-21-Race": {
+      "ingested_at": "2026-07-04T11:30:13+00:00",
+      "laps": 1075,
+      "round": 21,
+      "season": 2019,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-01-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:15+00:00",
+      "laps": 298,
+      "round": 1,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-01-Race": {
+      "ingested_at": "2026-07-04T11:30:17+00:00",
+      "laps": 1061,
+      "round": 1,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-02-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:19+00:00",
+      "laps": 495,
+      "round": 2,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-02-Race": {
+      "ingested_at": "2026-07-04T11:30:20+00:00",
+      "laps": 1226,
+      "round": 2,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-03-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:22+00:00",
+      "laps": 324,
+      "round": 3,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-03-Race": {
+      "ingested_at": "2026-07-04T11:30:24+00:00",
+      "laps": 1327,
+      "round": 3,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-04-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:25+00:00",
+      "laps": 295,
+      "round": 4,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-04-Race": {
+      "ingested_at": "2026-07-04T11:30:27+00:00",
+      "laps": 897,
+      "round": 4,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-05-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:28+00:00",
+      "laps": 270,
+      "round": 5,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-05-Race": {
+      "ingested_at": "2026-07-04T11:30:30+00:00",
+      "laps": 1025,
+      "round": 5,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-06-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:31+00:00",
+      "laps": 260,
+      "round": 6,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-06-Race": {
+      "ingested_at": "2026-07-04T11:30:33+00:00",
+      "laps": 1274,
+      "round": 6,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-07-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:34+00:00",
+      "laps": 243,
+      "round": 7,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-07-Race": {
+      "ingested_at": "2026-07-04T11:30:36+00:00",
+      "laps": 768,
+      "round": 7,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-08-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:37+00:00",
+      "laps": 284,
+      "round": 8,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-08-Race": {
+      "ingested_at": "2026-07-04T11:30:39+00:00",
+      "laps": 926,
+      "round": 8,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-09-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:40+00:00",
+      "laps": 239,
+      "round": 9,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-09-Race": {
+      "ingested_at": "2026-07-04T11:30:42+00:00",
+      "laps": 786,
+      "round": 9,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-10-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:43+00:00",
+      "laps": 273,
+      "round": 10,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-10-Race": {
+      "ingested_at": "2026-07-04T11:30:45+00:00",
+      "laps": 948,
+      "round": 10,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-11-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:46+00:00",
+      "laps": 302,
+      "round": 11,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-11-Race": {
+      "ingested_at": "2026-07-04T11:30:48+00:00",
+      "laps": 1019,
+      "round": 11,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-12-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:49+00:00",
+      "laps": 381,
+      "round": 12,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-12-Race": {
+      "ingested_at": "2026-07-04T11:30:51+00:00",
+      "laps": 1288,
+      "round": 12,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-13-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:52+00:00",
+      "laps": 330,
+      "round": 13,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-13-Race": {
+      "ingested_at": "2026-07-04T11:30:54+00:00",
+      "laps": 1131,
+      "round": 13,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-14-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:56+00:00",
+      "laps": 378,
+      "round": 14,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-14-Race": {
+      "ingested_at": "2026-07-04T11:30:58+00:00",
+      "laps": 1077,
+      "round": 14,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-15-Qualifying": {
+      "ingested_at": "2026-07-04T11:30:59+00:00",
+      "laps": 243,
+      "round": 15,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-15-Race": {
+      "ingested_at": "2026-07-04T11:31:01+00:00",
+      "laps": 1019,
+      "round": 15,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-16-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:02+00:00",
+      "laps": 334,
+      "round": 16,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-16-Race": {
+      "ingested_at": "2026-07-04T11:31:04+00:00",
+      "laps": 1534,
+      "round": 16,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2020-17-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:05+00:00",
+      "laps": 266,
+      "round": 17,
+      "season": 2020,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2020-17-Race": {
+      "ingested_at": "2026-07-04T11:31:06+00:00",
+      "laps": 1044,
+      "round": 17,
+      "season": 2020,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-01-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:08+00:00",
+      "laps": 251,
+      "round": 1,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-01-Race": {
+      "ingested_at": "2026-07-04T11:31:09+00:00",
+      "laps": 1027,
+      "round": 1,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-02-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:10+00:00",
+      "laps": 318,
+      "round": 2,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-02-Race": {
+      "ingested_at": "2026-07-04T11:31:12+00:00",
+      "laps": 1127,
+      "round": 2,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-03-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:14+00:00",
+      "laps": 364,
+      "round": 3,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-03-Race": {
+      "ingested_at": "2026-07-04T11:31:16+00:00",
+      "laps": 1245,
+      "round": 3,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-04-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:17+00:00",
+      "laps": 257,
+      "round": 4,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-04-Race": {
+      "ingested_at": "2026-07-04T11:31:19+00:00",
+      "laps": 1247,
+      "round": 4,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-05-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:20+00:00",
+      "laps": 425,
+      "round": 5,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-05-Race": {
+      "ingested_at": "2026-07-04T11:31:22+00:00",
+      "laps": 1419,
+      "round": 5,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-06-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:23+00:00",
+      "laps": 284,
+      "round": 6,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-06-Race": {
+      "ingested_at": "2026-07-04T11:31:25+00:00",
+      "laps": 943,
+      "round": 6,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-07-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:26+00:00",
+      "laps": 270,
+      "round": 7,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-07-Race": {
+      "ingested_at": "2026-07-04T11:31:27+00:00",
+      "laps": 1051,
+      "round": 7,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-08-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:29+00:00",
+      "laps": 314,
+      "round": 8,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-08-Race": {
+      "ingested_at": "2026-07-04T11:31:30+00:00",
+      "laps": 1296,
+      "round": 8,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-09-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:31+00:00",
+      "laps": 299,
+      "round": 9,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-09-Race": {
+      "ingested_at": "2026-07-04T11:31:33+00:00",
+      "laps": 1338,
+      "round": 9,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-10-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:34+00:00",
+      "laps": 302,
+      "round": 10,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-10-Race": {
+      "ingested_at": "2026-07-04T11:31:37+00:00",
+      "laps": 970,
+      "round": 10,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-10-Sprint": {
+      "ingested_at": "2026-07-04T11:31:35+00:00",
+      "laps": 339,
+      "round": 10,
+      "season": 2021,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2021-11-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:38+00:00",
+      "laps": 253,
+      "round": 11,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-11-Race": {
+      "ingested_at": "2026-07-04T11:31:40+00:00",
+      "laps": 985,
+      "round": 11,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-12-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:41+00:00",
+      "laps": 344,
+      "round": 12,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-12-Race": {
+      "ingested_at": "2026-07-04T11:31:43+00:00",
+      "laps": 60,
+      "round": 12,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-13-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:44+00:00",
+      "laps": 280,
+      "round": 13,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-13-Race": {
+      "ingested_at": "2026-07-04T11:31:46+00:00",
+      "laps": 1361,
+      "round": 13,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-14-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:48+00:00",
+      "laps": 290,
+      "round": 14,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-14-Race": {
+      "ingested_at": "2026-07-04T11:31:51+00:00",
+      "laps": 891,
+      "round": 14,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-14-Sprint": {
+      "ingested_at": "2026-07-04T11:31:49+00:00",
+      "laps": 343,
+      "round": 14,
+      "season": 2021,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2021-15-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:52+00:00",
+      "laps": 361,
+      "round": 15,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-15-Race": {
+      "ingested_at": "2026-07-04T11:31:53+00:00",
+      "laps": 1025,
+      "round": 15,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-16-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:55+00:00",
+      "laps": 395,
+      "round": 16,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-16-Race": {
+      "ingested_at": "2026-07-04T11:31:56+00:00",
+      "laps": 1147,
+      "round": 16,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-17-Qualifying": {
+      "ingested_at": "2026-07-04T11:31:58+00:00",
+      "laps": 249,
+      "round": 17,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-17-Race": {
+      "ingested_at": "2026-07-04T11:32:00+00:00",
+      "laps": 1044,
+      "round": 17,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-18-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:01+00:00",
+      "laps": 311,
+      "round": 18,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-18-Race": {
+      "ingested_at": "2026-07-04T11:32:03+00:00",
+      "laps": 1261,
+      "round": 18,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-19-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:04+00:00",
+      "laps": 323,
+      "round": 19,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-19-Race": {
+      "ingested_at": "2026-07-04T11:32:07+00:00",
+      "laps": 1360,
+      "round": 19,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-19-Sprint": {
+      "ingested_at": "2026-07-04T11:32:05+00:00",
+      "laps": 480,
+      "round": 19,
+      "season": 2021,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2021-20-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:08+00:00",
+      "laps": 310,
+      "round": 20,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-20-Race": {
+      "ingested_at": "2026-07-04T11:32:11+00:00",
+      "laps": 1114,
+      "round": 20,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-21-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:12+00:00",
+      "laps": 359,
+      "round": 21,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-21-Race": {
+      "ingested_at": "2026-07-04T11:32:14+00:00",
+      "laps": 845,
+      "round": 21,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2021-22-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:16+00:00",
+      "laps": 328,
+      "round": 22,
+      "season": 2021,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2021-22-Race": {
+      "ingested_at": "2026-07-04T11:32:18+00:00",
+      "laps": 1000,
+      "round": 22,
+      "season": 2021,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-01-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:19+00:00",
+      "laps": 256,
+      "round": 1,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-01-Race": {
+      "ingested_at": "2026-07-04T11:32:21+00:00",
+      "laps": 1125,
+      "round": 1,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-02-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:22+00:00",
+      "laps": 327,
+      "round": 2,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-02-Race": {
+      "ingested_at": "2026-07-04T11:32:24+00:00",
+      "laps": 820,
+      "round": 2,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-03-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:25+00:00",
+      "laps": 338,
+      "round": 3,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-03-Race": {
+      "ingested_at": "2026-07-04T11:32:27+00:00",
+      "laps": 1045,
+      "round": 3,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-04-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:28+00:00",
+      "laps": 338,
+      "round": 4,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-04-Race": {
+      "ingested_at": "2026-07-04T11:32:32+00:00",
+      "laps": 1132,
+      "round": 4,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-04-Sprint": {
+      "ingested_at": "2026-07-04T11:32:30+00:00",
+      "laps": 400,
+      "round": 4,
+      "season": 2022,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2022-05-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:33+00:00",
+      "laps": 333,
+      "round": 5,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-05-Race": {
+      "ingested_at": "2026-07-04T11:32:35+00:00",
+      "laps": 1057,
+      "round": 5,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-06-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:36+00:00",
+      "laps": 254,
+      "round": 6,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-06-Race": {
+      "ingested_at": "2026-07-04T11:32:38+00:00",
+      "laps": 1230,
+      "round": 6,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-07-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:39+00:00",
+      "laps": 404,
+      "round": 7,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-07-Race": {
+      "ingested_at": "2026-07-04T11:32:41+00:00",
+      "laps": 1179,
+      "round": 7,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-08-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:42+00:00",
+      "laps": 317,
+      "round": 8,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-08-Race": {
+      "ingested_at": "2026-07-04T11:32:44+00:00",
+      "laps": 891,
+      "round": 8,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-09-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:45+00:00",
+      "laps": 432,
+      "round": 9,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-09-Race": {
+      "ingested_at": "2026-07-04T11:32:47+00:00",
+      "laps": 1264,
+      "round": 9,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-10-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:48+00:00",
+      "laps": 392,
+      "round": 10,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-10-Race": {
+      "ingested_at": "2026-07-04T11:32:50+00:00",
+      "laps": 815,
+      "round": 10,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-11-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:51+00:00",
+      "laps": 368,
+      "round": 11,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-11-Race": {
+      "ingested_at": "2026-07-04T11:32:54+00:00",
+      "laps": 1324,
+      "round": 11,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-11-Sprint": {
+      "ingested_at": "2026-07-04T11:32:52+00:00",
+      "laps": 436,
+      "round": 11,
+      "season": 2022,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2022-12-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:56+00:00",
+      "laps": 262,
+      "round": 12,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-12-Race": {
+      "ingested_at": "2026-07-04T11:32:58+00:00",
+      "laps": 958,
+      "round": 12,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-13-Qualifying": {
+      "ingested_at": "2026-07-04T11:32:59+00:00",
+      "laps": 334,
+      "round": 13,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-13-Race": {
+      "ingested_at": "2026-07-04T11:33:01+00:00",
+      "laps": 1383,
+      "round": 13,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-14-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:02+00:00",
+      "laps": 240,
+      "round": 14,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-14-Race": {
+      "ingested_at": "2026-07-04T11:33:04+00:00",
+      "laps": 792,
+      "round": 14,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-15-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:05+00:00",
+      "laps": 279,
+      "round": 15,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-15-Race": {
+      "ingested_at": "2026-07-04T11:33:07+00:00",
+      "laps": 1392,
+      "round": 15,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-16-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:08+00:00",
+      "laps": 260,
+      "round": 16,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-16-Race": {
+      "ingested_at": "2026-07-04T11:33:10+00:00",
+      "laps": 971,
+      "round": 16,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-17-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:11+00:00",
+      "laps": 339,
+      "round": 17,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-17-Race": {
+      "ingested_at": "2026-07-04T11:33:13+00:00",
+      "laps": 945,
+      "round": 17,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-18-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:14+00:00",
+      "laps": 253,
+      "round": 18,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-18-Race": {
+      "ingested_at": "2026-07-04T11:33:16+00:00",
+      "laps": 507,
+      "round": 18,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-19-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:17+00:00",
+      "laps": 258,
+      "round": 19,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-19-Race": {
+      "ingested_at": "2026-07-04T11:33:19+00:00",
+      "laps": 992,
+      "round": 19,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-20-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:20+00:00",
+      "laps": 298,
+      "round": 20,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-20-Race": {
+      "ingested_at": "2026-07-04T11:33:22+00:00",
+      "laps": 1379,
+      "round": 20,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-21-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:23+00:00",
+      "laps": 416,
+      "round": 21,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-21-Race": {
+      "ingested_at": "2026-07-04T11:33:26+00:00",
+      "laps": 1259,
+      "round": 21,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2022-21-Sprint": {
+      "ingested_at": "2026-07-04T11:33:24+00:00",
+      "laps": 469,
+      "round": 21,
+      "season": 2022,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2022-22-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:27+00:00",
+      "laps": 287,
+      "round": 22,
+      "season": 2022,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2022-22-Race": {
+      "ingested_at": "2026-07-04T11:33:29+00:00",
+      "laps": 1117,
+      "round": 22,
+      "season": 2022,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-01-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:30+00:00",
+      "laps": 254,
+      "round": 1,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-01-Race": {
+      "ingested_at": "2026-07-04T11:33:32+00:00",
+      "laps": 1056,
+      "round": 1,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-02-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:33+00:00",
+      "laps": 329,
+      "round": 2,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-02-Race": {
+      "ingested_at": "2026-07-04T11:33:35+00:00",
+      "laps": 943,
+      "round": 2,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-03-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:36+00:00",
+      "laps": 419,
+      "round": 3,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-03-Race": {
+      "ingested_at": "2026-07-04T11:33:38+00:00",
+      "laps": 1003,
+      "round": 3,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-04-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:39+00:00",
+      "laps": 356,
+      "round": 4,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-04-Race": {
+      "ingested_at": "2026-07-04T11:33:43+00:00",
+      "laps": 962,
+      "round": 4,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-04-Sprint": {
+      "ingested_at": "2026-07-04T11:33:41+00:00",
+      "laps": 308,
+      "round": 4,
+      "season": 2023,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2023-04-Sprint Shootout": {
+      "ingested_at": "2026-07-04T11:33:40+00:00",
+      "laps": 233,
+      "round": 4,
+      "season": 2023,
+      "session": "Sprint Shootout",
+      "status": "ok"
+    },
+    "2023-05-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:44+00:00",
+      "laps": 304,
+      "round": 5,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-05-Race": {
+      "ingested_at": "2026-07-04T11:33:46+00:00",
+      "laps": 1138,
+      "round": 5,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-06-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:47+00:00",
+      "laps": 420,
+      "round": 6,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-06-Race": {
+      "ingested_at": "2026-07-04T11:33:49+00:00",
+      "laps": 1515,
+      "round": 6,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-07-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:50+00:00",
+      "laps": 337,
+      "round": 7,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-07-Race": {
+      "ingested_at": "2026-07-04T11:33:52+00:00",
+      "laps": 1312,
+      "round": 7,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-08-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:53+00:00",
+      "laps": 421,
+      "round": 8,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-08-Race": {
+      "ingested_at": "2026-07-04T11:33:55+00:00",
+      "laps": 1317,
+      "round": 8,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-09-Qualifying": {
+      "ingested_at": "2026-07-04T11:33:56+00:00",
+      "laps": 377,
+      "round": 9,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-09-Race": {
+      "ingested_at": "2026-07-04T11:34:00+00:00",
+      "laps": 1354,
+      "round": 9,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-09-Sprint": {
+      "ingested_at": "2026-07-04T11:33:58+00:00",
+      "laps": 480,
+      "round": 9,
+      "season": 2023,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2023-09-Sprint Shootout": {
+      "ingested_at": "2026-07-04T11:33:57+00:00",
+      "laps": 355,
+      "round": 9,
+      "season": 2023,
+      "session": "Sprint Shootout",
+      "status": "ok"
+    },
+    "2023-10-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:01+00:00",
+      "laps": 386,
+      "round": 10,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-10-Race": {
+      "ingested_at": "2026-07-04T11:34:03+00:00",
+      "laps": 971,
+      "round": 10,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-11-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:04+00:00",
+      "laps": 330,
+      "round": 11,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-11-Race": {
+      "ingested_at": "2026-07-04T11:34:06+00:00",
+      "laps": 1252,
+      "round": 11,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-12-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:07+00:00",
+      "laps": 341,
+      "round": 12,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-12-Race": {
+      "ingested_at": "2026-07-04T11:34:11+00:00",
+      "laps": 816,
+      "round": 12,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-12-Sprint": {
+      "ingested_at": "2026-07-04T11:34:09+00:00",
+      "laps": 209,
+      "round": 12,
+      "season": 2023,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2023-12-Sprint Shootout": {
+      "ingested_at": "2026-07-04T11:34:08+00:00",
+      "laps": 218,
+      "round": 12,
+      "season": 2023,
+      "session": "Sprint Shootout",
+      "status": "ok"
+    },
+    "2023-13-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:12+00:00",
+      "laps": 472,
+      "round": 13,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-13-Race": {
+      "ingested_at": "2026-07-04T11:34:14+00:00",
+      "laps": 1343,
+      "round": 13,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-14-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:16+00:00",
+      "laps": 327,
+      "round": 14,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-14-Race": {
+      "ingested_at": "2026-07-04T11:34:17+00:00",
+      "laps": 957,
+      "round": 14,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-15-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:19+00:00",
+      "laps": 297,
+      "round": 15,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-15-Race": {
+      "ingested_at": "2026-07-04T11:34:20+00:00",
+      "laps": 1088,
+      "round": 15,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-16-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:21+00:00",
+      "laps": 237,
+      "round": 16,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-16-Race": {
+      "ingested_at": "2026-07-04T11:34:24+00:00",
+      "laps": 880,
+      "round": 16,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-17-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:26+00:00",
+      "laps": 344,
+      "round": 17,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-17-Race": {
+      "ingested_at": "2026-07-04T11:34:29+00:00",
+      "laps": 1006,
+      "round": 17,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-17-Sprint": {
+      "ingested_at": "2026-07-04T11:34:27+00:00",
+      "laps": 322,
+      "round": 17,
+      "season": 2023,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2023-17-Sprint Shootout": {
+      "ingested_at": "2026-07-04T11:34:26+00:00",
+      "laps": 252,
+      "round": 17,
+      "season": 2023,
+      "session": "Sprint Shootout",
+      "status": "ok"
+    },
+    "2023-18-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:30+00:00",
+      "laps": 293,
+      "round": 18,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-18-Race": {
+      "ingested_at": "2026-07-04T11:34:34+00:00",
+      "laps": 1014,
+      "round": 18,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-18-Sprint": {
+      "ingested_at": "2026-07-04T11:34:32+00:00",
+      "laps": 377,
+      "round": 18,
+      "season": 2023,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2023-18-Sprint Shootout": {
+      "ingested_at": "2026-07-04T11:34:31+00:00",
+      "laps": 209,
+      "round": 18,
+      "season": 2023,
+      "session": "Sprint Shootout",
+      "status": "ok"
+    },
+    "2023-19-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:35+00:00",
+      "laps": 267,
+      "round": 19,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-19-Race": {
+      "ingested_at": "2026-07-04T11:34:38+00:00",
+      "laps": 1282,
+      "round": 19,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-20-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:39+00:00",
+      "laps": 293,
+      "round": 20,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-20-Race": {
+      "ingested_at": "2026-07-04T11:34:43+00:00",
+      "laps": 1108,
+      "round": 20,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-20-Sprint": {
+      "ingested_at": "2026-07-04T11:34:41+00:00",
+      "laps": 480,
+      "round": 20,
+      "season": 2023,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2023-20-Sprint Shootout": {
+      "ingested_at": "2026-07-04T11:34:40+00:00",
+      "laps": 209,
+      "round": 20,
+      "season": 2023,
+      "session": "Sprint Shootout",
+      "status": "ok"
+    },
+    "2023-21-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:45+00:00",
+      "laps": 352,
+      "round": 21,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-21-Race": {
+      "ingested_at": "2026-07-04T11:34:46+00:00",
+      "laps": 946,
+      "round": 21,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2023-22-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:47+00:00",
+      "laps": 263,
+      "round": 22,
+      "season": 2023,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2023-22-Race": {
+      "ingested_at": "2026-07-04T11:34:49+00:00",
+      "laps": 1157,
+      "round": 22,
+      "season": 2023,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-01-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:51+00:00",
+      "laps": 267,
+      "round": 1,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-01-Race": {
+      "ingested_at": "2026-07-04T11:34:52+00:00",
+      "laps": 1129,
+      "round": 1,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-02-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:53+00:00",
+      "laps": 316,
+      "round": 2,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-02-Race": {
+      "ingested_at": "2026-07-04T11:34:55+00:00",
+      "laps": 901,
+      "round": 2,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-03-Qualifying": {
+      "ingested_at": "2026-07-04T11:34:56+00:00",
+      "laps": 310,
+      "round": 3,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-03-Race": {
+      "ingested_at": "2026-07-04T11:34:59+00:00",
+      "laps": 998,
+      "round": 3,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-04-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:00+00:00",
+      "laps": 223,
+      "round": 4,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-04-Race": {
+      "ingested_at": "2026-07-04T11:35:02+00:00",
+      "laps": 907,
+      "round": 4,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-05-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:05+00:00",
+      "laps": 279,
+      "round": 5,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-05-Race": {
+      "ingested_at": "2026-07-04T11:35:06+00:00",
+      "laps": 1032,
+      "round": 5,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-05-Sprint": {
+      "ingested_at": "2026-07-04T11:35:03+00:00",
+      "laps": 378,
+      "round": 5,
+      "season": 2024,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2024-05-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:35:02+00:00",
+      "laps": 218,
+      "round": 5,
+      "season": 2024,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2024-06-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:09+00:00",
+      "laps": 318,
+      "round": 6,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-06-Race": {
+      "ingested_at": "2026-07-04T11:35:12+00:00",
+      "laps": 1111,
+      "round": 6,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-06-Sprint": {
+      "ingested_at": "2026-07-04T11:35:08+00:00",
+      "laps": 344,
+      "round": 6,
+      "season": 2024,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2024-06-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:35:07+00:00",
+      "laps": 230,
+      "round": 6,
+      "season": 2024,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2024-07-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:13+00:00",
+      "laps": 286,
+      "round": 7,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-07-Race": {
+      "ingested_at": "2026-07-04T11:35:15+00:00",
+      "laps": 1238,
+      "round": 7,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-08-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:16+00:00",
+      "laps": 426,
+      "round": 8,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-08-Race": {
+      "ingested_at": "2026-07-04T11:35:19+00:00",
+      "laps": 1237,
+      "round": 8,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-09-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:21+00:00",
+      "laps": 408,
+      "round": 9,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-09-Race": {
+      "ingested_at": "2026-07-04T11:35:24+00:00",
+      "laps": 1272,
+      "round": 9,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-10-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:25+00:00",
+      "laps": 257,
+      "round": 10,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-10-Race": {
+      "ingested_at": "2026-07-04T11:35:28+00:00",
+      "laps": 1310,
+      "round": 10,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-11-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:31+00:00",
+      "laps": 320,
+      "round": 11,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-11-Race": {
+      "ingested_at": "2026-07-04T11:35:33+00:00",
+      "laps": 1405,
+      "round": 11,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-11-Sprint": {
+      "ingested_at": "2026-07-04T11:35:30+00:00",
+      "laps": 460,
+      "round": 11,
+      "season": 2024,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2024-11-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:35:29+00:00",
+      "laps": 195,
+      "round": 11,
+      "season": 2024,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2024-12-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:34+00:00",
+      "laps": 368,
+      "round": 12,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-12-Race": {
+      "ingested_at": "2026-07-04T11:35:36+00:00",
+      "laps": 960,
+      "round": 12,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-13-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:38+00:00",
+      "laps": 334,
+      "round": 13,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-13-Race": {
+      "ingested_at": "2026-07-04T11:35:40+00:00",
+      "laps": 1355,
+      "round": 13,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-14-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:41+00:00",
+      "laps": 348,
+      "round": 14,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-14-Race": {
+      "ingested_at": "2026-07-04T11:35:43+00:00",
+      "laps": 841,
+      "round": 14,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-15-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:44+00:00",
+      "laps": 290,
+      "round": 15,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-15-Race": {
+      "ingested_at": "2026-07-04T11:35:46+00:00",
+      "laps": 1426,
+      "round": 15,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-16-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:47+00:00",
+      "laps": 276,
+      "round": 16,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-16-Race": {
+      "ingested_at": "2026-07-04T11:35:49+00:00",
+      "laps": 1008,
+      "round": 16,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-17-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:50+00:00",
+      "laps": 311,
+      "round": 17,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-17-Race": {
+      "ingested_at": "2026-07-04T11:35:52+00:00",
+      "laps": 973,
+      "round": 17,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-18-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:54+00:00",
+      "laps": 276,
+      "round": 18,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-18-Race": {
+      "ingested_at": "2026-07-04T11:35:55+00:00",
+      "laps": 1177,
+      "round": 18,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-19-Qualifying": {
+      "ingested_at": "2026-07-04T11:35:59+00:00",
+      "laps": 281,
+      "round": 19,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-19-Race": {
+      "ingested_at": "2026-07-04T11:36:01+00:00",
+      "laps": 1059,
+      "round": 19,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-19-Sprint": {
+      "ingested_at": "2026-07-04T11:35:57+00:00",
+      "laps": 380,
+      "round": 19,
+      "season": 2024,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2024-19-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:35:56+00:00",
+      "laps": 206,
+      "round": 19,
+      "season": 2024,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2024-20-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:02+00:00",
+      "laps": 289,
+      "round": 20,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-20-Race": {
+      "ingested_at": "2026-07-04T11:36:04+00:00",
+      "laps": 1215,
+      "round": 20,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-21-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:07+00:00",
+      "laps": 425,
+      "round": 21,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-21-Race": {
+      "ingested_at": "2026-07-04T11:36:09+00:00",
+      "laps": 1134,
+      "round": 21,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-21-Sprint": {
+      "ingested_at": "2026-07-04T11:36:05+00:00",
+      "laps": 476,
+      "round": 21,
+      "season": 2024,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2024-21-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:36:04+00:00",
+      "laps": 221,
+      "round": 21,
+      "season": 2024,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2024-22-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:11+00:00",
+      "laps": 347,
+      "round": 22,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-22-Race": {
+      "ingested_at": "2026-07-04T11:36:13+00:00",
+      "laps": 938,
+      "round": 22,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-23-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:17+00:00",
+      "laps": 374,
+      "round": 23,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-23-Race": {
+      "ingested_at": "2026-07-04T11:36:19+00:00",
+      "laps": 943,
+      "round": 23,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2024-23-Sprint": {
+      "ingested_at": "2026-07-04T11:36:16+00:00",
+      "laps": 380,
+      "round": 23,
+      "season": 2024,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2024-23-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:36:13+00:00",
+      "laps": 283,
+      "round": 23,
+      "season": 2024,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2024-24-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:20+00:00",
+      "laps": 261,
+      "round": 24,
+      "season": 2024,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2024-24-Race": {
+      "ingested_at": "2026-07-04T11:36:22+00:00",
+      "laps": 1035,
+      "round": 24,
+      "season": 2024,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-01-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:24+00:00",
+      "laps": 297,
+      "round": 1,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-01-Race": {
+      "ingested_at": "2026-07-04T11:36:26+00:00",
+      "laps": 927,
+      "round": 1,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-02-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:30+00:00",
+      "laps": 314,
+      "round": 2,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-02-Race": {
+      "ingested_at": "2026-07-04T11:36:31+00:00",
+      "laps": 1065,
+      "round": 2,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-02-Sprint": {
+      "ingested_at": "2026-07-04T11:36:28+00:00",
+      "laps": 380,
+      "round": 2,
+      "season": 2025,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2025-02-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:36:26+00:00",
+      "laps": 217,
+      "round": 2,
+      "season": 2025,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2025-03-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:33+00:00",
+      "laps": 292,
+      "round": 3,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-03-Race": {
+      "ingested_at": "2026-07-04T11:36:35+00:00",
+      "laps": 1059,
+      "round": 3,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-04-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:36+00:00",
+      "laps": 277,
+      "round": 4,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-04-Race": {
+      "ingested_at": "2026-07-04T11:36:37+00:00",
+      "laps": 1128,
+      "round": 4,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-05-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:38+00:00",
+      "laps": 289,
+      "round": 5,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-05-Race": {
+      "ingested_at": "2026-07-04T11:36:40+00:00",
+      "laps": 898,
+      "round": 5,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-06-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:43+00:00",
+      "laps": 314,
+      "round": 6,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-06-Race": {
+      "ingested_at": "2026-07-04T11:36:45+00:00",
+      "laps": 1005,
+      "round": 6,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-06-Sprint": {
+      "ingested_at": "2026-07-04T11:36:42+00:00",
+      "laps": 331,
+      "round": 6,
+      "season": 2025,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2025-06-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:36:41+00:00",
+      "laps": 213,
+      "round": 6,
+      "season": 2025,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2025-07-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:46+00:00",
+      "laps": 281,
+      "round": 7,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-07-Race": {
+      "ingested_at": "2026-07-04T11:36:48+00:00",
+      "laps": 1207,
+      "round": 7,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-08-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:50+00:00",
+      "laps": 433,
+      "round": 8,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-08-Race": {
+      "ingested_at": "2026-07-04T11:36:51+00:00",
+      "laps": 1425,
+      "round": 8,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-09-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:52+00:00",
+      "laps": 247,
+      "round": 9,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-09-Race": {
+      "ingested_at": "2026-07-04T11:36:53+00:00",
+      "laps": 1203,
+      "round": 9,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-10-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:54+00:00",
+      "laps": 390,
+      "round": 10,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-10-Race": {
+      "ingested_at": "2026-07-04T11:36:55+00:00",
+      "laps": 1349,
+      "round": 10,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-11-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:55+00:00",
+      "laps": 310,
+      "round": 11,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-11-Race": {
+      "ingested_at": "2026-07-04T11:36:56+00:00",
+      "laps": 1126,
+      "round": 11,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-12-Qualifying": {
+      "ingested_at": "2026-07-04T11:36:57+00:00",
+      "laps": 291,
+      "round": 12,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-12-Race": {
+      "ingested_at": "2026-07-04T11:36:58+00:00",
+      "laps": 825,
+      "round": 12,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-13-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:00+00:00",
+      "laps": 292,
+      "round": 13,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-13-Race": {
+      "ingested_at": "2026-07-04T11:37:01+00:00",
+      "laps": 879,
+      "round": 13,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-13-Sprint": {
+      "ingested_at": "2026-07-04T11:36:59+00:00",
+      "laps": 297,
+      "round": 13,
+      "season": 2025,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2025-13-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:36:58+00:00",
+      "laps": 185,
+      "round": 13,
+      "season": 2025,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2025-14-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:02+00:00",
+      "laps": 264,
+      "round": 14,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-14-Race": {
+      "ingested_at": "2026-07-04T11:37:03+00:00",
+      "laps": 1368,
+      "round": 14,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-15-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:03+00:00",
+      "laps": 290,
+      "round": 15,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-15-Race": {
+      "ingested_at": "2026-07-04T11:37:04+00:00",
+      "laps": 1364,
+      "round": 15,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-16-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:05+00:00",
+      "laps": 315,
+      "round": 16,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-16-Race": {
+      "ingested_at": "2026-07-04T11:37:06+00:00",
+      "laps": 974,
+      "round": 16,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-17-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:07+00:00",
+      "laps": 335,
+      "round": 17,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-17-Race": {
+      "ingested_at": "2026-07-04T11:37:08+00:00",
+      "laps": 968,
+      "round": 17,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-18-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:08+00:00",
+      "laps": 298,
+      "round": 18,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-18-Race": {
+      "ingested_at": "2026-07-04T11:37:09+00:00",
+      "laps": 1229,
+      "round": 18,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-19-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:11+00:00",
+      "laps": 285,
+      "round": 19,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-19-Race": {
+      "ingested_at": "2026-07-04T11:37:12+00:00",
+      "laps": 1067,
+      "round": 19,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-19-Sprint": {
+      "ingested_at": "2026-07-04T11:37:11+00:00",
+      "laps": 320,
+      "round": 19,
+      "season": 2025,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2025-19-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:37:10+00:00",
+      "laps": 204,
+      "round": 19,
+      "season": 2025,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2025-20-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:13+00:00",
+      "laps": 307,
+      "round": 20,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-20-Race": {
+      "ingested_at": "2026-07-04T11:37:14+00:00",
+      "laps": 1263,
+      "round": 20,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-21-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:16+00:00",
+      "laps": 316,
+      "round": 21,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-21-Race": {
+      "ingested_at": "2026-07-04T11:37:17+00:00",
+      "laps": 1251,
+      "round": 21,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-21-Sprint": {
+      "ingested_at": "2026-07-04T11:37:15+00:00",
+      "laps": 444,
+      "round": 21,
+      "season": 2025,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2025-21-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:37:14+00:00",
+      "laps": 253,
+      "round": 21,
+      "season": 2025,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2025-22-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:17+00:00",
+      "laps": 375,
+      "round": 22,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-22-Race": {
+      "ingested_at": "2026-07-04T11:37:18+00:00",
+      "laps": 886,
+      "round": 22,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-23-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:20+00:00",
+      "laps": 358,
+      "round": 23,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-23-Race": {
+      "ingested_at": "2026-07-04T11:37:21+00:00",
+      "laps": 1067,
+      "round": 23,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2025-23-Sprint": {
+      "ingested_at": "2026-07-04T11:37:20+00:00",
+      "laps": 380,
+      "round": 23,
+      "season": 2025,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2025-23-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:37:19+00:00",
+      "laps": 297,
+      "round": 23,
+      "season": 2025,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2025-24-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:22+00:00",
+      "laps": 286,
+      "round": 24,
+      "season": 2025,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2025-24-Race": {
+      "ingested_at": "2026-07-04T11:37:23+00:00",
+      "laps": 1156,
+      "round": 24,
+      "season": 2025,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2026-01-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:24+00:00",
+      "laps": 353,
+      "round": 1,
+      "season": 2026,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2026-01-Race": {
+      "ingested_at": "2026-07-04T11:37:26+00:00",
+      "laps": 1006,
+      "round": 1,
+      "season": 2026,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2026-02-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:28+00:00",
+      "laps": 325,
+      "round": 2,
+      "season": 2026,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2026-02-Race": {
+      "ingested_at": "2026-07-04T11:37:28+00:00",
+      "laps": 920,
+      "round": 2,
+      "season": 2026,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2026-02-Sprint": {
+      "ingested_at": "2026-07-04T11:37:27+00:00",
+      "laps": 397,
+      "round": 2,
+      "season": 2026,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2026-02-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:37:26+00:00",
+      "laps": 257,
+      "round": 2,
+      "season": 2026,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2026-03-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:29+00:00",
+      "laps": 324,
+      "round": 3,
+      "season": 2026,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2026-03-Race": {
+      "ingested_at": "2026-07-04T11:37:30+00:00",
+      "laps": 1107,
+      "round": 3,
+      "season": 2026,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2026-04-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:32+00:00",
+      "laps": 324,
+      "round": 4,
+      "season": 2026,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2026-04-Race": {
+      "ingested_at": "2026-07-04T11:37:32+00:00",
+      "laps": 1040,
+      "round": 4,
+      "season": 2026,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2026-04-Sprint": {
+      "ingested_at": "2026-07-04T11:37:31+00:00",
+      "laps": 380,
+      "round": 4,
+      "season": 2026,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2026-04-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:37:30+00:00",
+      "laps": 237,
+      "round": 4,
+      "season": 2026,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2026-05-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:34+00:00",
+      "laps": 456,
+      "round": 5,
+      "season": 2026,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2026-05-Race": {
+      "ingested_at": "2026-07-04T11:37:35+00:00",
+      "laps": 1211,
+      "round": 5,
+      "season": 2026,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2026-05-Sprint": {
+      "ingested_at": "2026-07-04T11:37:34+00:00",
+      "laps": 491,
+      "round": 5,
+      "season": 2026,
+      "session": "Sprint",
+      "status": "ok"
+    },
+    "2026-05-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:37:33+00:00",
+      "laps": 300,
+      "round": 5,
+      "season": 2026,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    },
+    "2026-06-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:36+00:00",
+      "laps": 484,
+      "round": 6,
+      "season": 2026,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2026-06-Race": {
+      "ingested_at": "2026-07-04T11:37:37+00:00",
+      "laps": 1452,
+      "round": 6,
+      "season": 2026,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2026-07-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:38+00:00",
+      "laps": 255,
+      "round": 7,
+      "season": 2026,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2026-07-Race": {
+      "ingested_at": "2026-07-04T11:37:39+00:00",
+      "laps": 1236,
+      "round": 7,
+      "season": 2026,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2026-08-Qualifying": {
+      "ingested_at": "2026-07-04T11:37:39+00:00",
+      "laps": 289,
+      "round": 8,
+      "season": 2026,
+      "session": "Qualifying",
+      "status": "ok"
+    },
+    "2026-08-Race": {
+      "ingested_at": "2026-07-04T11:37:40+00:00",
+      "laps": 1339,
+      "round": 8,
+      "season": 2026,
+      "session": "Race",
+      "status": "ok"
+    },
+    "2026-09-Sprint Qualifying": {
+      "ingested_at": "2026-07-04T11:37:41+00:00",
+      "laps": 236,
+      "round": 9,
+      "season": 2026,
+      "session": "Sprint Qualifying",
+      "status": "ok"
+    }
+  },
+  "updated_at": "2026-07-04T11:37:41+00:00"
+}

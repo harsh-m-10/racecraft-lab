@@ -1,0 +1,60 @@
+{
+  "driver": "Esteban Ocon",
+  "slug": "esteban-ocon",
+  "is_active": true,
+  "power_score": 44.05,
+  "delta_score": 47.62,
+  "chaos_index": 42.43,
+  "sunday_edge": 46.82,
+  "total_races": 159,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": -2.39,
+      "overperformance_norm": 36.92,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": -0.825,
+      "overperformance_norm": 44.44,
+      "races": 17
+    },
+    {
+      "season": 2021,
+      "overperformance": -0.605,
+      "overperformance_norm": 44.9,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": 3.189,
+      "overperformance_norm": 73.14,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": -2.045,
+      "overperformance_norm": 35.5,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": -0.859,
+      "overperformance_norm": 45.09,
+      "races": 23
+    },
+    {
+      "season": 2025,
+      "overperformance": -0.919,
+      "overperformance_norm": 43.64,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": 1.463,
+      "overperformance_norm": 57.32,
+      "races": 8
+    }
+  ]
+}

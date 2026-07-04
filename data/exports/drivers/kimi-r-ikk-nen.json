@@ -1,0 +1,36 @@
+{
+  "driver": "Kimi R\u00e4ikk\u00f6nen",
+  "slug": "kimi-r-ikk-nen",
+  "is_active": false,
+  "power_score": 52.65,
+  "delta_score": 53.91,
+  "chaos_index": 46.89,
+  "sunday_edge": 55.02,
+  "total_races": 79,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": -1.14,
+      "overperformance_norm": 43.76,
+      "races": 21
+    },
+    {
+      "season": 2019,
+      "overperformance": 1.048,
+      "overperformance_norm": 58.09,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": 1.503,
+      "overperformance_norm": 56.39,
+      "races": 17
+    },
+    {
+      "season": 2021,
+      "overperformance": 1.037,
+      "overperformance_norm": 57.39,
+      "races": 20
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "driver": "Franco Colapinto",
+  "slug": "franco-colapinto",
+  "is_active": true,
+  "power_score": 48.14,
+  "delta_score": 54.33,
+  "chaos_index": 42.28,
+  "sunday_edge": 44.84,
+  "total_races": 35,
+  "seasons": [
+    {
+      "season": 2024,
+      "overperformance": 5.285,
+      "overperformance_norm": 68.74,
+      "races": 9
+    },
+    {
+      "season": 2025,
+      "overperformance": -0.601,
+      "overperformance_norm": 45.71,
+      "races": 18
+    },
+    {
+      "season": 2026,
+      "overperformance": -0.291,
+      "overperformance_norm": 48.54,
+      "races": 8
+    }
+  ]
+}

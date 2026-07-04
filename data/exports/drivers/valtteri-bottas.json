@@ -1,0 +1,60 @@
+{
+  "driver": "Valtteri Bottas",
+  "slug": "valtteri-bottas",
+  "is_active": true,
+  "power_score": 40.52,
+  "delta_score": 43.74,
+  "chaos_index": 47.95,
+  "sunday_edge": 35.69,
+  "total_races": 157,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": -0.532,
+      "overperformance_norm": 47.09,
+      "races": 21
+    },
+    {
+      "season": 2019,
+      "overperformance": -0.206,
+      "overperformance_norm": 48.41,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": -1.499,
+      "overperformance_norm": 40.98,
+      "races": 17
+    },
+    {
+      "season": 2021,
+      "overperformance": -1.015,
+      "overperformance_norm": 41.78,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": -0.644,
+      "overperformance_norm": 45.79,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": -0.874,
+      "overperformance_norm": 44.12,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": -2.371,
+      "overperformance_norm": 39.28,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": -1.497,
+      "overperformance_norm": 42.5,
+      "races": 8
+    }
+  ]
+}

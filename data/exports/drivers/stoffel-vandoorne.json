@@ -1,0 +1,18 @@
+{
+  "driver": "Stoffel Vandoorne",
+  "slug": "stoffel-vandoorne",
+  "is_active": false,
+  "power_score": 75.99,
+  "delta_score": 67.42,
+  "chaos_index": 69.99,
+  "sunday_edge": 69.64,
+  "total_races": 21,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": 3.183,
+      "overperformance_norm": 67.42,
+      "races": 21
+    }
+  ]
+}

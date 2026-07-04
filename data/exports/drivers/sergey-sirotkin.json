@@ -1,0 +1,18 @@
+{
+  "driver": "Sergey Sirotkin",
+  "slug": "sergey-sirotkin",
+  "is_active": false,
+  "power_score": 47.25,
+  "delta_score": 45.3,
+  "chaos_index": 42.35,
+  "sunday_edge": 64.13,
+  "total_races": 21,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": -0.858,
+      "overperformance_norm": 45.3,
+      "races": 21
+    }
+  ]
+}

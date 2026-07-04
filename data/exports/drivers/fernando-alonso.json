@@ -1,0 +1,54 @@
+{
+  "driver": "Fernando Alonso",
+  "slug": "fernando-alonso",
+  "is_active": true,
+  "power_score": 39.51,
+  "delta_score": 43.06,
+  "chaos_index": 41.58,
+  "sunday_edge": 43.38,
+  "total_races": 143,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": -3.183,
+      "overperformance_norm": 32.58,
+      "races": 21
+    },
+    {
+      "season": 2021,
+      "overperformance": 0.605,
+      "overperformance_norm": 54.1,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": -3.189,
+      "overperformance_norm": 27.64,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": -0.81,
+      "overperformance_norm": 44.59,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": 1.249,
+      "overperformance_norm": 53.21,
+      "races": 24
+    },
+    {
+      "season": 2025,
+      "overperformance": -1.858,
+      "overperformance_norm": 37.55,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": 0.347,
+      "overperformance_norm": 51.74,
+      "races": 8
+    }
+  ]
+}

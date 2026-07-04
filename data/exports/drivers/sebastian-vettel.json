@@ -1,0 +1,42 @@
+{
+  "driver": "Sebastian Vettel",
+  "slug": "sebastian-vettel",
+  "is_active": false,
+  "power_score": 49.74,
+  "delta_score": 49.68,
+  "chaos_index": 51.6,
+  "sunday_edge": 48.18,
+  "total_races": 101,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": 1.14,
+      "overperformance_norm": 56.24,
+      "races": 21
+    },
+    {
+      "season": 2019,
+      "overperformance": 0.444,
+      "overperformance_norm": 53.43,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": 1.949,
+      "overperformance_norm": 58.68,
+      "races": 17
+    },
+    {
+      "season": 2021,
+      "overperformance": -1.291,
+      "overperformance_norm": 39.68,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": -1.403,
+      "overperformance_norm": 40.38,
+      "races": 20
+    }
+  ]
+}

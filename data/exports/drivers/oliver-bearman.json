@@ -1,0 +1,30 @@
+{
+  "driver": "Oliver Bearman",
+  "slug": "oliver-bearman",
+  "is_active": true,
+  "power_score": 59.01,
+  "delta_score": 57.09,
+  "chaos_index": 60.52,
+  "sunday_edge": 49.26,
+  "total_races": 35,
+  "seasons": [
+    {
+      "season": 2024,
+      "overperformance": 6.397,
+      "overperformance_norm": 73.02,
+      "races": 3
+    },
+    {
+      "season": 2025,
+      "overperformance": 0.919,
+      "overperformance_norm": 55.57,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": -1.462,
+      "overperformance_norm": 42.68,
+      "races": 8
+    }
+  ]
+}

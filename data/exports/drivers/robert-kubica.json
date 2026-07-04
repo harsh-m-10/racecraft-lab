@@ -1,0 +1,24 @@
+{
+  "driver": "Robert Kubica",
+  "slug": "robert-kubica",
+  "is_active": false,
+  "power_score": 60.34,
+  "delta_score": 55.09,
+  "chaos_index": 53.18,
+  "sunday_edge": 70.0,
+  "total_races": 23,
+  "seasons": [
+    {
+      "season": 2019,
+      "overperformance": -0.002,
+      "overperformance_norm": 49.98,
+      "races": 21
+    },
+    {
+      "season": 2021,
+      "overperformance": 1.407,
+      "overperformance_norm": 60.2,
+      "races": 2
+    }
+  ]
+}

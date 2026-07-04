@@ -1,0 +1,18 @@
+{
+  "driver": "Jack Aitken",
+  "slug": "jack-aitken",
+  "is_active": false,
+  "power_score": 52.56,
+  "delta_score": 53.92,
+  "chaos_index": 50.0,
+  "sunday_edge": 50.0,
+  "total_races": 1,
+  "seasons": [
+    {
+      "season": 2020,
+      "overperformance": 1.022,
+      "overperformance_norm": 53.92,
+      "races": 1
+    }
+  ]
+}

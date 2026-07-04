@@ -1,0 +1,54 @@
+{
+  "driver": "Alexander Albon",
+  "slug": "alexander-albon",
+  "is_active": true,
+  "power_score": 54.0,
+  "delta_score": 55.64,
+  "chaos_index": 52.77,
+  "sunday_edge": 46.68,
+  "total_races": 137,
+  "seasons": [
+    {
+      "season": 2019,
+      "overperformance": 1.941,
+      "overperformance_norm": 64.99,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": 2.287,
+      "overperformance_norm": 60.42,
+      "races": 17
+    },
+    {
+      "season": 2022,
+      "overperformance": 0.44,
+      "overperformance_norm": 53.53,
+      "races": 21
+    },
+    {
+      "season": 2023,
+      "overperformance": 0.069,
+      "overperformance_norm": 51.07,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": -2.519,
+      "overperformance_norm": 38.71,
+      "races": 24
+    },
+    {
+      "season": 2025,
+      "overperformance": 2.333,
+      "overperformance_norm": 64.75,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": 1.206,
+      "overperformance_norm": 56.04,
+      "races": 8
+    }
+  ]
+}

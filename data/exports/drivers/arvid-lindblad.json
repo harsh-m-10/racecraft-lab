@@ -1,0 +1,18 @@
+{
+  "driver": "Arvid Lindblad",
+  "slug": "arvid-lindblad",
+  "is_active": true,
+  "power_score": 43.42,
+  "delta_score": 41.45,
+  "chaos_index": 49.1,
+  "sunday_edge": 50.0,
+  "total_races": 8,
+  "seasons": [
+    {
+      "season": 2026,
+      "overperformance": -1.706,
+      "overperformance_norm": 41.45,
+      "races": 8
+    }
+  ]
+}

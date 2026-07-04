@@ -1,0 +1,60 @@
+{
+  "driver": "Nico Hulkenberg",
+  "slug": "nico-hulkenberg",
+  "is_active": true,
+  "power_score": 50.07,
+  "delta_score": 52.98,
+  "chaos_index": 50.98,
+  "sunday_edge": 42.04,
+  "total_races": 125,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": -1.129,
+      "overperformance_norm": 43.82,
+      "races": 21
+    },
+    {
+      "season": 2019,
+      "overperformance": 1.157,
+      "overperformance_norm": 58.94,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": 3.949,
+      "overperformance_norm": 68.95,
+      "races": 3
+    },
+    {
+      "season": 2022,
+      "overperformance": 0.777,
+      "overperformance_norm": 55.94,
+      "races": 2
+    },
+    {
+      "season": 2023,
+      "overperformance": -0.685,
+      "overperformance_norm": 45.51,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": -1.26,
+      "overperformance_norm": 43.55,
+      "races": 24
+    },
+    {
+      "season": 2025,
+      "overperformance": 2.222,
+      "overperformance_norm": 64.02,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": -1.375,
+      "overperformance_norm": 43.11,
+      "races": 8
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "driver": "Daniel Ricciardo",
+  "slug": "daniel-ricciardo",
+  "is_active": false,
+  "power_score": 44.59,
+  "delta_score": 47.37,
+  "chaos_index": 46.32,
+  "sunday_edge": 43.54,
+  "total_races": 128,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": -1.806,
+      "overperformance_norm": 40.12,
+      "races": 21
+    },
+    {
+      "season": 2019,
+      "overperformance": -1.157,
+      "overperformance_norm": 41.06,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": 0.825,
+      "overperformance_norm": 52.91,
+      "races": 17
+    },
+    {
+      "season": 2021,
+      "overperformance": 1.017,
+      "overperformance_norm": 57.24,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": -0.338,
+      "overperformance_norm": 47.98,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": -0.872,
+      "overperformance_norm": 44.14,
+      "races": 7
+    },
+    {
+      "season": 2024,
+      "overperformance": -0.067,
+      "overperformance_norm": 48.15,
+      "races": 18
+    }
+  ]
+}

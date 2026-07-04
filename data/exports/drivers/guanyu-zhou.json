@@ -1,0 +1,30 @@
+{
+  "driver": "Guanyu Zhou",
+  "slug": "guanyu-zhou",
+  "is_active": false,
+  "power_score": 55.86,
+  "delta_score": 56.5,
+  "chaos_index": 50.53,
+  "sunday_edge": 54.5,
+  "total_races": 68,
+  "seasons": [
+    {
+      "season": 2022,
+      "overperformance": 0.644,
+      "overperformance_norm": 54.99,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": 0.874,
+      "overperformance_norm": 57.0,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": 2.371,
+      "overperformance_norm": 57.53,
+      "races": 24
+    }
+  ]
+}

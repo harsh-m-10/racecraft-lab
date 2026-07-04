@@ -1,0 +1,18 @@
+{
+  "driver": "Brendon Hartley",
+  "slug": "brendon-hartley",
+  "is_active": false,
+  "power_score": 58.97,
+  "delta_score": 50.46,
+  "chaos_index": 65.26,
+  "sunday_edge": 58.58,
+  "total_races": 21,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": 0.085,
+      "overperformance_norm": 50.46,
+      "races": 21
+    }
+  ]
+}

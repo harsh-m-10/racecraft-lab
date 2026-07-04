@@ -1,0 +1,222 @@
+[
+  {
+    "rank": 1,
+    "driver": "Liam Lawson",
+    "slug": "liam-lawson",
+    "power_score": 62.74,
+    "delta_score": 62.12,
+    "chaos_index": 67.31,
+    "sunday_edge": 39.75,
+    "total_races": 43
+  },
+  {
+    "rank": 2,
+    "driver": "Oliver Bearman",
+    "slug": "oliver-bearman",
+    "power_score": 59.01,
+    "delta_score": 57.09,
+    "chaos_index": 60.52,
+    "sunday_edge": 49.26,
+    "total_races": 35
+  },
+  {
+    "rank": 3,
+    "driver": "Lewis Hamilton",
+    "slug": "lewis-hamilton",
+    "power_score": 58.01,
+    "delta_score": 56.63,
+    "chaos_index": 55.01,
+    "sunday_edge": 55.09,
+    "total_races": 180
+  },
+  {
+    "rank": 4,
+    "driver": "Alexander Albon",
+    "slug": "alexander-albon",
+    "power_score": 54.0,
+    "delta_score": 55.64,
+    "chaos_index": 52.77,
+    "sunday_edge": 46.68,
+    "total_races": 137
+  },
+  {
+    "rank": 5,
+    "driver": "Sergio Perez",
+    "slug": "sergio-perez",
+    "power_score": 53.87,
+    "delta_score": 54.71,
+    "chaos_index": 51.45,
+    "sunday_edge": 50.52,
+    "total_races": 155
+  },
+  {
+    "rank": 6,
+    "driver": "Max Verstappen",
+    "slug": "max-verstappen",
+    "power_score": 52.34,
+    "delta_score": 50.52,
+    "chaos_index": 56.25,
+    "sunday_edge": 48.34,
+    "total_races": 181
+  },
+  {
+    "rank": 7,
+    "driver": "Lance Stroll",
+    "slug": "lance-stroll",
+    "power_score": 52.19,
+    "delta_score": 51.78,
+    "chaos_index": 49.93,
+    "sunday_edge": 54.15,
+    "total_races": 179
+  },
+  {
+    "rank": 8,
+    "driver": "Carlos Sainz",
+    "slug": "carlos-sainz",
+    "power_score": 51.38,
+    "delta_score": 50.57,
+    "chaos_index": 56.98,
+    "sunday_edge": 43.73,
+    "total_races": 180
+  },
+  {
+    "rank": 9,
+    "driver": "Nico Hulkenberg",
+    "slug": "nico-hulkenberg",
+    "power_score": 50.07,
+    "delta_score": 52.98,
+    "chaos_index": 50.98,
+    "sunday_edge": 42.04,
+    "total_races": 125
+  },
+  {
+    "rank": 10,
+    "driver": "Pierre Gasly",
+    "slug": "pierre-gasly",
+    "power_score": 48.18,
+    "delta_score": 50.13,
+    "chaos_index": 48.7,
+    "sunday_edge": 45.85,
+    "total_races": 181
+  },
+  {
+    "rank": 11,
+    "driver": "Franco Colapinto",
+    "slug": "franco-colapinto",
+    "power_score": 48.14,
+    "delta_score": 54.33,
+    "chaos_index": 42.28,
+    "sunday_edge": 44.84,
+    "total_races": 35
+  },
+  {
+    "rank": 12,
+    "driver": "Oscar Piastri",
+    "slug": "oscar-piastri",
+    "power_score": 45.36,
+    "delta_score": 48.24,
+    "chaos_index": 48.55,
+    "sunday_edge": 40.76,
+    "total_races": 78
+  },
+  {
+    "rank": 13,
+    "driver": "Lando Norris",
+    "slug": "lando-norris",
+    "power_score": 45.12,
+    "delta_score": 47.77,
+    "chaos_index": 46.46,
+    "sunday_edge": 44.24,
+    "total_races": 160
+  },
+  {
+    "rank": 14,
+    "driver": "Kimi Antonelli",
+    "slug": "kimi-antonelli",
+    "power_score": 44.39,
+    "delta_score": 48.17,
+    "chaos_index": 49.18,
+    "sunday_edge": 36.55,
+    "total_races": 32
+  },
+  {
+    "rank": 15,
+    "driver": "Esteban Ocon",
+    "slug": "esteban-ocon",
+    "power_score": 44.05,
+    "delta_score": 47.62,
+    "chaos_index": 42.43,
+    "sunday_edge": 46.82,
+    "total_races": 159
+  },
+  {
+    "rank": 16,
+    "driver": "Arvid Lindblad",
+    "slug": "arvid-lindblad",
+    "power_score": 43.42,
+    "delta_score": 41.45,
+    "chaos_index": 49.1,
+    "sunday_edge": 50.0,
+    "total_races": 8
+  },
+  {
+    "rank": 17,
+    "driver": "George Russell",
+    "slug": "george-russell",
+    "power_score": 42.03,
+    "delta_score": 45.47,
+    "chaos_index": 41.96,
+    "sunday_edge": 45.74,
+    "total_races": 160
+  },
+  {
+    "rank": 18,
+    "driver": "Valtteri Bottas",
+    "slug": "valtteri-bottas",
+    "power_score": 40.52,
+    "delta_score": 43.74,
+    "chaos_index": 47.95,
+    "sunday_edge": 35.69,
+    "total_races": 157
+  },
+  {
+    "rank": 19,
+    "driver": "Fernando Alonso",
+    "slug": "fernando-alonso",
+    "power_score": 39.51,
+    "delta_score": 43.06,
+    "chaos_index": 41.58,
+    "sunday_edge": 43.38,
+    "total_races": 143
+  },
+  {
+    "rank": 20,
+    "driver": "Gabriel Bortoleto",
+    "slug": "gabriel-bortoleto",
+    "power_score": 37.65,
+    "delta_score": 46.04,
+    "chaos_index": 34.88,
+    "sunday_edge": 39.33,
+    "total_races": 32
+  },
+  {
+    "rank": 21,
+    "driver": "Charles Leclerc",
+    "slug": "charles-leclerc",
+    "power_score": 37.41,
+    "delta_score": 42.7,
+    "chaos_index": 38.12,
+    "sunday_edge": 41.98,
+    "total_races": 181
+  },
+  {
+    "rank": 22,
+    "driver": "Isack Hadjar",
+    "slug": "isack-hadjar",
+    "power_score": 19.33,
+    "delta_score": 36.3,
+    "chaos_index": 16.85,
+    "sunday_edge": 25.56,
+    "total_races": 32
+  }
+]

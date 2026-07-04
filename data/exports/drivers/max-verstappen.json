@@ -1,0 +1,66 @@
+{
+  "driver": "Max Verstappen",
+  "slug": "max-verstappen",
+  "is_active": true,
+  "power_score": 52.34,
+  "delta_score": 50.52,
+  "chaos_index": 56.25,
+  "sunday_edge": 48.34,
+  "total_races": 181,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": 1.806,
+      "overperformance_norm": 59.88,
+      "races": 21
+    },
+    {
+      "season": 2019,
+      "overperformance": -1.13,
+      "overperformance_norm": 41.28,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": -2.287,
+      "overperformance_norm": 36.93,
+      "races": 17
+    },
+    {
+      "season": 2021,
+      "overperformance": -1.128,
+      "overperformance_norm": 40.92,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": 0.698,
+      "overperformance_norm": 55.37,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": -1.247,
+      "overperformance_norm": 41.38,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": 1.674,
+      "overperformance_norm": 54.84,
+      "races": 24
+    },
+    {
+      "season": 2025,
+      "overperformance": 0.571,
+      "overperformance_norm": 53.31,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": 4.153,
+      "overperformance_norm": 70.8,
+      "races": 8
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "driver": "Gabriel Bortoleto",
+  "slug": "gabriel-bortoleto",
+  "is_active": true,
+  "power_score": 37.65,
+  "delta_score": 46.04,
+  "chaos_index": 34.88,
+  "sunday_edge": 39.33,
+  "total_races": 32,
+  "seasons": [
+    {
+      "season": 2025,
+      "overperformance": -2.222,
+      "overperformance_norm": 35.19,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": 1.375,
+      "overperformance_norm": 56.89,
+      "races": 8
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "driver": "Pietro Fittipaldi",
+  "slug": "pietro-fittipaldi",
+  "is_active": false,
+  "power_score": 54.53,
+  "delta_score": 56.72,
+  "chaos_index": 50.0,
+  "sunday_edge": 50.0,
+  "total_races": 2,
+  "seasons": [
+    {
+      "season": 2020,
+      "overperformance": 1.568,
+      "overperformance_norm": 56.72,
+      "races": 2
+    }
+  ]
+}

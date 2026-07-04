@@ -1,0 +1,48 @@
+{
+  "driver": "Kevin Magnussen",
+  "slug": "kevin-magnussen",
+  "is_active": false,
+  "power_score": 52.45,
+  "delta_score": 52.38,
+  "chaos_index": 53.92,
+  "sunday_edge": 47.59,
+  "total_races": 125,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": 1.84,
+      "overperformance_norm": 60.07,
+      "races": 21
+    },
+    {
+      "season": 2019,
+      "overperformance": 1.654,
+      "overperformance_norm": 62.77,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": -1.076,
+      "overperformance_norm": 43.15,
+      "races": 17
+    },
+    {
+      "season": 2022,
+      "overperformance": -1.277,
+      "overperformance_norm": 41.28,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": 0.685,
+      "overperformance_norm": 55.61,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": 0.78,
+      "overperformance_norm": 51.4,
+      "races": 22
+    }
+  ]
+}

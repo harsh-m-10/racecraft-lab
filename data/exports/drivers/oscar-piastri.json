@@ -1,0 +1,36 @@
+{
+  "driver": "Oscar Piastri",
+  "slug": "oscar-piastri",
+  "is_active": true,
+  "power_score": 45.36,
+  "delta_score": 48.24,
+  "chaos_index": 48.55,
+  "sunday_edge": 40.76,
+  "total_races": 78,
+  "seasons": [
+    {
+      "season": 2023,
+      "overperformance": -1.643,
+      "overperformance_norm": 38.46,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": 0.712,
+      "overperformance_norm": 51.14,
+      "races": 24
+    },
+    {
+      "season": 2025,
+      "overperformance": 0.057,
+      "overperformance_norm": 49.98,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": 0.678,
+      "overperformance_norm": 53.4,
+      "races": 8
+    }
+  ]
+}

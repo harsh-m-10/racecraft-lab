@@ -1,0 +1,66 @@
+{
+  "driver": "Lance Stroll",
+  "slug": "lance-stroll",
+  "is_active": true,
+  "power_score": 52.19,
+  "delta_score": 51.78,
+  "chaos_index": 49.93,
+  "sunday_edge": 54.15,
+  "total_races": 179,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": 0.858,
+      "overperformance_norm": 54.7,
+      "races": 21
+    },
+    {
+      "season": 2019,
+      "overperformance": -0.106,
+      "overperformance_norm": 49.18,
+      "races": 21
+    },
+    {
+      "season": 2020,
+      "overperformance": -3.008,
+      "overperformance_norm": 33.23,
+      "races": 16
+    },
+    {
+      "season": 2021,
+      "overperformance": 1.291,
+      "overperformance_norm": 59.32,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": 1.205,
+      "overperformance_norm": 58.99,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": 0.81,
+      "overperformance_norm": 56.53,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": -1.249,
+      "overperformance_norm": 43.59,
+      "races": 24
+    },
+    {
+      "season": 2025,
+      "overperformance": 1.938,
+      "overperformance_norm": 62.18,
+      "races": 23
+    },
+    {
+      "season": 2026,
+      "overperformance": -0.347,
+      "overperformance_norm": 48.26,
+      "races": 8
+    }
+  ]
+}

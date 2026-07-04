@@ -1,0 +1,24 @@
+{
+  "driver": "Isack Hadjar",
+  "slug": "isack-hadjar",
+  "is_active": true,
+  "power_score": 19.33,
+  "delta_score": 36.3,
+  "chaos_index": 16.85,
+  "sunday_edge": 25.56,
+  "total_races": 32,
+  "seasons": [
+    {
+      "season": 2025,
+      "overperformance": -0.955,
+      "overperformance_norm": 43.41,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": -4.153,
+      "overperformance_norm": 29.2,
+      "races": 8
+    }
+  ]
+}

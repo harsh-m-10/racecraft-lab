@@ -1,0 +1,42 @@
+{
+  "driver": "Yuki Tsunoda",
+  "slug": "yuki-tsunoda",
+  "is_active": false,
+  "power_score": 47.27,
+  "delta_score": 49.68,
+  "chaos_index": 47.06,
+  "sunday_edge": 46.19,
+  "total_races": 114,
+  "seasons": [
+    {
+      "season": 2021,
+      "overperformance": 1.609,
+      "overperformance_norm": 61.74,
+      "races": 22
+    },
+    {
+      "season": 2022,
+      "overperformance": -1.147,
+      "overperformance_norm": 42.21,
+      "races": 22
+    },
+    {
+      "season": 2023,
+      "overperformance": 1.547,
+      "overperformance_norm": 61.95,
+      "races": 22
+    },
+    {
+      "season": 2024,
+      "overperformance": -1.387,
+      "overperformance_norm": 43.06,
+      "races": 24
+    },
+    {
+      "season": 2025,
+      "overperformance": -1.57,
+      "overperformance_norm": 39.42,
+      "races": 24
+    }
+  ]
+}

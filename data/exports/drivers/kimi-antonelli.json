@@ -1,0 +1,24 @@
+{
+  "driver": "Kimi Antonelli",
+  "slug": "kimi-antonelli",
+  "is_active": true,
+  "power_score": 44.39,
+  "delta_score": 48.17,
+  "chaos_index": 49.18,
+  "sunday_edge": 36.55,
+  "total_races": 32,
+  "seasons": [
+    {
+      "season": 2025,
+      "overperformance": -1.086,
+      "overperformance_norm": 42.55,
+      "races": 24
+    },
+    {
+      "season": 2026,
+      "overperformance": 0.756,
+      "overperformance_norm": 53.79,
+      "races": 8
+    }
+  ]
+}
