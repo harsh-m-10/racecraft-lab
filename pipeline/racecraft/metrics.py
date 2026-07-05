@@ -44,9 +44,10 @@ def canonical_name_map(results: pd.DataFrame) -> dict:
     seasons (e.g. "Andrea Kimi Antonelli" -> "Kimi Antonelli")."""
     if "driver_id" not in results.columns:
         return {}
+    valid = results.dropna(subset=["driver_id"])
+    valid = valid[valid["driver_id"].astype(str).str.len() > 0]
     latest = (
-        results.dropna(subset=["driver_id"])
-        .sort_values(["season", "round"])
+        valid.sort_values(["season", "round"])
         .drop_duplicates("driver_id", keep="last")
     )
     return dict(zip(latest["driver_id"], latest["driver"]))

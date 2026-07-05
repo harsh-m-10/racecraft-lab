@@ -23,7 +23,9 @@ from .manifest import (
 log = logging.getLogger("racecraft.ingest")
 
 # A session is only ingested once it should have finished (start + margin).
-SESSION_END_MARGIN = timedelta(hours=4)
+# 2h15m covers a full race distance plus podium; if timing data isn't
+# published yet the attempt fails softly and the next scheduled run retries.
+SESSION_END_MARGIN = timedelta(hours=2, minutes=15)
 
 RESULTS_COLS = [
     "season", "round", "event", "session",
@@ -225,9 +227,9 @@ def ingest_session(season: int, round_number: int, event, session_name: str) -> 
     return len(laps_df)
 
 
-def _completed_sessions_for_event(event) -> list[str]:
+def _completed_sessions_for_event(event) -> list[tuple[str, pd.Timestamp]]:
     now = datetime.now(timezone.utc)
-    names = []
+    out = []
     for i in range(1, 6):
         name = event.get(f"Session{i}")
         if not isinstance(name, str) or name not in INGESTED_SESSION_NAMES:
@@ -242,8 +244,41 @@ def _completed_sessions_for_event(event) -> list[str]:
         if date_utc.tzinfo is None:
             date_utc = date_utc.tz_localize("UTC")
         if date_utc + SESSION_END_MARGIN <= now:
-            names.append(name)
-    return names
+            out.append((name, date_utc))
+    return out
+
+
+# Ergast/Jolpica publishes enriched results (driver ids, points) later than
+# F1's own timing feed. Loading a session before that poisons the FastF1
+# cache with an empty response, so probe readiness for young sessions first.
+_ERGAST_ENDPOINTS = {
+    "Race": "results",
+    "Sprint": "sprint",
+    "Qualifying": "qualifying",
+}
+_PROBE_WINDOW = timedelta(hours=12)
+
+
+def _ergast_ready(season: int, round_number: int, session_name: str,
+                  start: pd.Timestamp) -> bool:
+    endpoint = _ERGAST_ENDPOINTS.get(session_name)
+    if endpoint is None:
+        return True  # no Ergast dependency for this session type
+    if datetime.now(timezone.utc) - start.to_pydatetime() > _PROBE_WINDOW:
+        return True  # old session; data long since published
+    import requests
+
+    try:
+        res = requests.get(
+            f"https://api.jolpi.ca/ergast/f1/{season}/{round_number}/{endpoint}.json",
+            timeout=15,
+        )
+        res.raise_for_status()
+        races = res.json()["MRData"]["RaceTable"]["Races"]
+        return bool(races)
+    except Exception as exc:
+        log.warning("Ergast readiness probe failed (%s); assuming not ready", exc)
+        return False
 
 
 def ingest_seasons(seasons: list[int], force: bool = False) -> int:
@@ -260,7 +295,7 @@ def ingest_seasons(seasons: list[int], force: bool = False) -> int:
             schedule = fastf1.get_event_schedule(season, include_testing=False)
             for _, event in schedule.iterrows():
                 round_number = int(event["RoundNumber"])
-                for session_name in _completed_sessions_for_event(event):
+                for session_name, session_start in _completed_sessions_for_event(event):
                     key = session_key(season, round_number, session_name)
                     if not force:
                         if is_ingested(manifest, key):
@@ -268,6 +303,9 @@ def ingest_seasons(seasons: list[int], force: bool = False) -> int:
                         if attempts(manifest, key) >= MAX_INGEST_ATTEMPTS:
                             log.warning("Skipping %s: too many failed attempts", key)
                             continue
+                    if not _ergast_ready(season, round_number, session_name, session_start):
+                        log.info("Skipping %s: results not published yet", key)
+                        continue
                     log.info("Ingesting %s (%s)", key, event["EventName"])
                     try:
                         n_laps = ingest_session(season, round_number, event, session_name)
