@@ -46,6 +46,17 @@ Make the site feel complete for a casual fan. Prioritize by feedback.
 - **Circuit maps** — track outline per event drawn from telemetry position data
   (one-time heavy backfill; visually unique, nobody else generates these).
 
+### Pulled forward from user feedback (2026-07-05)
+
+- [x] **Driver of the Day vote** — race pages, opens at lights out, closes 36h
+  later, archived forever. Needs Upstash Redis connected in Vercel.
+- [x] **Race quiz** — auto-generated per race from real data (pole, winner,
+  most places gained, true pace, teammate beatdown, last year's winner);
+  shareable score.
+- [ ] **Live driver tracking** — promoted to the flagship of Horizon 2 (see
+  below): needs a persistent relay server for the live timing stream; start
+  with a live position/interval list, track map after.
+
 ## Horizon 2 — Race-weekend live (the moat for habit)
 
 The gap between "results in 2 hours" and "results in 2 minutes" is the gap

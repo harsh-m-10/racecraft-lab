@@ -2,8 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getEvent, getSeason, getSeasonYears } from "@/lib/data";
+import { buildQuiz } from "@/lib/quiz";
 import { QualiTable, RaceTable } from "@/components/ResultTable";
 import { BarList } from "@/components/Bars";
+import { DotdVote } from "@/components/DotdVote";
+import { Quiz } from "@/components/Quiz";
+
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://racecraft-lab.vercel.app";
 
 export const dynamicParams = false;
 
@@ -41,8 +47,20 @@ export default async function RacePage({
 }) {
   const { year, round } = await params;
   const y = parseInt(year, 10);
-  const ev = getEvent(y, parseInt(round, 10));
+  const rnd = parseInt(round, 10);
+  const ev = getEvent(y, rnd);
   if (!ev) notFound();
+
+  // Match the previous year's edition by event name for the quiz.
+  const prevSeason = getSeason(y - 1);
+  const prevEvent =
+    prevSeason?.events.find((e) => e.event === ev.event) ?? null;
+  const quiz = buildQuiz(y, ev, prevEvent);
+
+  const latestSeason = getSeasonYears()[0];
+  const candidates = (
+    ev.quali_result.length > 0 ? ev.quali_result : ev.race_result
+  ).map((r) => ({ driver: r.driver, team: r.team }));
 
   const paceRows = [...ev.race_pace]
     .sort((a, b) => a.gap_pct - b.gap_pct)
@@ -81,6 +99,10 @@ export default async function RacePage({
         </h1>
       </div>
 
+      {y === latestSeason && candidates.length > 0 ? (
+        <DotdVote year={y} round={rnd} candidates={candidates} />
+      ) : null}
+
       {ev.race_result.length > 0 ? (
         <section className="flex flex-col gap-3">
           <h2 className="text-lg font-bold">Race</h2>
@@ -92,6 +114,14 @@ export default async function RacePage({
           the chequered flag.
         </p>
       )}
+
+      {quiz.length >= 3 ? (
+        <Quiz
+          title={`${y} ${ev.event}`}
+          questions={quiz}
+          shareUrl={`${SITE_URL}/races/${y}/${rnd}`}
+        />
+      ) : null}
 
       {ev.sprint_result.length > 0 ? (
         <section className="flex flex-col gap-3">
