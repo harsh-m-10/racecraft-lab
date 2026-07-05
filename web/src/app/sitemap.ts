@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getDriverSlugs, getSeasonYears } from "@/lib/data";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://racecraft-lab.vercel.app";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticPages = ["", "/drivers", "/seasons", "/methodology"].map(
