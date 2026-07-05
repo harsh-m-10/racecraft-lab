@@ -3,16 +3,28 @@
   "slug": "brendon-hartley",
   "is_active": false,
   "power_score": 58.97,
+  "power_score_v2": 46.55,
   "delta_score": 50.46,
   "chaos_index": 65.26,
   "sunday_edge": 58.58,
+  "race_pace": 39.77,
+  "quali_h2h": 40.93,
+  "tyre_management": 42.89,
+  "launch": 49.41,
+  "low_confidence": false,
   "total_races": 21,
   "seasons": [
     {
       "season": 2018,
       "overperformance": 0.085,
       "overperformance_norm": 50.46,
-      "races": 21
+      "races": 21,
+      "race_pace_norm": 39.77,
+      "avg_pace_gap_pct": 3.01,
+      "quali_h2h_norm": 40.93,
+      "quali_median_gap_pct": 0.3,
+      "tyre_management_norm": 42.89,
+      "launch_norm": 49.41
     }
   ]
 }

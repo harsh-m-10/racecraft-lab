@@ -3,22 +3,40 @@
   "slug": "daniil-kvyat",
   "is_active": false,
   "power_score": 55.7,
+  "power_score_v2": 52.51,
   "delta_score": 52.07,
   "chaos_index": 53.9,
   "sunday_edge": 59.94,
+  "race_pace": 48.66,
+  "quali_h2h": 43.82,
+  "tyre_management": 47.0,
+  "launch": 43.7,
+  "low_confidence": false,
   "total_races": 38,
   "seasons": [
     {
       "season": 2019,
       "overperformance": 0.444,
       "overperformance_norm": 53.43,
-      "races": 21
+      "races": 21,
+      "race_pace_norm": 48.53,
+      "avg_pace_gap_pct": 2.2,
+      "quali_h2h_norm": 45.43,
+      "quali_median_gap_pct": 0.1,
+      "tyre_management_norm": 40.89,
+      "launch_norm": 43.13
     },
     {
       "season": 2020,
       "overperformance": 0.399,
       "overperformance_norm": 50.72,
-      "races": 17
+      "races": 17,
+      "race_pace_norm": 48.8,
+      "avg_pace_gap_pct": 1.84,
+      "quali_h2h_norm": 42.22,
+      "quali_median_gap_pct": 0.26,
+      "tyre_management_norm": 53.12,
+      "launch_norm": 44.27
     }
   ]
 }

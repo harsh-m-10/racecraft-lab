@@ -1,0 +1,66 @@
+{
+  "driver": "Kimi R\u00e4ikk\u00f6nen",
+  "slug": "kimi-raikkonen",
+  "is_active": false,
+  "power_score": 52.65,
+  "power_score_v2": 57.78,
+  "delta_score": 53.91,
+  "chaos_index": 46.89,
+  "sunday_edge": 55.02,
+  "race_pace": 49.75,
+  "quali_h2h": 45.25,
+  "tyre_management": 65.32,
+  "launch": 52.26,
+  "low_confidence": false,
+  "total_races": 79,
+  "seasons": [
+    {
+      "season": 2018,
+      "overperformance": -1.14,
+      "overperformance_norm": 43.76,
+      "races": 21,
+      "race_pace_norm": 64.02,
+      "avg_pace_gap_pct": 0.43,
+      "quali_h2h_norm": 40.61,
+      "quali_median_gap_pct": 0.25,
+      "tyre_management_norm": 58.92,
+      "launch_norm": 34.51
+    },
+    {
+      "season": 2019,
+      "overperformance": 1.048,
+      "overperformance_norm": 58.09,
+      "races": 21,
+      "race_pace_norm": 47.44,
+      "avg_pace_gap_pct": 2.32,
+      "quali_h2h_norm": 50.53,
+      "quali_median_gap_pct": -0.0,
+      "tyre_management_norm": 74.31,
+      "launch_norm": 44.25
+    },
+    {
+      "season": 2020,
+      "overperformance": 1.503,
+      "overperformance_norm": 56.39,
+      "races": 17,
+      "race_pace_norm": 42.31,
+      "avg_pace_gap_pct": 2.34,
+      "quali_h2h_norm": 48.31,
+      "quali_median_gap_pct": 0.07,
+      "tyre_management_norm": 61.82,
+      "launch_norm": 57.09
+    },
+    {
+      "season": 2021,
+      "overperformance": 1.037,
+      "overperformance_norm": 57.39,
+      "races": 20,
+      "race_pace_norm": 45.25,
+      "avg_pace_gap_pct": 2.39,
+      "quali_h2h_norm": 41.55,
+      "quali_median_gap_pct": 0.41,
+      "tyre_management_norm": 66.22,
+      "launch_norm": 73.19
+    }
+  ]
+}

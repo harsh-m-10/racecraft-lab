@@ -3,22 +3,40 @@
   "slug": "kimi-antonelli",
   "is_active": true,
   "power_score": 44.39,
+  "power_score_v2": 52.85,
   "delta_score": 48.17,
   "chaos_index": 49.18,
   "sunday_edge": 36.55,
+  "race_pace": 59.54,
+  "quali_h2h": 45.42,
+  "tyre_management": 54.31,
+  "launch": 42.73,
+  "low_confidence": false,
   "total_races": 32,
   "seasons": [
     {
       "season": 2025,
       "overperformance": -1.086,
       "overperformance_norm": 42.55,
-      "races": 24
+      "races": 24,
+      "race_pace_norm": 53.74,
+      "avg_pace_gap_pct": 1.16,
+      "quali_h2h_norm": 39.07,
+      "quali_median_gap_pct": 0.39,
+      "tyre_management_norm": 51.48,
+      "launch_norm": 47.6
     },
     {
       "season": 2026,
       "overperformance": 0.756,
       "overperformance_norm": 53.79,
-      "races": 8
+      "races": 8,
+      "race_pace_norm": 65.33,
+      "avg_pace_gap_pct": 0.12,
+      "quali_h2h_norm": 51.76,
+      "quali_median_gap_pct": -0.07,
+      "tyre_management_norm": 57.14,
+      "launch_norm": 37.86
     }
   ]
 }

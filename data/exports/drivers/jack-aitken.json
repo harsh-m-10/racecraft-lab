@@ -3,9 +3,15 @@
   "slug": "jack-aitken",
   "is_active": false,
   "power_score": 52.56,
+  "power_score_v2": 55.61,
   "delta_score": 53.92,
   "chaos_index": 50.0,
   "sunday_edge": 50.0,
+  "race_pace": null,
+  "quali_h2h": null,
+  "tyre_management": null,
+  "launch": null,
+  "low_confidence": true,
   "total_races": 1,
   "seasons": [
     {

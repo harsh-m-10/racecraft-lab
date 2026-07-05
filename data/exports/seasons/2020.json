@@ -1,0 +1,4379 @@
+{
+  "season": 2020,
+  "events": [
+    {
+      "round": 1,
+      "event": "Austrian Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 68.761,
+          "gap_pct": 0.0,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 69.0,
+          "gap_pct": 0.348,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 69.46,
+          "gap_pct": 1.017,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 69.538,
+          "gap_pct": 1.131,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 69.649,
+          "gap_pct": 1.292,
+          "clean_laps": 35
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 69.753,
+          "gap_pct": 1.443,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 69.962,
+          "gap_pct": 1.747,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 70.388,
+          "gap_pct": 2.366,
+          "clean_laps": 34
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 70.483,
+          "gap_pct": 2.505,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 70.535,
+          "gap_pct": 2.581,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 70.617,
+          "gap_pct": 2.7,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 70.623,
+          "gap_pct": 2.709,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 70.695,
+          "gap_pct": 2.813,
+          "clean_laps": 12
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 70.885,
+          "gap_pct": 3.089,
+          "clean_laps": 42
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 70.927,
+          "gap_pct": 3.15,
+          "clean_laps": 34
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 71.213,
+          "gap_pct": 3.567,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 71.243,
+          "gap_pct": 3.61,
+          "clean_laps": 29
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 71.386,
+          "gap_pct": 3.818,
+          "clean_laps": 17
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": -0.019
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": 0.019
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -0.612
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q3",
+          "gap_pct": -0.539
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 0.616
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q3",
+          "gap_pct": -0.251
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": -0.257
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q3",
+          "gap_pct": 0.542
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q3",
+          "gap_pct": 0.252
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q2",
+          "gap_pct": -0.959
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": 0.258
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q2",
+          "gap_pct": -0.196
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q2",
+          "gap_pct": 0.196
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q2",
+          "gap_pct": 0.968
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": -0.107
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": 0.108
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -0.897
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": -0.075
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": 0.075
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 0.905
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "event": "Styrian Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 68.157,
+          "gap_pct": 0.0,
+          "clean_laps": 65
+        },
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 68.27,
+          "gap_pct": 0.166,
+          "clean_laps": 63
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 68.439,
+          "gap_pct": 0.414,
+          "clean_laps": 65
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 68.746,
+          "gap_pct": 0.864,
+          "clean_laps": 65
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 68.795,
+          "gap_pct": 0.936,
+          "clean_laps": 65
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 68.879,
+          "gap_pct": 1.059,
+          "clean_laps": 65
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 68.932,
+          "gap_pct": 1.137,
+          "clean_laps": 65
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 69.042,
+          "gap_pct": 1.298,
+          "clean_laps": 65
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 69.109,
+          "gap_pct": 1.398,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 69.703,
+          "gap_pct": 2.268,
+          "clean_laps": 64
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 69.734,
+          "gap_pct": 2.314,
+          "clean_laps": 64
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 69.739,
+          "gap_pct": 2.32,
+          "clean_laps": 64
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 69.757,
+          "gap_pct": 2.347,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 69.82,
+          "gap_pct": 2.44,
+          "clean_laps": 64
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 69.941,
+          "gap_pct": 2.618,
+          "clean_laps": 64
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 70.001,
+          "gap_pct": 2.705,
+          "clean_laps": 20
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 70.276,
+          "gap_pct": 3.109,
+          "clean_laps": 62
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 70.349,
+          "gap_pct": 3.216,
+          "clean_laps": 63
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": -1.769
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -0.644
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q3",
+          "gap_pct": -0.314
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": 1.801
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q3",
+          "gap_pct": -0.333
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q3",
+          "gap_pct": 0.315
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 0.649
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q2",
+          "gap_pct": -1.221
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q3",
+          "gap_pct": 0.334
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": -0.104
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": 0.104
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -1.684
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q1",
+          "gap_pct": -2.34
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q2",
+          "gap_pct": 1.236
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": -0.844
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q1",
+          "gap_pct": 2.397
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 1.713
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": 0.852
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "event": "Hungarian Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 80.424,
+          "gap_pct": 0.0,
+          "clean_laps": 60
+        },
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 81.09,
+          "gap_pct": 0.827,
+          "clean_laps": 64
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 81.265,
+          "gap_pct": 1.045,
+          "clean_laps": 61
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 81.589,
+          "gap_pct": 1.448,
+          "clean_laps": 61
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 81.617,
+          "gap_pct": 1.483,
+          "clean_laps": 63
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 81.914,
+          "gap_pct": 1.852,
+          "clean_laps": 63
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 81.924,
+          "gap_pct": 1.864,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 81.928,
+          "gap_pct": 1.87,
+          "clean_laps": 64
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 81.962,
+          "gap_pct": 1.912,
+          "clean_laps": 61
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 82.112,
+          "gap_pct": 2.098,
+          "clean_laps": 61
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 82.16,
+          "gap_pct": 2.158,
+          "clean_laps": 63
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 82.254,
+          "gap_pct": 2.275,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 82.438,
+          "gap_pct": 2.503,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 82.562,
+          "gap_pct": 2.658,
+          "clean_laps": 63
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 82.665,
+          "gap_pct": 2.786,
+          "clean_laps": 63
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 82.811,
+          "gap_pct": 2.967,
+          "clean_laps": 63
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 82.988,
+          "gap_pct": 3.187,
+          "clean_laps": 63
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 83.368,
+          "gap_pct": 3.661,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 84.378,
+          "gap_pct": 4.916,
+          "clean_laps": 55
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 85.772,
+          "gap_pct": 6.649,
+          "clean_laps": 11
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": -0.145
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": 0.146
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q3",
+          "gap_pct": -0.225
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q3",
+          "gap_pct": 0.226
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q3",
+          "gap_pct": -0.057
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q3",
+          "gap_pct": 0.058
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q2",
+          "gap_pct": -0.976
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q3",
+          "gap_pct": -0.081
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q3",
+          "gap_pct": 0.081
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q1",
+          "gap_pct": -0.573
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q2",
+          "gap_pct": -0.107
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q2",
+          "gap_pct": -1.105
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q2",
+          "gap_pct": 0.986
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q2",
+          "gap_pct": 0.107
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q2",
+          "gap_pct": 1.118
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": -0.334
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q1",
+          "gap_pct": 0.577
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": 0.335
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": -0.141
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": 0.141
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "event": "British Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 89.988,
+          "gap_pct": 0.0,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 89.995,
+          "gap_pct": 0.008,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 90.193,
+          "gap_pct": 0.228,
+          "clean_laps": 34
+        },
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 90.24,
+          "gap_pct": 0.28,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 91.343,
+          "gap_pct": 1.506,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 91.378,
+          "gap_pct": 1.545,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 91.392,
+          "gap_pct": 1.56,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 91.451,
+          "gap_pct": 1.626,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 91.454,
+          "gap_pct": 1.629,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 91.479,
+          "gap_pct": 1.657,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 91.662,
+          "gap_pct": 1.86,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 91.692,
+          "gap_pct": 1.894,
+          "clean_laps": 39
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 91.858,
+          "gap_pct": 2.078,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 91.897,
+          "gap_pct": 2.122,
+          "clean_laps": 38
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 91.913,
+          "gap_pct": 2.139,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 92.119,
+          "gap_pct": 2.368,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 92.637,
+          "gap_pct": 2.944,
+          "clean_laps": 37
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": -0.37
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": 0.371
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q2",
+          "gap_pct": -0.463
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q3",
+          "gap_pct": -1.056
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q3",
+          "gap_pct": -0.213
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Nico Hulkenberg",
+          "segment": "Q2",
+          "gap_pct": -0.075
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q3",
+          "gap_pct": 0.213
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q3",
+          "gap_pct": -0.232
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q3",
+          "gap_pct": 0.233
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q3",
+          "gap_pct": 1.068
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q2",
+          "gap_pct": -0.28
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q2",
+          "gap_pct": 0.465
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Nico Hulkenberg",
+          "teammate": "Lance Stroll",
+          "segment": "Q2",
+          "gap_pct": 0.075
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q2",
+          "gap_pct": 0.281
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -1.109
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": -0.553
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": -0.231
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": 0.232
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": 0.556
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 1.122
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "event": "70th Anniversary Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 91.323,
+          "gap_pct": 0.0,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 91.522,
+          "gap_pct": 0.217,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 91.584,
+          "gap_pct": 0.286,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 91.609,
+          "gap_pct": 0.313,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 91.785,
+          "gap_pct": 0.506,
+          "clean_laps": 47
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 91.952,
+          "gap_pct": 0.689,
+          "clean_laps": 47
+        },
+        {
+          "driver": "Nico Hulkenberg",
+          "median_lap_s": 91.99,
+          "gap_pct": 0.73,
+          "clean_laps": 45
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 92.238,
+          "gap_pct": 1.001,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 92.251,
+          "gap_pct": 1.016,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 92.257,
+          "gap_pct": 1.023,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 92.269,
+          "gap_pct": 1.036,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 92.454,
+          "gap_pct": 1.238,
+          "clean_laps": 43
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 92.517,
+          "gap_pct": 1.308,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 92.607,
+          "gap_pct": 1.406,
+          "clean_laps": 48
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 92.876,
+          "gap_pct": 1.701,
+          "clean_laps": 43
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 93.007,
+          "gap_pct": 1.844,
+          "clean_laps": 43
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 93.362,
+          "gap_pct": 2.233,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 93.495,
+          "gap_pct": 2.378,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 93.513,
+          "gap_pct": 2.399,
+          "clean_laps": 36
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 93.598,
+          "gap_pct": 2.491,
+          "clean_laps": 47
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": -0.074
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": 0.074
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Nico Hulkenberg",
+          "teammate": "Lance Stroll",
+          "segment": "Q3",
+          "gap_pct": -0.4
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -0.569
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q2",
+          "gap_pct": -0.431
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Nico Hulkenberg",
+          "segment": "Q3",
+          "gap_pct": 0.402
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q1",
+          "gap_pct": -0.828
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": -0.424
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 0.572
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q2",
+          "gap_pct": -0.227
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q2",
+          "gap_pct": 0.433
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": 0.426
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q2",
+          "gap_pct": 0.228
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": -0.813
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -0.761
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q1",
+          "gap_pct": 0.835
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": 0.819
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 0.767
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": -0.068
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": 0.068
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "event": "Spanish Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 83.002,
+          "gap_pct": 0.0,
+          "clean_laps": 59
+        },
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 83.227,
+          "gap_pct": 0.271,
+          "clean_laps": 59
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 83.304,
+          "gap_pct": 0.364,
+          "clean_laps": 57
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 84.474,
+          "gap_pct": 1.773,
+          "clean_laps": 58
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 84.486,
+          "gap_pct": 1.788,
+          "clean_laps": 59
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 84.582,
+          "gap_pct": 1.904,
+          "clean_laps": 59
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 84.685,
+          "gap_pct": 2.028,
+          "clean_laps": 58
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 84.723,
+          "gap_pct": 2.073,
+          "clean_laps": 61
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 84.927,
+          "gap_pct": 2.32,
+          "clean_laps": 58
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 84.946,
+          "gap_pct": 2.342,
+          "clean_laps": 58
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 84.965,
+          "gap_pct": 2.366,
+          "clean_laps": 58
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 84.997,
+          "gap_pct": 2.404,
+          "clean_laps": 58
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 85.047,
+          "gap_pct": 2.464,
+          "clean_laps": 59
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 85.06,
+          "gap_pct": 2.479,
+          "clean_laps": 61
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 85.096,
+          "gap_pct": 2.522,
+          "clean_laps": 60
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 85.117,
+          "gap_pct": 2.548,
+          "clean_laps": 58
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 85.309,
+          "gap_pct": 2.779,
+          "clean_laps": 33
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 85.395,
+          "gap_pct": 2.883,
+          "clean_laps": 60
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 85.525,
+          "gap_pct": 3.039,
+          "clean_laps": 60
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 85.921,
+          "gap_pct": 3.517,
+          "clean_laps": 57
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": -0.078
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": 0.078
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -0.957
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q3",
+          "gap_pct": -0.14
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q3",
+          "gap_pct": 0.14
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 0.966
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q3",
+          "gap_pct": -0.052
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q3",
+          "gap_pct": 0.052
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": -0.279
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q2",
+          "gap_pct": -0.508
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": 0.279
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q2",
+          "gap_pct": 0.51
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q2",
+          "gap_pct": -0.476
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": -1.144
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q2",
+          "gap_pct": 0.478
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": -0.232
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": 0.232
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -0.551
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 0.554
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": 1.157
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "event": "Belgian Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 108.549,
+          "gap_pct": 0.0,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 108.85,
+          "gap_pct": 0.277,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 108.95,
+          "gap_pct": 0.369,
+          "clean_laps": 38
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 109.079,
+          "gap_pct": 0.489,
+          "clean_laps": 38
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 109.729,
+          "gap_pct": 1.087,
+          "clean_laps": 35
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 110.127,
+          "gap_pct": 1.454,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 110.174,
+          "gap_pct": 1.497,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 110.253,
+          "gap_pct": 1.57,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 110.343,
+          "gap_pct": 1.653,
+          "clean_laps": 35
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 110.413,
+          "gap_pct": 1.717,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 110.695,
+          "gap_pct": 1.977,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 110.753,
+          "gap_pct": 2.03,
+          "clean_laps": 35
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 110.785,
+          "gap_pct": 2.06,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 110.857,
+          "gap_pct": 2.126,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 111.061,
+          "gap_pct": 2.314,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 111.086,
+          "gap_pct": 2.337,
+          "clean_laps": 35
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 111.143,
+          "gap_pct": 2.39,
+          "clean_laps": 35
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": -0.502
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": 0.505
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -0.475
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q3",
+          "gap_pct": -0.327
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 0.478
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q3",
+          "gap_pct": 0.328
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q3",
+          "gap_pct": -0.213
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q3",
+          "gap_pct": -0.069
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q3",
+          "gap_pct": 0.069
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q3",
+          "gap_pct": 0.214
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q2",
+          "gap_pct": -0.015
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q2",
+          "gap_pct": 0.015
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": -0.257
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": 0.257
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -0.488
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": -0.199
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": -0.456
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": 0.2
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 0.49
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": 0.458
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "event": "Italian Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 84.491,
+          "gap_pct": 0.0,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 84.559,
+          "gap_pct": 0.08,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 84.707,
+          "gap_pct": 0.256,
+          "clean_laps": 43
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 84.769,
+          "gap_pct": 0.329,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 84.97,
+          "gap_pct": 0.567,
+          "clean_laps": 43
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 85.034,
+          "gap_pct": 0.642,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 85.244,
+          "gap_pct": 0.891,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 85.541,
+          "gap_pct": 1.243,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 85.547,
+          "gap_pct": 1.25,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 85.55,
+          "gap_pct": 1.253,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 85.729,
+          "gap_pct": 1.465,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 85.88,
+          "gap_pct": 1.645,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 85.972,
+          "gap_pct": 1.753,
+          "clean_laps": 18
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 85.978,
+          "gap_pct": 1.761,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 86.076,
+          "gap_pct": 1.877,
+          "clean_laps": 14
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 86.157,
+          "gap_pct": 1.972,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 86.215,
+          "gap_pct": 2.04,
+          "clean_laps": 41
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 86.299,
+          "gap_pct": 2.139,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 86.59,
+          "gap_pct": 2.484,
+          "clean_laps": 14
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": -0.087
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": 0.087
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q3",
+          "gap_pct": -0.157
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q3",
+          "gap_pct": -0.411
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -0.368
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q3",
+          "gap_pct": 0.157
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q2",
+          "gap_pct": -0.253
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q3",
+          "gap_pct": 0.413
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 0.37
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q2",
+          "gap_pct": -0.324
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q2",
+          "gap_pct": 0.325
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q2",
+          "gap_pct": 0.254
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q1",
+          "gap_pct": -0.872
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": -0.241
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": -0.333
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": 0.334
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q1",
+          "gap_pct": 0.88
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": 0.242
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -0.159
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 0.159
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "event": "Tuscan Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 82.441,
+          "gap_pct": 0.0,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 82.524,
+          "gap_pct": 0.1,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 83.21,
+          "gap_pct": 0.933,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 83.251,
+          "gap_pct": 0.981,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 83.261,
+          "gap_pct": 0.993,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 83.298,
+          "gap_pct": 1.039,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 83.721,
+          "gap_pct": 1.553,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 83.76,
+          "gap_pct": 1.599,
+          "clean_laps": 31
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 83.862,
+          "gap_pct": 1.723,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 84.133,
+          "gap_pct": 2.052,
+          "clean_laps": 43
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 84.224,
+          "gap_pct": 2.162,
+          "clean_laps": 43
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 84.368,
+          "gap_pct": 2.337,
+          "clean_laps": 43
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 85.447,
+          "gap_pct": 3.646,
+          "clean_laps": 43
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": -0.078
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": 0.079
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -0.586
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 0.589
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": -0.695
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q3",
+          "gap_pct": -0.059
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q3",
+          "gap_pct": 0.059
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q2",
+          "gap_pct": -0.071
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q2",
+          "gap_pct": -0.154
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q2",
+          "gap_pct": 0.071
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q2",
+          "gap_pct": 0.154
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q1",
+          "gap_pct": -0.255
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": -0.208
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": 0.7
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": -0.361
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q1",
+          "gap_pct": 0.256
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": 0.209
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -0.114
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 0.114
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": 0.362
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "event": "Russian Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 99.081,
+          "gap_pct": 0.0,
+          "clean_laps": 45
+        },
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 99.175,
+          "gap_pct": 0.095,
+          "clean_laps": 45
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 99.721,
+          "gap_pct": 0.646,
+          "clean_laps": 45
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 99.773,
+          "gap_pct": 0.698,
+          "clean_laps": 45
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 100.072,
+          "gap_pct": 1.0,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 100.459,
+          "gap_pct": 1.391,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 100.653,
+          "gap_pct": 1.586,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 100.849,
+          "gap_pct": 1.784,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 101.215,
+          "gap_pct": 2.154,
+          "clean_laps": 45
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 101.316,
+          "gap_pct": 2.255,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 101.34,
+          "gap_pct": 2.28,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 101.424,
+          "gap_pct": 2.365,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 101.478,
+          "gap_pct": 2.419,
+          "clean_laps": 43
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 101.582,
+          "gap_pct": 2.524,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 101.657,
+          "gap_pct": 2.6,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 101.66,
+          "gap_pct": 2.603,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 101.674,
+          "gap_pct": 2.618,
+          "clean_laps": 44
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 101.894,
+          "gap_pct": 2.839,
+          "clean_laps": 42
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": -0.709
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -1.227
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": 0.714
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q2",
+          "gap_pct": -0.349
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q3",
+          "gap_pct": -0.281
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q3",
+          "gap_pct": -0.32
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q3",
+          "gap_pct": 0.281
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q3",
+          "gap_pct": 0.321
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q2",
+          "gap_pct": -0.118
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 1.242
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": -0.395
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q2",
+          "gap_pct": 0.118
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q2",
+          "gap_pct": 0.35
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -1.1
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": 0.397
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": -0.094
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": -0.706
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": 0.094
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 1.113
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": 0.711
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "event": "Eifel Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 90.701,
+          "gap_pct": 0.0,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 91.055,
+          "gap_pct": 0.39,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 92.019,
+          "gap_pct": 1.453,
+          "clean_laps": 11
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 92.023,
+          "gap_pct": 1.458,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 92.175,
+          "gap_pct": 1.626,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 92.652,
+          "gap_pct": 2.151,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 92.808,
+          "gap_pct": 2.323,
+          "clean_laps": 43
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 92.952,
+          "gap_pct": 2.482,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 92.975,
+          "gap_pct": 2.507,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 92.976,
+          "gap_pct": 2.508,
+          "clean_laps": 43
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 93.055,
+          "gap_pct": 2.596,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 93.113,
+          "gap_pct": 2.659,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Nico Hulkenberg",
+          "median_lap_s": 93.146,
+          "gap_pct": 2.696,
+          "clean_laps": 45
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 93.251,
+          "gap_pct": 2.811,
+          "clean_laps": 45
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 93.277,
+          "gap_pct": 2.84,
+          "clean_laps": 45
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 93.284,
+          "gap_pct": 2.847,
+          "clean_laps": 34
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 93.317,
+          "gap_pct": 2.884,
+          "clean_laps": 43
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 94.006,
+          "gap_pct": 3.644,
+          "clean_laps": 15
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 94.156,
+          "gap_pct": 3.81,
+          "clean_laps": 14
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": -0.299
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": 0.3
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -0.564
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": -0.574
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 0.567
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q3",
+          "gap_pct": -0.022
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q3",
+          "gap_pct": 0.022
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q3",
+          "gap_pct": -0.289
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Nico Hulkenberg",
+          "segment": "Q1",
+          "gap_pct": -1.024
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q3",
+          "gap_pct": 0.29
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": 0.577
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q2",
+          "gap_pct": -0.083
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q2",
+          "gap_pct": 0.083
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": -0.325
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": -0.367
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": 0.368
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -0.282
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 0.283
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": 0.326
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Nico Hulkenberg",
+          "teammate": "Sergio Perez",
+          "segment": "Q1",
+          "gap_pct": 1.034
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "event": "Portuguese Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 80.916,
+          "gap_pct": 0.0,
+          "clean_laps": 63
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 81.356,
+          "gap_pct": 0.544,
+          "clean_laps": 63
+        },
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 81.384,
+          "gap_pct": 0.578,
+          "clean_laps": 63
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 81.908,
+          "gap_pct": 1.226,
+          "clean_laps": 61
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 81.921,
+          "gap_pct": 1.242,
+          "clean_laps": 63
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 82.22,
+          "gap_pct": 1.612,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 82.337,
+          "gap_pct": 1.756,
+          "clean_laps": 60
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 82.341,
+          "gap_pct": 1.761,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 82.393,
+          "gap_pct": 1.825,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 82.494,
+          "gap_pct": 1.95,
+          "clean_laps": 60
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 82.517,
+          "gap_pct": 1.979,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 82.566,
+          "gap_pct": 2.04,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 82.573,
+          "gap_pct": 2.048,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 82.961,
+          "gap_pct": 2.527,
+          "clean_laps": 45
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 83.036,
+          "gap_pct": 2.62,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 83.136,
+          "gap_pct": 2.744,
+          "clean_laps": 59
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 83.216,
+          "gap_pct": 2.842,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 83.219,
+          "gap_pct": 2.846,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 83.51,
+          "gap_pct": 3.205,
+          "clean_laps": 62
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 83.614,
+          "gap_pct": 3.334,
+          "clean_laps": 61
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": -0.133
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": 0.133
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -0.688
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": -0.708
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q2",
+          "gap_pct": -0.64
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 0.693
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q3",
+          "gap_pct": -0.006
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q3",
+          "gap_pct": 0.006
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q2",
+          "gap_pct": -0.464
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q2",
+          "gap_pct": -0.171
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q2",
+          "gap_pct": 0.172
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q2",
+          "gap_pct": 0.644
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q2",
+          "gap_pct": 0.467
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -1.074
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": 0.713
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": -0.156
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": 0.156
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": -0.183
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": 0.184
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 1.086
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "event": "Emilia Romagna Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 78.326,
+          "gap_pct": 0.0,
+          "clean_laps": 51
+        },
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 78.731,
+          "gap_pct": 0.517,
+          "clean_laps": 45
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 78.9,
+          "gap_pct": 0.733,
+          "clean_laps": 50
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 79.04,
+          "gap_pct": 0.912,
+          "clean_laps": 49
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 79.338,
+          "gap_pct": 1.292,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 79.368,
+          "gap_pct": 1.33,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 79.484,
+          "gap_pct": 1.478,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 79.489,
+          "gap_pct": 1.485,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 79.548,
+          "gap_pct": 1.56,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 79.61,
+          "gap_pct": 1.639,
+          "clean_laps": 49
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 79.651,
+          "gap_pct": 1.692,
+          "clean_laps": 49
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 79.66,
+          "gap_pct": 1.704,
+          "clean_laps": 46
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 79.793,
+          "gap_pct": 1.873,
+          "clean_laps": 43
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 79.797,
+          "gap_pct": 1.878,
+          "clean_laps": 49
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 79.973,
+          "gap_pct": 2.103,
+          "clean_laps": 49
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 79.974,
+          "gap_pct": 2.103,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 79.989,
+          "gap_pct": 2.124,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 80.18,
+          "gap_pct": 2.366,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 80.839,
+          "gap_pct": 3.208,
+          "clean_laps": 24
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": -0.132
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": 0.132
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -0.531
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q3",
+          "gap_pct": -0.26
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q2",
+          "gap_pct": -0.33
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 0.534
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": -0.488
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q3",
+          "gap_pct": 0.26
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q3",
+          "gap_pct": -0.129
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q3",
+          "gap_pct": 0.13
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q2",
+          "gap_pct": -0.574
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q2",
+          "gap_pct": 0.331
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -0.299
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": 0.491
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q2",
+          "gap_pct": 0.577
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": -0.028
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": 0.028
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": -0.335
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 0.3
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": 0.336
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "event": "Turkish Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 102.444,
+          "gap_pct": 0.0,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 102.54,
+          "gap_pct": 0.094,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 102.793,
+          "gap_pct": 0.34,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 103.117,
+          "gap_pct": 0.657,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 103.12,
+          "gap_pct": 0.66,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 103.134,
+          "gap_pct": 0.674,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 103.223,
+          "gap_pct": 0.76,
+          "clean_laps": 38
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 103.612,
+          "gap_pct": 1.14,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 103.79,
+          "gap_pct": 1.314,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 103.806,
+          "gap_pct": 1.33,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 103.918,
+          "gap_pct": 1.439,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 104.057,
+          "gap_pct": 1.575,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 104.279,
+          "gap_pct": 1.791,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 104.359,
+          "gap_pct": 1.869,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 104.47,
+          "gap_pct": 1.978,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 105.043,
+          "gap_pct": 2.537,
+          "clean_laps": 36
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 105.495,
+          "gap_pct": 2.978,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Romain Grosjean",
+          "median_lap_s": 106.063,
+          "gap_pct": 3.533,
+          "clean_laps": 31
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 108.558,
+          "gap_pct": 5.968,
+          "clean_laps": 26
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q3",
+          "gap_pct": -1.423
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -2.167
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q3",
+          "gap_pct": 1.444
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 2.215
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q3",
+          "gap_pct": -0.912
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": -0.616
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q3",
+          "gap_pct": 0.92
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q3",
+          "gap_pct": -3.823
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": 0.62
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q3",
+          "gap_pct": 3.974
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q2",
+          "gap_pct": -0.403
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": -1.309
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q2",
+          "gap_pct": 0.405
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": 1.326
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q1",
+          "gap_pct": -2.705
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": -3.688
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q1",
+          "gap_pct": 2.78
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -8.187
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": 3.829
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 8.917
+        }
+      ]
+    },
+    {
+      "round": 15,
+      "event": "Bahrain Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 93.798,
+          "gap_pct": 0.0,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 93.866,
+          "gap_pct": 0.072,
+          "clean_laps": 37
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 94.715,
+          "gap_pct": 0.978,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 94.745,
+          "gap_pct": 1.009,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 94.828,
+          "gap_pct": 1.098,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 95.026,
+          "gap_pct": 1.309,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 95.173,
+          "gap_pct": 1.466,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 95.465,
+          "gap_pct": 1.777,
+          "clean_laps": 42
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 95.594,
+          "gap_pct": 1.914,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 95.752,
+          "gap_pct": 2.083,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 96.226,
+          "gap_pct": 2.588,
+          "clean_laps": 40
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 96.283,
+          "gap_pct": 2.649,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 96.601,
+          "gap_pct": 2.988,
+          "clean_laps": 39
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 96.733,
+          "gap_pct": 3.129,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 96.768,
+          "gap_pct": 3.166,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 97.126,
+          "gap_pct": 3.547,
+          "clean_laps": 39
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 97.2,
+          "gap_pct": 3.626,
+          "clean_laps": 41
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 98.001,
+          "gap_pct": 4.48,
+          "clean_laps": 41
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": -0.33
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": 0.331
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -0.675
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 0.68
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q2",
+          "gap_pct": -0.74
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q3",
+          "gap_pct": -0.002
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q3",
+          "gap_pct": 0.002
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q3",
+          "gap_pct": -0.192
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q1",
+          "gap_pct": 0.55
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q3",
+          "gap_pct": 0.192
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": -0.018
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": 0.018
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q2",
+          "gap_pct": 0.746
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -0.985
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q1",
+          "gap_pct": -0.547
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": -0.355
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": 0.356
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Romain Grosjean",
+          "segment": "Q1",
+          "gap_pct": -0.03
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Romain Grosjean",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": 0.03
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 0.994
+        }
+      ]
+    },
+    {
+      "round": 16,
+      "event": "Sakhir Grand Prix",
+      "race_pace": [
+        {
+          "driver": "George Russell",
+          "median_lap_s": 58.043,
+          "gap_pct": 0.0,
+          "clean_laps": 66
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 58.147,
+          "gap_pct": 0.178,
+          "clean_laps": 68
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 58.175,
+          "gap_pct": 0.227,
+          "clean_laps": 67
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 58.21,
+          "gap_pct": 0.288,
+          "clean_laps": 67
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 58.28,
+          "gap_pct": 0.408,
+          "clean_laps": 65
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 58.285,
+          "gap_pct": 0.417,
+          "clean_laps": 67
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 58.45,
+          "gap_pct": 0.701,
+          "clean_laps": 67
+        },
+        {
+          "driver": "Sergio Perez",
+          "median_lap_s": 58.478,
+          "gap_pct": 0.749,
+          "clean_laps": 69
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 58.515,
+          "gap_pct": 0.813,
+          "clean_laps": 69
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 58.555,
+          "gap_pct": 0.883,
+          "clean_laps": 68
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 58.565,
+          "gap_pct": 0.899,
+          "clean_laps": 69
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 58.655,
+          "gap_pct": 1.054,
+          "clean_laps": 68
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 58.681,
+          "gap_pct": 1.099,
+          "clean_laps": 67
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 58.787,
+          "gap_pct": 1.282,
+          "clean_laps": 67
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 58.816,
+          "gap_pct": 1.332,
+          "clean_laps": 66
+        },
+        {
+          "driver": "Jack Aitken",
+          "median_lap_s": 58.827,
+          "gap_pct": 1.351,
+          "clean_laps": 66
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 58.986,
+          "gap_pct": 1.624,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Pietro Fittipaldi",
+          "median_lap_s": 59.051,
+          "gap_pct": 1.737,
+          "clean_laps": 67
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "George Russell",
+          "segment": "Q3",
+          "gap_pct": -0.049
+        },
+        {
+          "team": "Mercedes",
+          "driver": "George Russell",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": 0.049
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q2",
+          "gap_pct": -0.702
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": -0.646
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q3",
+          "gap_pct": -0.756
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q3",
+          "gap_pct": -0.458
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q2",
+          "gap_pct": -0.23
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q2",
+          "gap_pct": -1.6
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q3",
+          "gap_pct": 0.46
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q3",
+          "gap_pct": 0.762
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q2",
+          "gap_pct": 0.23
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q2",
+          "gap_pct": 0.706
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": 0.65
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": -0.801
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q2",
+          "gap_pct": 1.626
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Pietro Fittipaldi",
+          "segment": "Q1",
+          "gap_pct": -1.301
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "Jack Aitken",
+          "segment": "Q1",
+          "gap_pct": -0.175
+        },
+        {
+          "team": "Williams",
+          "driver": "Jack Aitken",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": 0.175
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": 0.807
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Pietro Fittipaldi",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": 1.318
+        }
+      ]
+    },
+    {
+      "round": 17,
+      "event": "Abu Dhabi Grand Prix",
+      "race_pace": [
+        {
+          "driver": "Max Verstappen",
+          "median_lap_s": 101.553,
+          "gap_pct": 0.0,
+          "clean_laps": 50
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "median_lap_s": 101.852,
+          "gap_pct": 0.295,
+          "clean_laps": 50
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "median_lap_s": 101.979,
+          "gap_pct": 0.419,
+          "clean_laps": 50
+        },
+        {
+          "driver": "Alexander Albon",
+          "median_lap_s": 101.996,
+          "gap_pct": 0.436,
+          "clean_laps": 50
+        },
+        {
+          "driver": "Lando Norris",
+          "median_lap_s": 102.908,
+          "gap_pct": 1.334,
+          "clean_laps": 50
+        },
+        {
+          "driver": "Daniel Ricciardo",
+          "median_lap_s": 102.939,
+          "gap_pct": 1.365,
+          "clean_laps": 47
+        },
+        {
+          "driver": "Carlos Sainz",
+          "median_lap_s": 103.043,
+          "gap_pct": 1.468,
+          "clean_laps": 50
+        },
+        {
+          "driver": "Charles Leclerc",
+          "median_lap_s": 103.227,
+          "gap_pct": 1.649,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Pierre Gasly",
+          "median_lap_s": 103.545,
+          "gap_pct": 1.962,
+          "clean_laps": 49
+        },
+        {
+          "driver": "Esteban Ocon",
+          "median_lap_s": 103.704,
+          "gap_pct": 2.118,
+          "clean_laps": 49
+        },
+        {
+          "driver": "Daniil Kvyat",
+          "median_lap_s": 103.715,
+          "gap_pct": 2.129,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Lance Stroll",
+          "median_lap_s": 103.875,
+          "gap_pct": 2.287,
+          "clean_laps": 50
+        },
+        {
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "median_lap_s": 104.067,
+          "gap_pct": 2.476,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Sebastian Vettel",
+          "median_lap_s": 104.07,
+          "gap_pct": 2.479,
+          "clean_laps": 46
+        },
+        {
+          "driver": "George Russell",
+          "median_lap_s": 104.51,
+          "gap_pct": 2.911,
+          "clean_laps": 48
+        },
+        {
+          "driver": "Antonio Giovinazzi",
+          "median_lap_s": 104.552,
+          "gap_pct": 2.953,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Nicholas Latifi",
+          "median_lap_s": 105.031,
+          "gap_pct": 3.425,
+          "clean_laps": 46
+        },
+        {
+          "driver": "Kevin Magnussen",
+          "median_lap_s": 105.506,
+          "gap_pct": 3.893,
+          "clean_laps": 44
+        },
+        {
+          "driver": "Pietro Fittipaldi",
+          "median_lap_s": 105.686,
+          "gap_pct": 4.07,
+          "clean_laps": 43
+        }
+      ],
+      "quali_h2h": [
+        {
+          "team": "Red Bull Racing",
+          "driver": "Max Verstappen",
+          "teammate": "Alexander Albon",
+          "segment": "Q3",
+          "gap_pct": -0.34
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Valtteri Bottas",
+          "teammate": "Lewis Hamilton",
+          "segment": "Q3",
+          "gap_pct": -0.064
+        },
+        {
+          "team": "Mercedes",
+          "driver": "Lewis Hamilton",
+          "teammate": "Valtteri Bottas",
+          "segment": "Q3",
+          "gap_pct": 0.064
+        },
+        {
+          "team": "McLaren",
+          "driver": "Lando Norris",
+          "teammate": "Carlos Sainz",
+          "segment": "Q3",
+          "gap_pct": -0.332
+        },
+        {
+          "team": "Red Bull Racing",
+          "driver": "Alexander Albon",
+          "teammate": "Max Verstappen",
+          "segment": "Q3",
+          "gap_pct": 0.341
+        },
+        {
+          "team": "McLaren",
+          "driver": "Carlos Sainz",
+          "teammate": "Lando Norris",
+          "segment": "Q3",
+          "gap_pct": 0.333
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Daniil Kvyat",
+          "teammate": "Pierre Gasly",
+          "segment": "Q3",
+          "gap_pct": -0.29
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Lance Stroll",
+          "teammate": "Sergio Perez",
+          "segment": "Q1",
+          "gap_pct": 0.487
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Charles Leclerc",
+          "teammate": "Sebastian Vettel",
+          "segment": "Q2",
+          "gap_pct": -0.723
+        },
+        {
+          "team": "AlphaTauri",
+          "driver": "Pierre Gasly",
+          "teammate": "Daniil Kvyat",
+          "segment": "Q3",
+          "gap_pct": 0.291
+        },
+        {
+          "team": "Renault",
+          "driver": "Esteban Ocon",
+          "teammate": "Daniel Ricciardo",
+          "segment": "Q2",
+          "gap_pct": -0.049
+        },
+        {
+          "team": "Renault",
+          "driver": "Daniel Ricciardo",
+          "teammate": "Esteban Ocon",
+          "segment": "Q2",
+          "gap_pct": 0.049
+        },
+        {
+          "team": "Ferrari",
+          "driver": "Sebastian Vettel",
+          "teammate": "Charles Leclerc",
+          "segment": "Q2",
+          "gap_pct": 0.729
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Antonio Giovinazzi",
+          "teammate": "Kimi R\u00e4ikk\u00f6nen",
+          "segment": "Q1",
+          "gap_pct": -0.492
+        },
+        {
+          "team": "Racing Point",
+          "driver": "Sergio Perez",
+          "teammate": "Lance Stroll",
+          "segment": "Q1",
+          "gap_pct": -0.485
+        },
+        {
+          "team": "Alfa Romeo Racing",
+          "driver": "Kimi R\u00e4ikk\u00f6nen",
+          "teammate": "Antonio Giovinazzi",
+          "segment": "Q1",
+          "gap_pct": 0.494
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Kevin Magnussen",
+          "teammate": "Pietro Fittipaldi",
+          "segment": "Q1",
+          "gap_pct": -0.316
+        },
+        {
+          "team": "Williams",
+          "driver": "George Russell",
+          "teammate": "Nicholas Latifi",
+          "segment": "Q1",
+          "gap_pct": -0.404
+        },
+        {
+          "team": "Haas F1 Team",
+          "driver": "Pietro Fittipaldi",
+          "teammate": "Kevin Magnussen",
+          "segment": "Q1",
+          "gap_pct": 0.317
+        },
+        {
+          "team": "Williams",
+          "driver": "Nicholas Latifi",
+          "teammate": "George Russell",
+          "segment": "Q1",
+          "gap_pct": 0.406
+        }
+      ]
+    }
+  ]
+}

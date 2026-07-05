@@ -3,64 +3,124 @@
   "slug": "carlos-sainz",
   "is_active": true,
   "power_score": 51.38,
+  "power_score_v2": 57.24,
   "delta_score": 50.57,
   "chaos_index": 56.98,
   "sunday_edge": 43.73,
+  "race_pace": 54.52,
+  "quali_h2h": 50.42,
+  "tyre_management": 49.91,
+  "launch": 50.19,
+  "low_confidence": false,
   "total_races": 180,
   "seasons": [
     {
       "season": 2018,
       "overperformance": 1.129,
       "overperformance_norm": 56.18,
-      "races": 21
+      "races": 21,
+      "race_pace_norm": 47.79,
+      "avg_pace_gap_pct": 2.16,
+      "quali_h2h_norm": 44.41,
+      "quali_median_gap_pct": 0.18,
+      "tyre_management_norm": 57.37,
+      "launch_norm": 57.67
     },
     {
       "season": 2019,
       "overperformance": 2.664,
       "overperformance_norm": 70.58,
-      "races": 21
+      "races": 21,
+      "race_pace_norm": 50.05,
+      "avg_pace_gap_pct": 2.03,
+      "quali_h2h_norm": 50.96,
+      "quali_median_gap_pct": -0.03,
+      "tyre_management_norm": 57.92,
+      "launch_norm": 48.03
     },
     {
       "season": 2020,
       "overperformance": -1.038,
       "overperformance_norm": 43.34,
-      "races": 17
+      "races": 17,
+      "race_pace_norm": 55.58,
+      "avg_pace_gap_pct": 1.31,
+      "quali_h2h_norm": 50.33,
+      "quali_median_gap_pct": -0.01,
+      "tyre_management_norm": 47.64,
+      "launch_norm": 57.22
     },
     {
       "season": 2021,
       "overperformance": 2.265,
       "overperformance_norm": 66.73,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 54.87,
+      "avg_pace_gap_pct": 1.43,
+      "quali_h2h_norm": 48.24,
+      "quali_median_gap_pct": 0.08,
+      "tyre_management_norm": 54.69,
+      "launch_norm": 51.89
     },
     {
       "season": 2022,
       "overperformance": -1.531,
       "overperformance_norm": 39.47,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 64.93,
+      "avg_pace_gap_pct": 0.53,
+      "quali_h2h_norm": 46.75,
+      "quali_median_gap_pct": 0.09,
+      "tyre_management_norm": 40.62,
+      "launch_norm": 33.6
     },
     {
       "season": 2023,
       "overperformance": 0.718,
       "overperformance_norm": 55.85,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 58.76,
+      "avg_pace_gap_pct": 0.79,
+      "quali_h2h_norm": 45.79,
+      "quali_median_gap_pct": 0.16,
+      "tyre_management_norm": 45.12,
+      "launch_norm": 47.15
     },
     {
       "season": 2024,
       "overperformance": -0.998,
       "overperformance_norm": 44.56,
-      "races": 23
+      "races": 23,
+      "race_pace_norm": 63.56,
+      "avg_pace_gap_pct": 0.46,
+      "quali_h2h_norm": 49.01,
+      "quali_median_gap_pct": 0.01,
+      "tyre_management_norm": 55.7,
+      "launch_norm": 42.69
     },
     {
       "season": 2025,
       "overperformance": -2.333,
       "overperformance_norm": 34.46,
-      "races": 24
+      "races": 24,
+      "race_pace_norm": 48.42,
+      "avg_pace_gap_pct": 1.52,
+      "quali_h2h_norm": 53.7,
+      "quali_median_gap_pct": -0.1,
+      "tyre_management_norm": 41.05,
+      "launch_norm": 50.63
     },
     {
       "season": 2026,
       "overperformance": -1.206,
       "overperformance_norm": 43.96,
-      "races": 8
+      "races": 8,
+      "race_pace_norm": 46.74,
+      "avg_pace_gap_pct": 2.92,
+      "quali_h2h_norm": 64.55,
+      "quali_median_gap_pct": -0.42,
+      "tyre_management_norm": 49.05,
+      "launch_norm": 62.85
     }
   ]
 }

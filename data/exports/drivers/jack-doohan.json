@@ -3,9 +3,15 @@
   "slug": "jack-doohan",
   "is_active": false,
   "power_score": 48.13,
+  "power_score_v2": 47.33,
   "delta_score": 47.62,
   "chaos_index": 50.0,
   "sunday_edge": 50.0,
+  "race_pace": null,
+  "quali_h2h": 36.94,
+  "tyre_management": 57.46,
+  "launch": null,
+  "low_confidence": true,
   "total_races": 7,
   "seasons": [
     {
@@ -18,7 +24,13 @@
       "season": 2025,
       "overperformance": 1.802,
       "overperformance_norm": 61.3,
-      "races": 6
+      "races": 6,
+      "race_pace_norm": null,
+      "avg_pace_gap_pct": null,
+      "quali_h2h_norm": 36.94,
+      "quali_median_gap_pct": 0.51,
+      "tyre_management_norm": 57.46,
+      "launch_norm": null
     }
   ]
 }

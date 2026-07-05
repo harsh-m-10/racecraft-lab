@@ -39,21 +39,27 @@ def zscore_normalize(df: pd.DataFrame, column: str) -> pd.DataFrame:
     return df
 
 
+def canonical_name_map(results: pd.DataFrame) -> dict:
+    """Map driver_id -> most recent display name. Display names drift across
+    seasons (e.g. "Andrea Kimi Antonelli" -> "Kimi Antonelli")."""
+    if "driver_id" not in results.columns:
+        return {}
+    latest = (
+        results.dropna(subset=["driver_id"])
+        .sort_values(["season", "round"])
+        .drop_duplicates("driver_id", keep="last")
+    )
+    return dict(zip(latest["driver_id"], latest["driver"]))
+
+
 def build_race_frame() -> pd.DataFrame:
     """Race-session results shaped like the legacy pipeline expected:
     season, race, driver, constructor, grid, position, dnf_type."""
     results = _load_dataset("results")
     races = results[results["session"] == "Race"].copy()
 
-    # Display names drift across seasons (e.g. "Andrea Kimi Antonelli" -> "Kimi Antonelli");
-    # canonicalize every driver to their most recent name via the stable driver_id.
-    if "driver_id" in races.columns:
-        latest = (
-            races.dropna(subset=["driver_id"])
-            .sort_values(["season", "round"])
-            .drop_duplicates("driver_id", keep="last")
-        )
-        name_map = dict(zip(latest["driver_id"], latest["driver"]))
+    name_map = canonical_name_map(races)
+    if name_map:
         races["driver"] = races["driver_id"].map(name_map).fillna(races["driver"])
 
     field_size = (

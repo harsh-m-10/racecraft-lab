@@ -3,9 +3,15 @@
   "slug": "nyck-de-vries",
   "is_active": false,
   "power_score": 31.54,
+  "power_score_v2": 25.91,
   "delta_score": 31.81,
   "chaos_index": 38.58,
   "sunday_edge": 47.63,
+  "race_pace": 35.31,
+  "quali_h2h": 41.43,
+  "tyre_management": 54.2,
+  "launch": 41.07,
+  "low_confidence": false,
   "total_races": 11,
   "seasons": [
     {
@@ -18,7 +24,13 @@
       "season": 2023,
       "overperformance": -3.238,
       "overperformance_norm": 26.71,
-      "races": 10
+      "races": 10,
+      "race_pace_norm": 35.31,
+      "avg_pace_gap_pct": 2.1,
+      "quali_h2h_norm": 41.43,
+      "quali_median_gap_pct": 0.32,
+      "tyre_management_norm": 54.2,
+      "launch_norm": 41.07
     }
   ]
 }

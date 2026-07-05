@@ -3,34 +3,64 @@
   "slug": "liam-lawson",
   "is_active": true,
   "power_score": 62.74,
+  "power_score_v2": 60.52,
   "delta_score": 62.12,
   "chaos_index": 67.31,
   "sunday_edge": 39.75,
+  "race_pace": 44.84,
+  "quali_h2h": 46.17,
+  "tyre_management": 62.36,
+  "launch": 56.53,
+  "low_confidence": false,
   "total_races": 43,
   "seasons": [
     {
       "season": 2023,
       "overperformance": 0.892,
       "overperformance_norm": 57.13,
-      "races": 5
+      "races": 5,
+      "race_pace_norm": null,
+      "avg_pace_gap_pct": null,
+      "quali_h2h_norm": 39.13,
+      "quali_median_gap_pct": 0.34,
+      "tyre_management_norm": 81.85,
+      "launch_norm": 50.19
     },
     {
       "season": 2024,
       "overperformance": 5.75,
       "overperformance_norm": 70.53,
-      "races": 6
+      "races": 6,
+      "race_pace_norm": 41.58,
+      "avg_pace_gap_pct": 2.18,
+      "quali_h2h_norm": 45.51,
+      "quali_median_gap_pct": 0.06,
+      "tyre_management_norm": 63.47,
+      "launch_norm": 76.09
     },
     {
       "season": 2025,
       "overperformance": 1.954,
       "overperformance_norm": 62.28,
-      "races": 24
+      "races": 24,
+      "race_pace_norm": 42.66,
+      "avg_pace_gap_pct": 1.9,
+      "quali_h2h_norm": 41.93,
+      "quali_median_gap_pct": 0.29,
+      "tyre_management_norm": 53.81,
+      "launch_norm": 47.6
     },
     {
       "season": 2026,
       "overperformance": 1.706,
       "overperformance_norm": 58.55,
-      "races": 8
+      "races": 8,
+      "race_pace_norm": 50.28,
+      "avg_pace_gap_pct": 2.39,
+      "quali_h2h_norm": 58.11,
+      "quali_median_gap_pct": -0.21,
+      "tyre_management_norm": 50.29,
+      "launch_norm": 52.25
     }
   ]
 }

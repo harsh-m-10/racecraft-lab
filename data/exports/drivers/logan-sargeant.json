@@ -3,22 +3,40 @@
   "slug": "logan-sargeant",
   "is_active": false,
   "power_score": 56.04,
+  "power_score_v2": 39.05,
   "delta_score": 51.0,
   "chaos_index": 60.51,
   "sunday_edge": 53.96,
+  "race_pace": 37.74,
+  "quali_h2h": 35.2,
+  "tyre_management": 36.46,
+  "launch": 55.29,
+  "low_confidence": false,
   "total_races": 36,
   "seasons": [
     {
       "season": 2023,
       "overperformance": -0.069,
       "overperformance_norm": 50.05,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 37.68,
+      "avg_pace_gap_pct": 1.97,
+      "quali_h2h_norm": 34.3,
+      "quali_median_gap_pct": 0.59,
+      "tyre_management_norm": 34.99,
+      "launch_norm": 65.1
     },
     {
       "season": 2024,
       "overperformance": 0.921,
       "overperformance_norm": 51.95,
-      "races": 14
+      "races": 14,
+      "race_pace_norm": 37.81,
+      "avg_pace_gap_pct": 2.48,
+      "quali_h2h_norm": 36.1,
+      "quali_median_gap_pct": 0.38,
+      "tyre_management_norm": 37.93,
+      "launch_norm": 45.49
     }
   ]
 }

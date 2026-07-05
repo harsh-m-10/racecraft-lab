@@ -3,40 +3,76 @@
   "slug": "sebastian-vettel",
   "is_active": false,
   "power_score": 49.74,
+  "power_score_v2": 58.38,
   "delta_score": 49.68,
   "chaos_index": 51.6,
   "sunday_edge": 48.18,
+  "race_pace": 54.3,
+  "quali_h2h": 50.81,
+  "tyre_management": 56.56,
+  "launch": 50.48,
+  "low_confidence": false,
   "total_races": 101,
   "seasons": [
     {
       "season": 2018,
       "overperformance": 1.14,
       "overperformance_norm": 56.24,
-      "races": 21
+      "races": 21,
+      "race_pace_norm": 65.16,
+      "avg_pace_gap_pct": 0.31,
+      "quali_h2h_norm": 59.4,
+      "quali_median_gap_pct": -0.25,
+      "tyre_management_norm": 41.08,
+      "launch_norm": 35.73
     },
     {
       "season": 2019,
       "overperformance": 0.444,
       "overperformance_norm": 53.43,
-      "races": 21
+      "races": 21,
+      "race_pace_norm": 63.58,
+      "avg_pace_gap_pct": 0.52,
+      "quali_h2h_norm": 47.28,
+      "quali_median_gap_pct": 0.08,
+      "tyre_management_norm": 58.37,
+      "launch_norm": 51.84
     },
     {
       "season": 2020,
       "overperformance": 1.949,
       "overperformance_norm": 58.68,
-      "races": 17
+      "races": 17,
+      "race_pace_norm": 47.38,
+      "avg_pace_gap_pct": 1.95,
+      "quali_h2h_norm": 39.09,
+      "quali_median_gap_pct": 0.43,
+      "tyre_management_norm": 75.42,
+      "launch_norm": 43.29
     },
     {
       "season": 2021,
       "overperformance": -1.291,
       "overperformance_norm": 39.68,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 48.88,
+      "avg_pace_gap_pct": 2.03,
+      "quali_h2h_norm": 53.03,
+      "quali_median_gap_pct": -0.13,
+      "tyre_management_norm": 49.46,
+      "launch_norm": 58.07
     },
     {
       "season": 2022,
       "overperformance": -1.403,
       "overperformance_norm": 40.38,
-      "races": 20
+      "races": 20,
+      "race_pace_norm": 46.5,
+      "avg_pace_gap_pct": 2.04,
+      "quali_h2h_norm": 55.25,
+      "quali_median_gap_pct": -0.16,
+      "tyre_management_norm": 58.46,
+      "launch_norm": 63.5
     }
   ]
 }

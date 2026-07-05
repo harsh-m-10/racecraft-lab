@@ -3,16 +3,28 @@
   "slug": "arvid-lindblad",
   "is_active": true,
   "power_score": 43.42,
+  "power_score_v2": 45.12,
   "delta_score": 41.45,
   "chaos_index": 49.1,
   "sunday_edge": 50.0,
+  "race_pace": 49.1,
+  "quali_h2h": 41.9,
+  "tyre_management": 49.71,
+  "launch": 59.93,
+  "low_confidence": false,
   "total_races": 8,
   "seasons": [
     {
       "season": 2026,
       "overperformance": -1.706,
       "overperformance_norm": 41.45,
-      "races": 8
+      "races": 8,
+      "race_pace_norm": 49.1,
+      "avg_pace_gap_pct": 2.56,
+      "quali_h2h_norm": 41.9,
+      "quali_median_gap_pct": 0.21,
+      "tyre_management_norm": 49.71,
+      "launch_norm": 59.93
     }
   ]
 }

@@ -3,16 +3,28 @@
   "slug": "pietro-fittipaldi",
   "is_active": false,
   "power_score": 54.53,
+  "power_score_v2": 60.01,
   "delta_score": 56.72,
   "chaos_index": 50.0,
   "sunday_edge": 50.0,
+  "race_pace": null,
+  "quali_h2h": null,
+  "tyre_management": 61.02,
+  "launch": null,
+  "low_confidence": true,
   "total_races": 2,
   "seasons": [
     {
       "season": 2020,
       "overperformance": 1.568,
       "overperformance_norm": 56.72,
-      "races": 2
+      "races": 2,
+      "race_pace_norm": null,
+      "avg_pace_gap_pct": null,
+      "quali_h2h_norm": null,
+      "quali_median_gap_pct": null,
+      "tyre_management_norm": 61.02,
+      "launch_norm": null
     }
   ]
 }

@@ -3,28 +3,52 @@
   "slug": "nicholas-latifi",
   "is_active": false,
   "power_score": 63.06,
+  "power_score_v2": 47.05,
   "delta_score": 56.0,
   "chaos_index": 61.74,
   "sunday_edge": 64.56,
+  "race_pace": 36.42,
+  "quali_h2h": 34.69,
+  "tyre_management": 50.23,
+  "launch": 53.14,
+  "low_confidence": false,
   "total_races": 61,
   "seasons": [
     {
       "season": 2020,
       "overperformance": 2.649,
       "overperformance_norm": 62.27,
-      "races": 17
+      "races": 17,
+      "race_pace_norm": 34.46,
+      "avg_pace_gap_pct": 2.96,
+      "quali_h2h_norm": 30.79,
+      "quali_median_gap_pct": 0.77,
+      "tyre_management_norm": 53.43,
+      "launch_norm": 60.29
     },
     {
       "season": 2021,
       "overperformance": 1.081,
       "overperformance_norm": 57.72,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 40.73,
+      "avg_pace_gap_pct": 2.85,
+      "quali_h2h_norm": 39.46,
+      "quali_median_gap_pct": 0.43,
+      "tyre_management_norm": 41.35,
+      "launch_norm": 45.69
     },
     {
       "season": 2022,
       "overperformance": -0.334,
       "overperformance_norm": 48.01,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 34.08,
+      "avg_pace_gap_pct": 3.06,
+      "quali_h2h_norm": 33.83,
+      "quali_median_gap_pct": 0.47,
+      "tyre_management_norm": 55.91,
+      "launch_norm": 53.43
     }
   ]
 }

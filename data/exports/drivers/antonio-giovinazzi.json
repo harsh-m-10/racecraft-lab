@@ -3,28 +3,52 @@
   "slug": "antonio-giovinazzi",
   "is_active": false,
   "power_score": 46.8,
+  "power_score_v2": 46.78,
   "delta_score": 41.41,
   "chaos_index": 49.2,
   "sunday_edge": 61.98,
+  "race_pace": 43.88,
+  "quali_h2h": 53.61,
+  "tyre_management": 33.54,
+  "launch": 60.1,
+  "low_confidence": false,
   "total_races": 60,
   "seasons": [
     {
       "season": 2019,
       "overperformance": -1.048,
       "overperformance_norm": 41.91,
-      "races": 21
+      "races": 21,
+      "race_pace_norm": 43.89,
+      "avg_pace_gap_pct": 2.71,
+      "quali_h2h_norm": 49.74,
+      "quali_median_gap_pct": 0.0,
+      "tyre_management_norm": 25.71,
+      "launch_norm": 57.29
     },
     {
       "season": 2020,
       "overperformance": -1.503,
       "overperformance_norm": 40.96,
-      "races": 17
+      "races": 17,
+      "race_pace_norm": 41.77,
+      "avg_pace_gap_pct": 2.38,
+      "quali_h2h_norm": 51.5,
+      "quali_median_gap_pct": -0.07,
+      "tyre_management_norm": 38.1,
+      "launch_norm": 71.39
     },
     {
       "season": 2021,
       "overperformance": -1.07,
       "overperformance_norm": 41.36,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 45.97,
+      "avg_pace_gap_pct": 2.32,
+      "quali_h2h_norm": 59.6,
+      "quali_median_gap_pct": -0.47,
+      "tyre_management_norm": 36.81,
+      "launch_norm": 51.62
     }
   ]
 }

@@ -3,22 +3,40 @@
   "slug": "gabriel-bortoleto",
   "is_active": true,
   "power_score": 37.65,
+  "power_score_v2": 30.14,
   "delta_score": 46.04,
   "chaos_index": 34.88,
   "sunday_edge": 39.33,
+  "race_pace": 43.99,
+  "quali_h2h": 47.16,
+  "tyre_management": 21.96,
+  "launch": 38.25,
+  "low_confidence": false,
   "total_races": 32,
   "seasons": [
     {
       "season": 2025,
       "overperformance": -2.222,
       "overperformance_norm": 35.19,
-      "races": 24
+      "races": 24,
+      "race_pace_norm": 39.21,
+      "avg_pace_gap_pct": 2.13,
+      "quali_h2h_norm": 52.54,
+      "quali_median_gap_pct": -0.08,
+      "tyre_management_norm": 21.95,
+      "launch_norm": 38.21
     },
     {
       "season": 2026,
       "overperformance": 1.375,
       "overperformance_norm": 56.89,
-      "races": 8
+      "races": 8,
+      "race_pace_norm": 48.77,
+      "avg_pace_gap_pct": 2.61,
+      "quali_h2h_norm": 41.78,
+      "quali_median_gap_pct": 0.28,
+      "tyre_management_norm": 21.97,
+      "launch_norm": 38.29
     }
   ]
 }

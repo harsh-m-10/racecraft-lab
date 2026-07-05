@@ -3,34 +3,64 @@
   "slug": "oscar-piastri",
   "is_active": true,
   "power_score": 45.36,
+  "power_score_v2": 53.05,
   "delta_score": 48.24,
   "chaos_index": 48.55,
   "sunday_edge": 40.76,
+  "race_pace": 58.94,
+  "quali_h2h": 46.95,
+  "tyre_management": 48.92,
+  "launch": 44.4,
+  "low_confidence": false,
   "total_races": 78,
   "seasons": [
     {
       "season": 2023,
       "overperformance": -1.643,
       "overperformance_norm": 38.46,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 48.9,
+      "avg_pace_gap_pct": 1.34,
+      "quali_h2h_norm": 44.19,
+      "quali_median_gap_pct": 0.22,
+      "tyre_management_norm": 46.81,
+      "launch_norm": 58.0
     },
     {
       "season": 2024,
       "overperformance": 0.712,
       "overperformance_norm": 51.14,
-      "races": 24
+      "races": 24,
+      "race_pace_norm": 60.46,
+      "avg_pace_gap_pct": 0.71,
+      "quali_h2h_norm": 43.91,
+      "quali_median_gap_pct": 0.13,
+      "tyre_management_norm": 48.61,
+      "launch_norm": 39.77
     },
     {
       "season": 2025,
       "overperformance": 0.057,
       "overperformance_norm": 49.98,
-      "races": 24
+      "races": 24,
+      "race_pace_norm": 68.31,
+      "avg_pace_gap_pct": 0.19,
+      "quali_h2h_norm": 49.09,
+      "quali_median_gap_pct": 0.04,
+      "tyre_management_norm": 49.15,
+      "launch_norm": 41.97
     },
     {
       "season": 2026,
       "overperformance": 0.678,
       "overperformance_norm": 53.4,
-      "races": 8
+      "races": 8,
+      "race_pace_norm": 58.11,
+      "avg_pace_gap_pct": 1.21,
+      "quali_h2h_norm": 50.6,
+      "quali_median_gap_pct": -0.02,
+      "tyre_management_norm": 51.12,
+      "launch_norm": 37.86
     }
   ]
 }

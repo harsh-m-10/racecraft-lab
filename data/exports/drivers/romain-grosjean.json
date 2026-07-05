@@ -3,28 +3,52 @@
   "slug": "romain-grosjean",
   "is_active": false,
   "power_score": 41.49,
+  "power_score_v2": 43.43,
   "delta_score": 43.67,
   "chaos_index": 44.77,
   "sunday_edge": 44.1,
+  "race_pace": 41.51,
+  "quali_h2h": 52.03,
+  "tyre_management": 58.67,
+  "launch": 38.29,
+  "low_confidence": false,
   "total_races": 57,
   "seasons": [
     {
       "season": 2018,
       "overperformance": -1.84,
       "overperformance_norm": 39.93,
-      "races": 21
+      "races": 21,
+      "race_pace_norm": 46.47,
+      "avg_pace_gap_pct": 2.3,
+      "quali_h2h_norm": 59.22,
+      "quali_median_gap_pct": -0.33,
+      "tyre_management_norm": 66.7,
+      "launch_norm": 40.28
     },
     {
       "season": 2019,
       "overperformance": -1.654,
       "overperformance_norm": 37.23,
-      "races": 21
+      "races": 21,
+      "race_pace_norm": 41.45,
+      "avg_pace_gap_pct": 2.98,
+      "quali_h2h_norm": 46.99,
+      "quali_median_gap_pct": 0.05,
+      "tyre_management_norm": 52.82,
+      "launch_norm": 29.66
     },
     {
       "season": 2020,
       "overperformance": 1.011,
       "overperformance_norm": 53.86,
-      "races": 15
+      "races": 15,
+      "race_pace_norm": 36.62,
+      "avg_pace_gap_pct": 2.79,
+      "quali_h2h_norm": 49.88,
+      "quali_median_gap_pct": 0.0,
+      "tyre_management_norm": 56.49,
+      "launch_norm": 44.93
     }
   ]
 }

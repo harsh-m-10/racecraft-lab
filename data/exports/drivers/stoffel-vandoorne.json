@@ -3,16 +3,28 @@
   "slug": "stoffel-vandoorne",
   "is_active": false,
   "power_score": 75.99,
+  "power_score_v2": 60.57,
   "delta_score": 67.42,
   "chaos_index": 69.99,
   "sunday_edge": 69.64,
+  "race_pace": 42.07,
+  "quali_h2h": 35.66,
+  "tyre_management": 53.79,
+  "launch": 43.65,
+  "low_confidence": false,
   "total_races": 21,
   "seasons": [
     {
       "season": 2018,
       "overperformance": 3.183,
       "overperformance_norm": 67.42,
-      "races": 21
+      "races": 21,
+      "race_pace_norm": 42.07,
+      "avg_pace_gap_pct": 2.77,
+      "quali_h2h_norm": 35.66,
+      "quali_median_gap_pct": 0.37,
+      "tyre_management_norm": 53.79,
+      "launch_norm": 43.65
     }
   ]
 }

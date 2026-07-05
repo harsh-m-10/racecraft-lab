@@ -3,40 +3,76 @@
   "slug": "yuki-tsunoda",
   "is_active": false,
   "power_score": 47.27,
+  "power_score_v2": 45.18,
   "delta_score": 49.68,
   "chaos_index": 47.06,
   "sunday_edge": 46.19,
+  "race_pace": 44.99,
+  "quali_h2h": 45.46,
+  "tyre_management": 46.71,
+  "launch": 51.5,
+  "low_confidence": false,
   "total_races": 114,
   "seasons": [
     {
       "season": 2021,
       "overperformance": 1.609,
       "overperformance_norm": 61.74,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 47.81,
+      "avg_pace_gap_pct": 2.14,
+      "quali_h2h_norm": 35.15,
+      "quali_median_gap_pct": 0.65,
+      "tyre_management_norm": 74.95,
+      "launch_norm": 48.63
     },
     {
       "season": 2022,
       "overperformance": -1.147,
       "overperformance_norm": 42.21,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 45.04,
+      "avg_pace_gap_pct": 2.16,
+      "quali_h2h_norm": 44.41,
+      "quali_median_gap_pct": 0.21,
+      "tyre_management_norm": 46.24,
+      "launch_norm": 51.03
     },
     {
       "season": 2023,
       "overperformance": 1.547,
       "overperformance_norm": 61.95,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 43.94,
+      "avg_pace_gap_pct": 1.62,
+      "quali_h2h_norm": 58.9,
+      "quali_median_gap_pct": -0.29,
+      "tyre_management_norm": 34.3,
+      "launch_norm": 68.42
     },
     {
       "season": 2024,
       "overperformance": -1.387,
       "overperformance_norm": 43.06,
-      "races": 24
+      "races": 24,
+      "race_pace_norm": 42.48,
+      "avg_pace_gap_pct": 2.11,
+      "quali_h2h_norm": 55.88,
+      "quali_median_gap_pct": -0.14,
+      "tyre_management_norm": 26.36,
+      "launch_norm": 44.62
     },
     {
       "season": 2025,
       "overperformance": -1.57,
       "overperformance_norm": 39.42,
-      "races": 24
+      "races": 24,
+      "race_pace_norm": 45.68,
+      "avg_pace_gap_pct": 1.7,
+      "quali_h2h_norm": 32.95,
+      "quali_median_gap_pct": 0.65,
+      "tyre_management_norm": 51.7,
+      "launch_norm": 44.83
     }
   ]
 }

@@ -3,16 +3,28 @@
   "slug": "marcus-ericsson",
   "is_active": false,
   "power_score": 69.79,
+  "power_score_v2": 55.63,
   "delta_score": 62.98,
   "chaos_index": 65.32,
   "sunday_edge": 65.68,
+  "race_pace": 39.93,
+  "quali_h2h": 32.53,
+  "tyre_management": 59.68,
+  "launch": 52.79,
+  "low_confidence": false,
   "total_races": 21,
   "seasons": [
     {
       "season": 2018,
       "overperformance": 2.373,
       "overperformance_norm": 62.98,
-      "races": 21
+      "races": 21,
+      "race_pace_norm": 39.93,
+      "avg_pace_gap_pct": 2.99,
+      "quali_h2h_norm": 32.53,
+      "quali_median_gap_pct": 0.6,
+      "tyre_management_norm": 59.68,
+      "launch_norm": 52.79
     }
   ]
 }

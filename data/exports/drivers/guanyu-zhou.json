@@ -3,28 +3,52 @@
   "slug": "guanyu-zhou",
   "is_active": false,
   "power_score": 55.86,
+  "power_score_v2": 46.42,
   "delta_score": 56.5,
   "chaos_index": 50.53,
   "sunday_edge": 54.5,
+  "race_pace": 40.3,
+  "quali_h2h": 39.18,
+  "tyre_management": 52.75,
+  "launch": 46.53,
+  "low_confidence": false,
   "total_races": 68,
   "seasons": [
     {
       "season": 2022,
       "overperformance": 0.644,
       "overperformance_norm": 54.99,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 42.44,
+      "avg_pace_gap_pct": 2.37,
+      "quali_h2h_norm": 40.51,
+      "quali_median_gap_pct": 0.34,
+      "tyre_management_norm": 57.0,
+      "launch_norm": 35.76
     },
     {
       "season": 2023,
       "overperformance": 0.874,
       "overperformance_norm": 57.0,
-      "races": 22
+      "races": 22,
+      "race_pace_norm": 40.33,
+      "avg_pace_gap_pct": 1.82,
+      "quali_h2h_norm": 43.19,
+      "quali_median_gap_pct": 0.27,
+      "tyre_management_norm": 45.92,
+      "launch_norm": 49.91
     },
     {
       "season": 2024,
       "overperformance": 2.371,
       "overperformance_norm": 57.53,
-      "races": 24
+      "races": 24,
+      "race_pace_norm": 38.13,
+      "avg_pace_gap_pct": 2.45,
+      "quali_h2h_norm": 33.84,
+      "quali_median_gap_pct": 0.53,
+      "tyre_management_norm": 55.33,
+      "launch_norm": 53.93
     }
   ]
 }

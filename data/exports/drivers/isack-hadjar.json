@@ -3,22 +3,40 @@
   "slug": "isack-hadjar",
   "is_active": true,
   "power_score": 19.33,
+  "power_score_v2": 30.84,
   "delta_score": 36.3,
   "chaos_index": 16.85,
   "sunday_edge": 25.56,
+  "race_pace": 52.22,
+  "quali_h2h": 49.42,
+  "tyre_management": 51.96,
+  "launch": 35.96,
+  "low_confidence": false,
   "total_races": 32,
   "seasons": [
     {
       "season": 2025,
       "overperformance": -0.955,
       "overperformance_norm": 43.41,
-      "races": 24
+      "races": 24,
+      "race_pace_norm": 48.26,
+      "avg_pace_gap_pct": 1.53,
+      "quali_h2h_norm": 56.4,
+      "quali_median_gap_pct": -0.16,
+      "tyre_management_norm": 45.92,
+      "launch_norm": 36.34
     },
     {
       "season": 2026,
       "overperformance": -4.153,
       "overperformance_norm": 29.2,
-      "races": 8
+      "races": 8,
+      "race_pace_norm": 56.18,
+      "avg_pace_gap_pct": 1.5,
+      "quali_h2h_norm": 42.44,
+      "quali_median_gap_pct": 0.13,
+      "tyre_management_norm": 57.99,
+      "launch_norm": 35.59
     }
   ]
 }

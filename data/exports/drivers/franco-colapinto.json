@@ -3,28 +3,52 @@
   "slug": "franco-colapinto",
   "is_active": true,
   "power_score": 48.14,
+  "power_score_v2": 44.59,
   "delta_score": 54.33,
   "chaos_index": 42.28,
   "sunday_edge": 44.84,
+  "race_pace": 43.99,
+  "quali_h2h": 41.9,
+  "tyre_management": 48.56,
+  "launch": 56.27,
+  "low_confidence": false,
   "total_races": 35,
   "seasons": [
     {
       "season": 2024,
       "overperformance": 5.285,
       "overperformance_norm": 68.74,
-      "races": 9
+      "races": 9,
+      "race_pace_norm": 46.21,
+      "avg_pace_gap_pct": 1.82,
+      "quali_h2h_norm": 44.89,
+      "quali_median_gap_pct": 0.11,
+      "tyre_management_norm": 39.05,
+      "launch_norm": 65.01
     },
     {
       "season": 2025,
       "overperformance": -0.601,
       "overperformance_norm": 45.71,
-      "races": 18
+      "races": 18,
+      "race_pace_norm": 37.04,
+      "avg_pace_gap_pct": 2.28,
+      "quali_h2h_norm": 40.67,
+      "quali_median_gap_pct": 0.38,
+      "tyre_management_norm": 59.18,
+      "launch_norm": 50.81
     },
     {
       "season": 2026,
       "overperformance": -0.291,
       "overperformance_norm": 48.54,
-      "races": 8
+      "races": 8,
+      "race_pace_norm": 48.71,
+      "avg_pace_gap_pct": 2.62,
+      "quali_h2h_norm": 40.13,
+      "quali_median_gap_pct": 0.35,
+      "tyre_management_norm": 47.46,
+      "launch_norm": 53.0
     }
   ]
 }
