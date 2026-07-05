@@ -31,9 +31,19 @@ export function RaceTable({ rows }: { rows: RaceResultRow[] }) {
           {rows.map((r) => (
             <tr
               key={`${r.position}-${r.driver}`}
-              className="border-b border-line/50 last:border-0"
+              className={`border-b border-line/50 last:border-0 ${
+                r.position === 1
+                  ? "bg-accent/[0.07]"
+                  : r.position <= 3
+                    ? "bg-card-2/40"
+                    : ""
+              }`}
             >
-              <td className="num px-3 py-2 font-bold text-ink-2">
+              <td
+                className={`num px-3 py-2 font-bold ${
+                  r.position === 1 ? "text-accent" : "text-ink-2"
+                }`}
+              >
                 {r.position}
               </td>
               <td className="px-3 py-2">

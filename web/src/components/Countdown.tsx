@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { ScheduleEvent } from "@/lib/data";
+import { Flag } from "@/lib/flags";
 
 function sessionWindowMs(name: string): number {
   return name === "Race" || name === "Sprint" ? 2.5 * 3600_000 : 1.5 * 3600_000;
@@ -88,7 +89,9 @@ export function Countdown({ events }: { events: ScheduleEvent[] }) {
         <h1 className="mt-1 text-3xl font-black uppercase leading-none tracking-tight sm:text-5xl">
           {hero.name}
         </h1>
-        <p className="mt-2 text-ink-2">{hero.location}</p>
+        <p className="mt-2 flex items-center gap-2 text-ink-2">
+          <Flag country={hero.country} /> {hero.location}
+        </p>
       </div>
 
       {live ? (

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { getSchedule } from "@/lib/data";
+import { Flag } from "@/lib/flags";
 import { LocalTime } from "@/components/LocalTime";
 
 export const metadata: Metadata = {
@@ -44,8 +45,8 @@ export default function SchedulePage() {
                       </span>
                     ) : null}
                   </p>
-                  <h2 className="mt-1 text-lg font-bold leading-tight">
-                    {ev.name}
+                  <h2 className="mt-1 flex items-center gap-2 text-lg font-bold leading-tight">
+                    <Flag country={ev.country} /> {ev.name}
                   </h2>
                   <p className="text-sm text-mute">{ev.location}</p>
                 </div>

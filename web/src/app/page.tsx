@@ -35,7 +35,11 @@ export default async function Home() {
   return (
     <div className="flex flex-col gap-10">
       {/* Next race hero */}
-      <section className="grid gap-8 pt-2 lg:grid-cols-[3fr_2fr]">
+      <section className="relative grid gap-8 pt-2 lg:grid-cols-[3fr_2fr]">
+        <div
+          aria-hidden
+          className="pointer-events-none absolute -top-24 -left-32 h-80 w-80 rounded-full bg-accent/15 blur-3xl"
+        />
         <Countdown events={schedule.events} />
 
         {/* Latest results */}

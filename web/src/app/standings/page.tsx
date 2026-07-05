@@ -42,8 +42,17 @@ export default function StandingsPage() {
                   <tr
                     key={d.driver_id}
                     className="border-b border-line/50 last:border-0"
+                    style={{
+                      backgroundImage: `linear-gradient(90deg, rgba(225,6,0,0.07) ${
+                        (d.points / Math.max(s.drivers[0].points, 1)) * 100
+                      }%, transparent 0)`,
+                    }}
                   >
-                    <td className="num px-3 py-2 font-bold text-ink-2">
+                    <td
+                      className={`num px-3 py-2 font-bold ${
+                        d.position === 1 ? "text-accent" : "text-ink-2"
+                      }`}
+                    >
                       {d.position}
                     </td>
                     <td className="px-3 py-2">
@@ -91,8 +100,17 @@ export default function StandingsPage() {
                   <tr
                     key={c.team}
                     className="border-b border-line/50 last:border-0"
+                    style={{
+                      backgroundImage: `linear-gradient(90deg, rgba(225,6,0,0.07) ${
+                        (c.points / Math.max(s.constructors[0].points, 1)) * 100
+                      }%, transparent 0)`,
+                    }}
                   >
-                    <td className="num px-3 py-2 font-bold text-ink-2">
+                    <td
+                      className={`num px-3 py-2 font-bold ${
+                        c.position === 1 ? "text-accent" : "text-ink-2"
+                      }`}
+                    >
                       {c.position}
                     </td>
                     <td className="px-3 py-2">
