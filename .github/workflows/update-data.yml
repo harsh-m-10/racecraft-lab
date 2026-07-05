@@ -3,7 +3,9 @@ name: Update F1 data
 on:
   workflow_dispatch:
   schedule:
-    # Monday 06:00 UTC — after every race weekend. No-op when nothing new.
+    # Every 2 hours Friday–Sunday: quali and race results land the same day.
+    - cron: "0 */2 * * 5,6,0"
+    # Monday 06:00 UTC sweep — catches late classification changes. No-op when nothing new.
     - cron: "0 6 * * 1"
 
 permissions:

@@ -5,52 +5,72 @@ const EXPORTS_DIR = process.env.RACECRAFT_EXPORTS_DIR
   ? path.resolve(process.env.RACECRAFT_EXPORTS_DIR)
   : path.resolve(process.cwd(), "..", "data", "exports");
 
-export interface LeaderboardRow {
-  rank: number;
-  driver: string;
-  slug: string;
-  power_score: number;
-  power_score_v2: number;
-  delta_score: number;
-  chaos_index: number;
-  sunday_edge: number;
-  race_pace: number | null;
-  quali_h2h: number | null;
-  tyre_management: number | null;
-  launch: number | null;
-  low_confidence: boolean;
-  total_races: number;
+// ---------- schedule ----------
+
+export interface SessionSlot {
+  name: string;
+  date_utc: string;
 }
 
-export interface DriverSeason {
+export interface ScheduleEvent {
+  round: number;
+  name: string;
+  official_name: string;
+  country: string;
+  location: string;
+  format: string;
+  sessions: SessionSlot[];
+}
+
+export interface Schedule {
   season: number;
-  races: number;
-  overperformance: number | null;
-  overperformance_norm: number | null;
-  race_pace_norm: number | null;
-  avg_pace_gap_pct: number | null;
-  quali_h2h_norm: number | null;
-  quali_median_gap_pct: number | null;
-  tyre_management_norm: number | null;
-  launch_norm: number | null;
+  events: ScheduleEvent[];
 }
 
-export interface Driver {
+// ---------- standings ----------
+
+export interface DriverStanding {
+  position: number;
   driver: string;
-  slug: string;
-  is_active: boolean;
-  power_score: number;
-  power_score_v2: number;
-  delta_score: number;
-  chaos_index: number;
-  sunday_edge: number;
-  race_pace: number | null;
-  quali_h2h: number | null;
-  tyre_management: number | null;
-  launch: number | null;
-  low_confidence: boolean;
-  total_races: number;
-  seasons: DriverSeason[];
+  driver_id: string;
+  team: string;
+  points: number;
+  wins: number;
+  podiums: number;
+}
+
+export interface ConstructorStanding {
+  position: number;
+  team: string;
+  points: number;
+  wins: number;
+}
+
+export interface Standings {
+  season: number;
+  rounds_completed: number;
+  drivers: DriverStanding[];
+  constructors: ConstructorStanding[];
+}
+
+// ---------- event results ----------
+
+export interface RaceResultRow {
+  position: number;
+  driver: string;
+  team: string;
+  grid: number | null;
+  status: string;
+  points: number;
+}
+
+export interface QualiResultRow {
+  position: number;
+  driver: string;
+  team: string;
+  q1: string | null;
+  q2: string | null;
+  q3: string | null;
 }
 
 export interface PaceRow {
@@ -71,6 +91,9 @@ export interface QualiPair {
 export interface SeasonEvent {
   round: number;
   event: string;
+  race_result: RaceResultRow[];
+  sprint_result: RaceResultRow[];
+  quali_result: QualiResultRow[];
   race_pace: PaceRow[];
   quali_h2h: QualiPair[];
 }
@@ -80,46 +103,30 @@ export interface Season {
   events: SeasonEvent[];
 }
 
+export interface Meta {
+  generated_at: string;
+  seasons: number[];
+  sessions_ingested: number;
+  latest_season: number;
+  latest_round: number;
+}
+
+// ---------- loaders ----------
+
 function readJson<T>(file: string): T {
   return JSON.parse(fs.readFileSync(file, "utf-8")) as T;
 }
 
-export function getLeaderboard(): LeaderboardRow[] {
-  return readJson<LeaderboardRow[]>(path.join(EXPORTS_DIR, "leaderboard.json"));
+export function getSchedule(): Schedule {
+  return readJson<Schedule>(path.join(EXPORTS_DIR, "schedule.json"));
 }
 
-export function getDriverSlugs(): string[] {
-  return fs
-    .readdirSync(path.join(EXPORTS_DIR, "drivers"))
-    .filter((f) => f.endsWith(".json"))
-    .map((f) => f.replace(/\.json$/, ""));
+export function getStandings(): Standings {
+  return readJson<Standings>(path.join(EXPORTS_DIR, "standings.json"));
 }
 
-export function getDriver(slug: string): Driver | null {
-  const file = path.join(EXPORTS_DIR, "drivers", `${slug}.json`);
-  if (!fs.existsSync(file)) return null;
-  const d = readJson<Driver>(file);
-  // Sparse seasons (e.g. a one-race cameo) omit telemetry keys entirely;
-  // normalize missing fields to null so consumers only handle one case.
-  const nulls: Omit<DriverSeason, "season" | "races"> = {
-    overperformance: null,
-    overperformance_norm: null,
-    race_pace_norm: null,
-    avg_pace_gap_pct: null,
-    quali_h2h_norm: null,
-    quali_median_gap_pct: null,
-    tyre_management_norm: null,
-    launch_norm: null,
-  };
-  d.seasons = d.seasons.map((s) => ({ ...nulls, ...s }));
-  return d;
-}
-
-export function getAllDrivers(): Driver[] {
-  return getDriverSlugs()
-    .map((slug) => getDriver(slug))
-    .filter((d): d is Driver => d !== null)
-    .sort((a, b) => b.power_score_v2 - a.power_score_v2);
+export function getMeta(): Meta {
+  return readJson<Meta>(path.join(EXPORTS_DIR, "meta.json"));
 }
 
 export function getSeasonYears(): number[] {
@@ -134,4 +141,39 @@ export function getSeason(year: number): Season | null {
   const file = path.join(EXPORTS_DIR, "seasons", `${year}.json`);
   if (!fs.existsSync(file)) return null;
   return readJson<Season>(file);
+}
+
+export function getEvent(year: number, round: number): SeasonEvent | null {
+  const season = getSeason(year);
+  return season?.events.find((e) => e.round === round) ?? null;
+}
+
+/** Most recent event that has any session result at all. */
+export function latestEventWithResults(): { year: number; event: SeasonEvent } | null {
+  for (const year of getSeasonYears()) {
+    const season = getSeason(year);
+    if (!season) continue;
+    for (const ev of [...season.events].reverse()) {
+      if (
+        ev.race_result.length > 0 ||
+        ev.sprint_result.length > 0 ||
+        ev.quali_result.length > 0
+      ) {
+        return { year, event: ev };
+      }
+    }
+  }
+  return null;
+}
+
+/** Most recent event with a finished race (for the Debrief). */
+export function latestRace(): { year: number; event: SeasonEvent } | null {
+  for (const year of getSeasonYears()) {
+    const season = getSeason(year);
+    if (!season) continue;
+    for (const ev of [...season.events].reverse()) {
+      if (ev.race_result.length > 0) return { year, event: ev };
+    }
+  }
+  return null;
 }

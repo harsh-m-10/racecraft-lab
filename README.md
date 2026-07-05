@@ -1,46 +1,29 @@
-# Racecraft Lab
+# Racecraft
 
-Racecraft Lab is an opinionated Formula 1 analytics lab that ranks active F1 drivers using custom, transparent metrics built from the last 10 seasons of race data.
+**[racecraft-lab.vercel.app](https://racecraft-lab.vercel.app)** — everything Formula 1 in one place.
 
-## What you can explore
+- **Race weekend hub** — countdown to the next session, every session time in your timezone, live-now indicator.
+- **Results** — race, sprint and qualifying classifications for every Grand Prix since 2018, updated throughout each race weekend.
+- **Standings** — drivers' and constructors' championships from official points.
+- **News** — headlines aggregated from BBC Sport, Autosport, RaceFans and Motorsport.com, refreshed every 30 minutes.
+- **The Debrief** — the bit nobody else has: after each race, clean-lap analysis shows each driver's *true pace* (median clean racing lap as a % gap to the fastest car) and teammate qualifying margins. The finishing order tells you who won; the Debrief tells you who was fast.
 
-- **F1 Power Rankings**  
-  A single Power Score that blends:
-  - **Delta Score (Overperformance)** – how much a driver beats or loses to their grid spot, adjusted for teammate and starting position.
-  - **Chaos Index** – performance in high-DNF, high-variance races.
-  - **Sunday Edge** – race-day position gain blended with consistency.
+## How it works
 
-- **Active driver focus**  
-  Only drivers who appear in the latest season are treated as active and shown on the main leaderboard.
+- `pipeline/` — Python ETL. Ingests every session since 2018 via [FastF1](https://docs.fastf1.dev/) into Parquet, validates it, and exports JSON (`data/exports/`): schedule, standings, per-event results, and clean-lap analysis.
+- `web/` — Next.js app. Statically builds from `data/exports/` at deploy time; news is fetched with 30-minute revalidation.
+- `.github/workflows/update-data.yml` — refreshes data every 2 hours on race weekends (plus a Monday sweep). Each data commit triggers a redeploy, so the site updates itself.
 
-- **Driver deep dives**  
-  For each driver you can:
-  - See their Power Score, Delta Score, Chaos Index, and Sunday Edge.
-  - View a radar chart comparing their strengths.
-  - Track Delta Score by season to understand how their racecraft has evolved.
+## Running locally
 
-- **Telemetry metrics (new)**
-  Built from 270k+ laps of FastF1 timing data (2018–present), updated automatically after every race weekend:
-  - **Race Pace** – median clean-lap % gap to the fastest car, per dry race. Who actually had Sunday speed.
-  - **Qualifying Head-to-Head** – teammate gap in the deepest shared quali segment. Same car, same day.
-  - **Tyre Management** – stint degradation slope vs teammate on the same compound.
-  - **Launch Rating** – positions gained or lost on lap 1.
-  - **Power Score v2** – composite of all of the above plus the original three metrics.
+```bash
+# pipeline (Python 3.12)
+pip install -r pipeline/requirements.txt
+PYTHONPATH=pipeline python -m racecraft ingest   # fetch new sessions
+PYTHONPATH=pipeline python -m racecraft export   # rebuild data/exports
 
-## Pages
+# web
+cd web && npm install && npm run dev
+```
 
-- **Home** – overview of the model and a snapshot of the current meta (top overall, Delta Score leader, Chaos Index leader).
-- **Leaderboard** – sortable table of active drivers across Power Score, Delta Score, Chaos Index, and Sunday Edge.
-- **Driver Profile** – per-driver radar chart and per-season trend line.
-- **Methodology** – short explanation of how each metric is constructed and how Power Score is combined.
-- **Telemetry Lab** – race pace, quali head-to-head, and tyre management charts per season, plus the Power Score v2 table.
-
-## Data pipeline
-
-`pipeline/racecraft/` ingests every race, qualifying and sprint session since 2018 via [FastF1](https://docs.fastf1.dev/) into Parquet (`data/parquet/`), validates it, and exports the processed CSVs/JSON the app reads. A GitHub Actions workflow tops up new sessions and refreshes all metrics every Monday after a race weekend.
-
-## Philosophy
-
-Racecraft Lab is designed to be a **debate-starter**, not a final answer.
-
-The metrics simplify DNFs, weather, and strategy into a few signals so fans can quickly compare drivers and then dig into the races behind the numbers.
+Racecraft is an unofficial fan project, not associated with Formula 1 or the FIA.

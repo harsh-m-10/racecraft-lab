@@ -1,16 +1,15 @@
 @import "tailwindcss";
 
 @theme {
-  --color-page: #0e1117;
-  --color-card: #151a23;
-  --color-card-2: #1b212d;
-  --color-line: #262d3a;
-  --color-ink: #eef1f6;
-  --color-ink-2: #b4bac5;
-  --color-mute: #848b96;
-  --color-blue: #3987e5;
-  --color-brand: #ff1e56;
-  --color-good: #0ca30c;
+  --color-page: #0a0a0c;
+  --color-card: #121216;
+  --color-card-2: #1a1a20;
+  --color-line: #26262e;
+  --color-ink: #f5f5f7;
+  --color-ink-2: #a8a8b3;
+  --color-mute: #71717c;
+  --color-accent: #e10600;
+  --color-live: #16c784;
   --font-sans: var(--font-geist-sans), system-ui, -apple-system, "Segoe UI",
     sans-serif;
   --font-mono: var(--font-geist-mono), ui-monospace, monospace;
@@ -29,5 +28,27 @@ body {
 .card {
   background: var(--color-card);
   border: 1px solid var(--color-line);
-  border-radius: 12px;
+  border-radius: 10px;
+}
+
+.kicker {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+}
+
+@keyframes pulse-live {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.35;
+  }
+}
+
+.live-dot {
+  animation: pulse-live 1.4s ease-in-out infinite;
 }

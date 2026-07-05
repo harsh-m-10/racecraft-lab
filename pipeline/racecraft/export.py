@@ -7,8 +7,9 @@ from datetime import datetime, timezone
 import pandas as pd
 
 from . import EXPORTS_DIR, PROCESSED_DIR
+from .hub import build_standings, event_results, export_schedule
 from .manifest import load_manifest
-from .metrics import build_rankings
+from .metrics import _load_dataset, build_rankings, canonical_name_map
 from .telemetry import build_telemetry, compute_power_v2
 
 log = logging.getLogger("racecraft.export")
@@ -81,12 +82,20 @@ def _season_entry(trend_row: pd.Series, tele_row: pd.Series | None) -> dict:
     return entry
 
 
-def _export_season_files(sessions: pd.DataFrame, event_pace: pd.DataFrame, event_quali: pd.DataFrame) -> int:
+def _export_season_files(
+    sessions: pd.DataFrame,
+    event_pace: pd.DataFrame,
+    event_quali: pd.DataFrame,
+    results: pd.DataFrame,
+) -> int:
     seasons_dir = EXPORTS_DIR / "seasons"
     _clear_dir(seasons_dir)
+    name_map = canonical_name_map(results)
 
+    # Any event with at least one ingested session — so quali results show
+    # up Saturday night, before the race has happened.
     race_events = (
-        sessions[sessions["session"] == "Race"][["season", "round", "event"]]
+        sessions[["season", "round", "event"]]
         .drop_duplicates()
         .sort_values(["season", "round"])
     )
@@ -102,6 +111,7 @@ def _export_season_files(sessions: pd.DataFrame, event_pace: pd.DataFrame, event
             payload["events"].append({
                 "round": rnd,
                 "event": ev["event"],
+                **event_results(results, int(season), rnd, name_map),
                 "race_pace": [
                     {
                         "driver": p["driver"],
@@ -189,9 +199,21 @@ def export_all() -> None:
         [pd.read_parquet(f) for f in sorted((EXPORTS_DIR.parent / "parquet" / "sessions").glob("*.parquet"))],
         ignore_index=True,
     )
+    results = _load_dataset("results")
     n_seasons = _export_season_files(
-        sessions, telemetry["event_race_pace"], telemetry["event_quali_gaps"]
+        sessions, telemetry["event_race_pace"], telemetry["event_quali_gaps"], results
     )
+
+    # Fan-hub exports: calendar, standings, latest-event pointer.
+    latest_season = int(results["season"].max())
+    _write_json(EXPORTS_DIR / "standings.json", build_standings(results, latest_season))
+    try:
+        _write_json(EXPORTS_DIR / "schedule.json", export_schedule(latest_season))
+    except Exception as exc:  # schedule needs the network; keep the old file if offline
+        log.warning("Schedule export skipped: %s", exc)
+
+    races_done = results[(results["season"] == latest_season) & (results["session"] == "Race")]
+    latest_round = int(races_done["round"].max())
 
     manifest = load_manifest()
     ok_sessions = [s for s in manifest["sessions"].values() if s.get("status") == "ok"]
@@ -201,6 +223,8 @@ def export_all() -> None:
         "sessions_ingested": len(ok_sessions),
         "drivers": len(final),
         "active_drivers": int(final["is_active"].sum()),
+        "latest_season": latest_season,
+        "latest_round": latest_round,
     }
     _write_json(EXPORTS_DIR / "meta.json", meta)
 
