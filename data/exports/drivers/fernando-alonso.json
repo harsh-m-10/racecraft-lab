@@ -2,17 +2,17 @@
   "driver": "Fernando Alonso",
   "slug": "fernando-alonso",
   "is_active": true,
-  "power_score": 39.51,
-  "power_score_v2": 49.27,
-  "delta_score": 43.06,
-  "chaos_index": 41.58,
-  "sunday_edge": 43.38,
-  "race_pace": 46.63,
+  "power_score": 39.33,
+  "power_score_v2": 49.12,
+  "delta_score": 42.97,
+  "chaos_index": 42.04,
+  "sunday_edge": 43.3,
+  "race_pace": 46.55,
   "quali_h2h": 60.35,
-  "tyre_management": 49.66,
-  "launch": 52.29,
+  "tyre_management": 49.4,
+  "launch": 52.0,
   "low_confidence": false,
-  "total_races": 143,
+  "total_races": 144,
   "seasons": [
     {
       "season": 2018,
@@ -88,15 +88,15 @@
     },
     {
       "season": 2026,
-      "overperformance": 0.347,
-      "overperformance_norm": 51.74,
-      "races": 8,
-      "race_pace_norm": 33.5,
-      "avg_pace_gap_pct": 4.91,
+      "overperformance": 0.2,
+      "overperformance_norm": 51.14,
+      "races": 9,
+      "race_pace_norm": 32.96,
+      "avg_pace_gap_pct": 4.94,
       "quali_h2h_norm": 65.41,
       "quali_median_gap_pct": -0.45,
-      "tyre_management_norm": 51.37,
-      "launch_norm": 65.12
+      "tyre_management_norm": 49.53,
+      "launch_norm": 63.08
     }
   ]
 }

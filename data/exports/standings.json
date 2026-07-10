@@ -1,6 +1,6 @@
 {
   "season": 2026,
-  "rounds_completed": 8,
+  "rounds_completed": 9,
   "drivers": [
     {
       "position": 1,
@@ -16,34 +16,34 @@
       "driver": "George Russell",
       "driver_id": "russell",
       "team": "Mercedes",
-      "points": 136.0,
+      "points": 154.0,
       "wins": 2,
-      "podiums": 4
+      "podiums": 5
     },
     {
       "position": 3,
       "driver": "Lewis Hamilton",
       "driver_id": "hamilton",
       "team": "Ferrari",
-      "points": 132.0,
+      "points": 147.0,
       "wins": 1,
-      "podiums": 4
+      "podiums": 5
     },
     {
       "position": 4,
-      "driver": "Lando Norris",
-      "driver_id": "norris",
-      "team": "McLaren",
-      "points": 85.0,
-      "wins": 0,
-      "podiums": 2
-    },
-    {
-      "position": 5,
       "driver": "Charles Leclerc",
       "driver_id": "leclerc",
       "team": "Ferrari",
-      "points": 83.0,
+      "points": 108.0,
+      "wins": 1,
+      "podiums": 3
+    },
+    {
+      "position": 5,
+      "driver": "Lando Norris",
+      "driver_id": "norris",
+      "team": "McLaren",
+      "points": 97.0,
       "wins": 0,
       "podiums": 2
     },
@@ -70,7 +70,7 @@
       "driver": "Isack Hadjar",
       "driver_id": "hadjar",
       "team": "Red Bull Racing",
-      "points": 42.0,
+      "points": 52.0,
       "wins": 0,
       "podiums": 0
     },
@@ -79,7 +79,7 @@
       "driver": "Pierre Gasly",
       "driver_id": "gasly",
       "team": "Alpine",
-      "points": 41.0,
+      "points": 42.0,
       "wins": 0,
       "podiums": 1
     },
@@ -88,12 +88,21 @@
       "driver": "Liam Lawson",
       "driver_id": "lawson",
       "team": "Racing Bulls",
-      "points": 31.0,
+      "points": 39.0,
       "wins": 0,
       "podiums": 0
     },
     {
       "position": 11,
+      "driver": "Arvid Lindblad",
+      "driver_id": "arvid_lindblad",
+      "team": "Racing Bulls",
+      "points": 20.0,
+      "wins": 0,
+      "podiums": 0
+    },
+    {
+      "position": 12,
       "driver": "Oliver Bearman",
       "driver_id": "bearman",
       "team": "Haas F1 Team",
@@ -102,25 +111,25 @@
       "podiums": 0
     },
     {
-      "position": 12,
+      "position": 13,
       "driver": "Franco Colapinto",
       "driver_id": "colapinto",
       "team": "Alpine",
-      "points": 16.0,
-      "wins": 0,
-      "podiums": 0
-    },
-    {
-      "position": 13,
-      "driver": "Arvid Lindblad",
-      "driver_id": "arvid_lindblad",
-      "team": "Racing Bulls",
-      "points": 14.0,
+      "points": 18.0,
       "wins": 0,
       "podiums": 0
     },
     {
       "position": 14,
+      "driver": "Gabriel Bortoleto",
+      "driver_id": "bortoleto",
+      "team": "Audi",
+      "points": 6.0,
+      "wins": 0,
+      "podiums": 0
+    },
+    {
+      "position": 15,
       "driver": "Carlos Sainz",
       "driver_id": "sainz",
       "team": "Williams",
@@ -129,7 +138,7 @@
       "podiums": 0
     },
     {
-      "position": 15,
+      "position": 16,
       "driver": "Alexander Albon",
       "driver_id": "albon",
       "team": "Williams",
@@ -138,20 +147,11 @@
       "podiums": 0
     },
     {
-      "position": 16,
+      "position": 17,
       "driver": "Esteban Ocon",
       "driver_id": "ocon",
       "team": "Haas F1 Team",
       "points": 3.0,
-      "wins": 0,
-      "podiums": 0
-    },
-    {
-      "position": 17,
-      "driver": "Gabriel Bortoleto",
-      "driver_id": "bortoleto",
-      "team": "Audi",
-      "points": 2.0,
       "wins": 0,
       "podiums": 0
     },
@@ -205,37 +205,37 @@
     {
       "position": 1,
       "team": "Mercedes",
-      "points": 315.0,
+      "points": 333.0,
       "wins": 7
     },
     {
       "position": 2,
       "team": "Ferrari",
-      "points": 215.0,
-      "wins": 1
+      "points": 255.0,
+      "wins": 2
     },
     {
       "position": 3,
       "team": "McLaren",
-      "points": 167.0,
+      "points": 179.0,
       "wins": 0
     },
     {
       "position": 4,
       "team": "Red Bull Racing",
-      "points": 118.0,
+      "points": 128.0,
       "wins": 0
     },
     {
       "position": 5,
       "team": "Alpine",
-      "points": 57.0,
+      "points": 60.0,
       "wins": 0
     },
     {
       "position": 6,
       "team": "Racing Bulls",
-      "points": 45.0,
+      "points": 59.0,
       "wins": 0
     },
     {
@@ -253,7 +253,7 @@
     {
       "position": 9,
       "team": "Audi",
-      "points": 2.0,
+      "points": 6.0,
       "wins": 0
     },
     {

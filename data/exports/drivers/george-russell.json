@@ -2,17 +2,17 @@
   "driver": "George Russell",
   "slug": "george-russell",
   "is_active": true,
-  "power_score": 42.03,
-  "power_score_v2": 51.99,
-  "delta_score": 45.47,
-  "chaos_index": 41.96,
-  "sunday_edge": 45.74,
-  "race_pace": 51.94,
+  "power_score": 42.66,
+  "power_score_v2": 52.61,
+  "delta_score": 46.14,
+  "chaos_index": 42.79,
+  "sunday_edge": 45.84,
+  "race_pace": 51.91,
   "quali_h2h": 57.87,
-  "tyre_management": 48.14,
-  "launch": 43.95,
+  "tyre_management": 48.03,
+  "launch": 44.09,
   "low_confidence": false,
-  "total_races": 160,
+  "total_races": 161,
   "seasons": [
     {
       "season": 2019,
@@ -100,15 +100,15 @@
     },
     {
       "season": 2026,
-      "overperformance": -0.756,
-      "overperformance_norm": 46.21,
-      "races": 8,
-      "race_pace_norm": 61.66,
+      "overperformance": 0.278,
+      "overperformance_norm": 51.58,
+      "races": 9,
+      "race_pace_norm": 61.42,
       "avg_pace_gap_pct": 0.67,
       "quali_h2h_norm": 42.86,
       "quali_median_gap_pct": 0.24,
-      "tyre_management_norm": 42.86,
-      "launch_norm": 42.4
+      "tyre_management_norm": 41.91,
+      "launch_norm": 43.54
     }
   ]
 }

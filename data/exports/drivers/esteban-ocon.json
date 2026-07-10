@@ -2,17 +2,17 @@
   "driver": "Esteban Ocon",
   "slug": "esteban-ocon",
   "is_active": true,
-  "power_score": 44.05,
-  "power_score_v2": 46.1,
-  "delta_score": 47.62,
-  "chaos_index": 42.43,
-  "sunday_edge": 46.82,
-  "race_pace": 45.75,
+  "power_score": 44.45,
+  "power_score_v2": 46.52,
+  "delta_score": 47.86,
+  "chaos_index": 43.26,
+  "sunday_edge": 47.05,
+  "race_pace": 45.73,
   "quali_h2h": 47.25,
-  "tyre_management": 51.55,
-  "launch": 54.62,
+  "tyre_management": 51.92,
+  "launch": 54.93,
   "low_confidence": false,
-  "total_races": 159,
+  "total_races": 160,
   "seasons": [
     {
       "season": 2018,
@@ -100,15 +100,15 @@
     },
     {
       "season": 2026,
-      "overperformance": 1.463,
-      "overperformance_norm": 57.32,
-      "races": 8,
-      "race_pace_norm": 46.24,
-      "avg_pace_gap_pct": 2.99,
+      "overperformance": 1.619,
+      "overperformance_norm": 59.21,
+      "races": 9,
+      "race_pace_norm": 46.06,
+      "avg_pace_gap_pct": 2.98,
       "quali_h2h_norm": 39.92,
       "quali_median_gap_pct": 0.23,
-      "tyre_management_norm": 39.82,
-      "launch_norm": 60.58
+      "tyre_management_norm": 42.77,
+      "launch_norm": 63.08
     }
   ]
 }

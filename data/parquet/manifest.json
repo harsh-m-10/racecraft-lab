@@ -3289,13 +3289,12 @@
       "status": "ok"
     },
     "2026-09-Race": {
-      "attempts": 4,
-      "error": "The data you are trying to access has not been loaded yet. See `Session.load`",
-      "last_attempt_at": "2026-07-06T10:08:23+00:00",
+      "ingested_at": "2026-07-10T02:43:31+00:00",
+      "laps": 1113,
       "round": 9,
       "season": 2026,
       "session": "Race",
-      "status": "failed"
+      "status": "ok"
     },
     "2026-09-Sprint": {
       "ingested_at": "2026-07-05T05:06:10+00:00",
@@ -3314,5 +3313,5 @@
       "status": "ok"
     }
   },
-  "updated_at": "2026-07-06T10:08:23+00:00"
+  "updated_at": "2026-07-10T02:43:31+00:00"
 }

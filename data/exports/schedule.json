@@ -460,10 +460,6 @@
       "format": "sprint_qualifying",
       "sessions": [
         {
-          "name": "Practice 1",
-          "date_utc": "2026-10-09T08:30:00Z"
-        },
-        {
           "name": "Sprint Qualifying",
           "date_utc": "2026-10-09T12:30:00Z"
         },

@@ -2,17 +2,17 @@
   "driver": "Nico Hulkenberg",
   "slug": "nico-hulkenberg",
   "is_active": true,
-  "power_score": 50.07,
-  "power_score_v2": 53.36,
-  "delta_score": 52.98,
-  "chaos_index": 50.98,
-  "sunday_edge": 42.04,
-  "race_pace": 45.93,
+  "power_score": 49.29,
+  "power_score_v2": 52.87,
+  "delta_score": 52.03,
+  "chaos_index": 51.11,
+  "sunday_edge": 41.67,
+  "race_pace": 45.96,
   "quali_h2h": 52.96,
-  "tyre_management": 55.38,
-  "launch": 48.79,
+  "tyre_management": 55.33,
+  "launch": 48.97,
   "low_confidence": false,
-  "total_races": 125,
+  "total_races": 126,
   "seasons": [
     {
       "season": 2018,
@@ -100,15 +100,15 @@
     },
     {
       "season": 2026,
-      "overperformance": -1.375,
-      "overperformance_norm": 43.11,
-      "races": 8,
-      "race_pace_norm": 48.04,
-      "avg_pace_gap_pct": 2.72,
+      "overperformance": -2.547,
+      "overperformance_norm": 35.51,
+      "races": 9,
+      "race_pace_norm": 48.2,
+      "avg_pace_gap_pct": 2.66,
       "quali_h2h_norm": 57.38,
       "quali_median_gap_pct": -0.25,
-      "tyre_management_norm": 78.03,
-      "launch_norm": 28.78
+      "tyre_management_norm": 77.64,
+      "launch_norm": 29.87
     }
   ]
 }

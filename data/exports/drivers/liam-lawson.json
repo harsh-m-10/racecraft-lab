@@ -2,17 +2,17 @@
   "driver": "Liam Lawson",
   "slug": "liam-lawson",
   "is_active": true,
-  "power_score": 62.74,
-  "power_score_v2": 60.04,
-  "delta_score": 62.12,
-  "chaos_index": 67.31,
-  "sunday_edge": 39.75,
-  "race_pace": 44.84,
+  "power_score": 62.38,
+  "power_score_v2": 60.1,
+  "delta_score": 62.39,
+  "chaos_index": 65.16,
+  "sunday_edge": 40.16,
+  "race_pace": 44.88,
   "quali_h2h": 45.27,
-  "tyre_management": 62.36,
-  "launch": 56.53,
+  "tyre_management": 62.68,
+  "launch": 56.8,
   "low_confidence": false,
-  "total_races": 43,
+  "total_races": 44,
   "seasons": [
     {
       "season": 2023,
@@ -52,15 +52,15 @@
     },
     {
       "season": 2026,
-      "overperformance": 1.706,
-      "overperformance_norm": 58.55,
-      "races": 8,
-      "race_pace_norm": 50.28,
-      "avg_pace_gap_pct": 2.39,
+      "overperformance": 1.689,
+      "overperformance_norm": 59.61,
+      "races": 9,
+      "race_pace_norm": 50.4,
+      "avg_pace_gap_pct": 2.33,
       "quali_h2h_norm": 54.5,
       "quali_median_gap_pct": -0.08,
-      "tyre_management_norm": 50.29,
-      "launch_norm": 52.25
+      "tyre_management_norm": 51.57,
+      "launch_norm": 53.31
     }
   ]
 }

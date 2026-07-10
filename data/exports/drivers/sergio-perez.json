@@ -2,17 +2,17 @@
   "driver": "Sergio Perez",
   "slug": "sergio-perez",
   "is_active": true,
-  "power_score": 53.87,
-  "power_score_v2": 57.68,
-  "delta_score": 54.71,
-  "chaos_index": 51.45,
-  "sunday_edge": 50.52,
-  "race_pace": 55.26,
+  "power_score": 54.23,
+  "power_score_v2": 58.26,
+  "delta_score": 55.04,
+  "chaos_index": 51.43,
+  "sunday_edge": 50.8,
+  "race_pace": 55.32,
   "quali_h2h": 45.27,
-  "tyre_management": 51.82,
-  "launch": 47.63,
+  "tyre_management": 52.13,
+  "launch": 47.73,
   "low_confidence": false,
-  "total_races": 155,
+  "total_races": 156,
   "seasons": [
     {
       "season": 2018,
@@ -100,15 +100,15 @@
     },
     {
       "season": 2026,
-      "overperformance": 1.497,
-      "overperformance_norm": 57.5,
-      "races": 8,
-      "race_pace_norm": 37.66,
-      "avg_pace_gap_pct": 4.29,
+      "overperformance": 1.786,
+      "overperformance_norm": 60.16,
+      "races": 9,
+      "race_pace_norm": 38.13,
+      "avg_pace_gap_pct": 4.17,
       "quali_h2h_norm": 55.98,
       "quali_median_gap_pct": -0.13,
-      "tyre_management_norm": 52.27,
-      "launch_norm": 58.3
+      "tyre_management_norm": 54.74,
+      "launch_norm": 59.17
     }
   ]
 }

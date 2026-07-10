@@ -2,17 +2,17 @@
   "driver": "Lewis Hamilton",
   "slug": "lewis-hamilton",
   "is_active": true,
-  "power_score": 58.01,
-  "power_score_v2": 68.32,
-  "delta_score": 56.63,
-  "chaos_index": 55.01,
-  "sunday_edge": 55.09,
-  "race_pace": 62.92,
+  "power_score": 58.09,
+  "power_score_v2": 68.76,
+  "delta_score": 56.61,
+  "chaos_index": 54.88,
+  "sunday_edge": 55.14,
+  "race_pace": 62.93,
   "quali_h2h": 50.17,
-  "tyre_management": 49.82,
-  "launch": 49.68,
+  "tyre_management": 49.85,
+  "launch": 49.69,
   "low_confidence": false,
-  "total_races": 180,
+  "total_races": 181,
   "seasons": [
     {
       "season": 2018,
@@ -112,15 +112,15 @@
     },
     {
       "season": 2026,
-      "overperformance": 3.569,
-      "overperformance_norm": 67.87,
-      "races": 8,
-      "race_pace_norm": 62.14,
-      "avg_pace_gap_pct": 0.6,
+      "overperformance": 3.111,
+      "overperformance_norm": 67.7,
+      "races": 9,
+      "race_pace_norm": 62.17,
+      "avg_pace_gap_pct": 0.56,
       "quali_h2h_norm": 42.8,
       "quali_median_gap_pct": 0.18,
-      "tyre_management_norm": 44.5,
-      "launch_norm": 54.52
+      "tyre_management_norm": 44.75,
+      "launch_norm": 54.61
     }
   ]
 }

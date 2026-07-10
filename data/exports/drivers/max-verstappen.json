@@ -2,17 +2,17 @@
   "driver": "Max Verstappen",
   "slug": "max-verstappen",
   "is_active": true,
-  "power_score": 52.34,
-  "power_score_v2": 71.81,
-  "delta_score": 50.52,
-  "chaos_index": 56.25,
-  "sunday_edge": 48.34,
-  "race_pace": 65.89,
+  "power_score": 52.19,
+  "power_score_v2": 72.2,
+  "delta_score": 49.74,
+  "chaos_index": 57.69,
+  "sunday_edge": 47.59,
+  "race_pace": 65.91,
   "quali_h2h": 64.72,
-  "tyre_management": 44.39,
-  "launch": 49.22,
+  "tyre_management": 44.45,
+  "launch": 49.45,
   "low_confidence": false,
-  "total_races": 181,
+  "total_races": 182,
   "seasons": [
     {
       "season": 2018,
@@ -112,15 +112,15 @@
     },
     {
       "season": 2026,
-      "overperformance": 4.153,
-      "overperformance_norm": 70.8,
-      "races": 8,
-      "race_pace_norm": 60.3,
-      "avg_pace_gap_pct": 0.88,
+      "overperformance": 2.417,
+      "overperformance_norm": 63.75,
+      "races": 9,
+      "race_pace_norm": 60.51,
+      "avg_pace_gap_pct": 0.81,
       "quali_h2h_norm": 56.34,
       "quali_median_gap_pct": -0.1,
-      "tyre_management_norm": 42.01,
-      "launch_norm": 41.76
+      "tyre_management_norm": 42.57,
+      "launch_norm": 43.79
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T10:08:30+00:00",
+  "generated_at": "2026-07-10T02:43:38+00:00",
   "seasons": [
     2018,
     2019,
@@ -11,9 +11,9 @@
     2025,
     2026
   ],
-  "sessions_ingested": 413,
+  "sessions_ingested": 414,
   "drivers": 44,
   "active_drivers": 22,
   "latest_season": 2026,
-  "latest_round": 8
+  "latest_round": 9
 }

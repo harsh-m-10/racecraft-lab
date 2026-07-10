@@ -2,17 +2,17 @@
   "driver": "Lance Stroll",
   "slug": "lance-stroll",
   "is_active": true,
-  "power_score": 52.19,
-  "power_score_v2": 48.41,
-  "delta_score": 51.78,
-  "chaos_index": 49.93,
-  "sunday_edge": 54.15,
-  "race_pace": 44.41,
+  "power_score": 52.45,
+  "power_score_v2": 48.52,
+  "delta_score": 51.84,
+  "chaos_index": 50.44,
+  "sunday_edge": 54.11,
+  "race_pace": 44.32,
   "quali_h2h": 40.86,
-  "tyre_management": 49.43,
-  "launch": 62.18,
+  "tyre_management": 49.64,
+  "launch": 62.29,
   "low_confidence": false,
-  "total_races": 179,
+  "total_races": 180,
   "seasons": [
     {
       "season": 2018,
@@ -112,15 +112,15 @@
     },
     {
       "season": 2026,
-      "overperformance": -0.347,
-      "overperformance_norm": 48.26,
-      "races": 8,
-      "race_pace_norm": 33.5,
-      "avg_pace_gap_pct": 4.91,
+      "overperformance": -0.2,
+      "overperformance_norm": 48.86,
+      "races": 9,
+      "race_pace_norm": 32.71,
+      "avg_pace_gap_pct": 4.98,
       "quali_h2h_norm": 34.55,
       "quali_median_gap_pct": 0.45,
-      "tyre_management_norm": 48.63,
-      "launch_norm": 57.55
+      "tyre_management_norm": 50.47,
+      "launch_norm": 58.52
     }
   ]
 }

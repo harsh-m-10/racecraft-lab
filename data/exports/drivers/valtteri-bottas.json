@@ -2,17 +2,17 @@
   "driver": "Valtteri Bottas",
   "slug": "valtteri-bottas",
   "is_active": true,
-  "power_score": 40.52,
-  "power_score_v2": 44.86,
-  "delta_score": 43.74,
-  "chaos_index": 47.95,
-  "sunday_edge": 35.69,
-  "race_pace": 50.71,
+  "power_score": 40.25,
+  "power_score_v2": 44.65,
+  "delta_score": 43.41,
+  "chaos_index": 48.36,
+  "sunday_edge": 35.92,
+  "race_pace": 50.8,
   "quali_h2h": 50.85,
-  "tyre_management": 47.81,
-  "launch": 40.31,
+  "tyre_management": 47.5,
+  "launch": 40.25,
   "low_confidence": false,
-  "total_races": 157,
+  "total_races": 158,
   "seasons": [
     {
       "season": 2018,
@@ -100,15 +100,15 @@
     },
     {
       "season": 2026,
-      "overperformance": -1.497,
-      "overperformance_norm": 42.5,
-      "races": 8,
-      "race_pace_norm": 31.07,
-      "avg_pace_gap_pct": 5.28,
+      "overperformance": -1.786,
+      "overperformance_norm": 39.84,
+      "races": 9,
+      "race_pace_norm": 31.73,
+      "avg_pace_gap_pct": 5.13,
       "quali_h2h_norm": 44.03,
       "quali_median_gap_pct": 0.13,
-      "tyre_management_norm": 47.73,
-      "launch_norm": 53.76
+      "tyre_management_norm": 45.26,
+      "launch_norm": 53.31
     }
   ]
 }

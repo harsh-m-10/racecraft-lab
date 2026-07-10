@@ -2,17 +2,17 @@
   "driver": "Pierre Gasly",
   "slug": "pierre-gasly",
   "is_active": true,
-  "power_score": 48.18,
-  "power_score_v2": 52.97,
-  "delta_score": 50.13,
-  "chaos_index": 48.7,
-  "sunday_edge": 45.85,
-  "race_pace": 47.62,
+  "power_score": 47.95,
+  "power_score_v2": 52.93,
+  "delta_score": 49.75,
+  "chaos_index": 48.87,
+  "sunday_edge": 46.07,
+  "race_pace": 47.61,
   "quali_h2h": 56.23,
-  "tyre_management": 47.04,
-  "launch": 49.3,
+  "tyre_management": 47.01,
+  "launch": 49.48,
   "low_confidence": false,
-  "total_races": 181,
+  "total_races": 182,
   "seasons": [
     {
       "season": 2018,
@@ -112,15 +112,15 @@
     },
     {
       "season": 2026,
-      "overperformance": 0.291,
-      "overperformance_norm": 51.46,
-      "races": 8,
-      "race_pace_norm": 51.79,
-      "avg_pace_gap_pct": 2.16,
+      "overperformance": -0.339,
+      "overperformance_norm": 48.07,
+      "races": 9,
+      "race_pace_norm": 51.71,
+      "avg_pace_gap_pct": 2.13,
       "quali_h2h_norm": 62.42,
       "quali_median_gap_pct": -0.38,
-      "tyre_management_norm": 52.54,
-      "launch_norm": 53.0
+      "tyre_management_norm": 52.25,
+      "launch_norm": 54.61
     }
   ]
 }

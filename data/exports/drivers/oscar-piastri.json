@@ -2,17 +2,17 @@
   "driver": "Oscar Piastri",
   "slug": "oscar-piastri",
   "is_active": true,
-  "power_score": 45.36,
-  "power_score_v2": 52.78,
-  "delta_score": 48.24,
-  "chaos_index": 48.55,
-  "sunday_edge": 40.76,
-  "race_pace": 58.94,
+  "power_score": 44.08,
+  "power_score_v2": 51.87,
+  "delta_score": 47.71,
+  "chaos_index": 46.81,
+  "sunday_edge": 40.81,
+  "race_pace": 58.88,
   "quali_h2h": 46.51,
-  "tyre_management": 48.92,
-  "launch": 44.4,
+  "tyre_management": 48.71,
+  "launch": 43.66,
   "low_confidence": false,
-  "total_races": 78,
+  "total_races": 79,
   "seasons": [
     {
       "season": 2023,
@@ -52,15 +52,15 @@
     },
     {
       "season": 2026,
-      "overperformance": 0.678,
-      "overperformance_norm": 53.4,
-      "races": 8,
-      "race_pace_norm": 58.11,
+      "overperformance": 0.225,
+      "overperformance_norm": 51.28,
+      "races": 9,
+      "race_pace_norm": 57.84,
       "avg_pace_gap_pct": 1.21,
       "quali_h2h_norm": 48.84,
       "quali_median_gap_pct": 0.01,
-      "tyre_management_norm": 51.12,
-      "launch_norm": 37.86
+      "tyre_management_norm": 50.26,
+      "launch_norm": 34.89
     }
   ]
 }
