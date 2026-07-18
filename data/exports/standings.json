@@ -4,7 +4,7 @@
   "drivers": [
     {
       "position": 1,
-      "driver": "Kimi Antonelli",
+      "driver": "Andrea Kimi Antonelli",
       "driver_id": "antonelli",
       "team": "Mercedes",
       "points": 179.0,
@@ -175,7 +175,7 @@
     },
     {
       "position": 20,
-      "driver": "Nico Hulkenberg",
+      "driver": "Nico H\u00fclkenberg",
       "driver_id": "hulkenberg",
       "team": "Audi",
       "points": 0.0,
@@ -184,7 +184,7 @@
     },
     {
       "position": 21,
-      "driver": "Sergio Perez",
+      "driver": "Sergio P\u00e9rez",
       "driver_id": "perez",
       "team": "Cadillac",
       "points": 0.0,

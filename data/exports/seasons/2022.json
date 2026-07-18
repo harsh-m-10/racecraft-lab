@@ -135,7 +135,7 @@
         },
         {
           "position": 17,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Aston Martin",
           "grid": 17,
           "status": "Finished",
@@ -143,7 +143,7 @@
         },
         {
           "position": 18,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 4,
           "status": "Fuel pressure",
@@ -194,7 +194,7 @@
         },
         {
           "position": 4,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:32.311",
           "q2": "1:31.008",
@@ -298,7 +298,7 @@
         },
         {
           "position": 17,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Aston Martin",
           "q1": "1:32.777",
           "q2": null,
@@ -337,7 +337,7 @@
           "clean_laps": 46
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 98.058,
           "gap_pct": 0.373,
           "clean_laps": 42
@@ -427,7 +427,7 @@
           "clean_laps": 42
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 100.648,
           "gap_pct": 3.025,
           "clean_laps": 42
@@ -462,7 +462,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -0.264
         },
@@ -475,7 +475,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 0.265
@@ -566,7 +566,7 @@
         },
         {
           "team": "Aston Martin",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.274
@@ -581,7 +581,7 @@
         {
           "team": "Aston Martin",
           "driver": "Lance Stroll",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 0.275
         },
@@ -624,7 +624,7 @@
         },
         {
           "position": 4,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 1,
           "status": "Finished",
@@ -688,7 +688,7 @@
         },
         {
           "position": 12,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Aston Martin",
           "grid": 17,
           "status": "Finished",
@@ -755,7 +755,7 @@
       "quali_result": [
         {
           "position": 1,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:29.705",
           "q2": "1:28.924",
@@ -891,7 +891,7 @@
         },
         {
           "position": 18,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Aston Martin",
           "q1": "1:30.543",
           "q2": null,
@@ -934,7 +934,7 @@
           "clean_laps": 36
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 93.697,
           "gap_pct": 0.216,
           "clean_laps": 35
@@ -1012,7 +1012,7 @@
           "clean_laps": 34
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 96.588,
           "gap_pct": 3.308,
           "clean_laps": 36
@@ -1027,7 +1027,7 @@
       "quali_h2h": [
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": -0.295
@@ -1049,7 +1049,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": 0.296
         },
@@ -1119,7 +1119,7 @@
         {
           "team": "Aston Martin",
           "driver": "Lance Stroll",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.317
         },
@@ -1139,7 +1139,7 @@
         },
         {
           "team": "Aston Martin",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": 0.318
@@ -1167,7 +1167,7 @@
         },
         {
           "position": 2,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 3,
           "status": "Finished",
@@ -1338,7 +1338,7 @@
         },
         {
           "position": 3,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:18.834",
           "q2": "1:18.340",
@@ -1489,7 +1489,7 @@
           "clean_laps": 45
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 82.787,
           "gap_pct": 0.804,
           "clean_laps": 44
@@ -1608,13 +1608,13 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -0.11
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 0.11
@@ -1740,7 +1740,7 @@
         },
         {
           "position": 2,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 3,
           "status": "Finished",
@@ -1910,7 +1910,7 @@
         },
         {
           "position": 3,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 7,
           "status": "Finished",
@@ -2104,7 +2104,7 @@
         },
         {
           "position": 7,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:19.773",
           "q2": "1:19.296",
@@ -2229,7 +2229,7 @@
           "clean_laps": 52
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 81.181,
           "gap_pct": 0.48,
           "clean_laps": 53
@@ -2329,7 +2329,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -2.014
         },
@@ -2370,7 +2370,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 2.056
@@ -2484,7 +2484,7 @@
         },
         {
           "position": 4,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 4,
           "status": "Finished",
@@ -2647,7 +2647,7 @@
         },
         {
           "position": 4,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:30.055",
           "q2": "1:29.673",
@@ -2801,13 +2801,13 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -0.051
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 0.051
@@ -2926,7 +2926,7 @@
         },
         {
           "position": 2,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 5,
           "status": "Finished",
@@ -3113,7 +3113,7 @@
         },
         {
           "position": 5,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:20.447",
           "q2": "1:19.830",
@@ -3254,7 +3254,7 @@
           "clean_laps": 58
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 87.648,
           "gap_pct": 0.541,
           "clean_laps": 57
@@ -3373,7 +3373,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -0.437
         },
@@ -3393,7 +3393,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 0.439
@@ -3511,7 +3511,7 @@
       "race_result": [
         {
           "position": 1,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 3,
           "status": "Finished",
@@ -3690,7 +3690,7 @@
         },
         {
           "position": 3,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:13.004",
           "q2": "1:11.954",
@@ -3851,7 +3851,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": -0.052
@@ -3859,7 +3859,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": 0.052
         },
@@ -3991,7 +3991,7 @@
         },
         {
           "position": 2,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 2,
           "status": "Finished",
@@ -4154,7 +4154,7 @@
         },
         {
           "position": 2,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:42.733",
           "q2": "1:41.955",
@@ -4313,7 +4313,7 @@
           "clean_laps": 42
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 107.953,
           "gap_pct": 0.293,
           "clean_laps": 42
@@ -4431,7 +4431,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": -0.064
@@ -4439,7 +4439,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": 0.064
         },
@@ -4722,7 +4722,7 @@
         },
         {
           "position": 20,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 13,
           "status": "Gearbox",
@@ -4829,7 +4829,7 @@
         },
         {
           "position": 13,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:33.929",
           "q2": "1:33.127",
@@ -5012,7 +5012,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q2",
           "gap_pct": -10.073
         },
@@ -5095,7 +5095,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q2",
           "gap_pct": 11.202
@@ -5165,7 +5165,7 @@
         },
         {
           "position": 2,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 4,
           "status": "Finished",
@@ -5344,7 +5344,7 @@
         },
         {
           "position": 4,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:40.521",
           "q2": "1:42.513",
@@ -5499,7 +5499,7 @@
           "clean_laps": 43
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 92.937,
           "gap_pct": 0.304,
           "clean_laps": 42
@@ -5594,7 +5594,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -0.552
         },
@@ -5607,7 +5607,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 0.555
@@ -5884,7 +5884,7 @@
         },
         {
           "position": 20,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 5,
           "status": "Collision damage",
@@ -5926,7 +5926,7 @@
         },
         {
           "position": 5,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 13,
           "status": "Finished",
@@ -6152,7 +6152,7 @@
         },
         {
           "position": 13,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:06.143",
           "q2": "1:06.458",
@@ -6331,7 +6331,7 @@
           "clean_laps": 41
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 72.818,
           "gap_pct": 3.845,
           "clean_laps": 21
@@ -6341,7 +6341,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q2",
           "gap_pct": -1.631
         },
@@ -6424,7 +6424,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q2",
           "gap_pct": 1.658
@@ -6510,7 +6510,7 @@
         },
         {
           "position": 4,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 3,
           "status": "Finished",
@@ -6665,7 +6665,7 @@
         },
         {
           "position": 3,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:32.354",
           "q2": "1:32.120",
@@ -6822,7 +6822,7 @@
           "clean_laps": 42
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 98.59,
           "gap_pct": 0.505,
           "clean_laps": 44
@@ -6941,13 +6941,13 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -0.174
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 0.174
@@ -7111,7 +7111,7 @@
         },
         {
           "position": 5,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 11,
           "status": "Finished",
@@ -7322,7 +7322,7 @@
         },
         {
           "position": 11,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:19.118",
           "q2": "1:18.516",
@@ -7469,13 +7469,13 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q2",
           "gap_pct": -1.035
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q2",
           "gap_pct": 1.046
@@ -7559,7 +7559,7 @@
         },
         {
           "position": 2,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 2,
           "status": "Finished",
@@ -7730,7 +7730,7 @@
         },
         {
           "position": 3,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:45.377",
           "q2": "1:44.794",
@@ -7881,7 +7881,7 @@
           "clean_laps": 36
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 112.671,
           "gap_pct": 0.306,
           "clean_laps": 35
@@ -7987,7 +7987,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -0.763
         },
@@ -8000,7 +8000,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 0.769
@@ -8164,7 +8164,7 @@
         },
         {
           "position": 5,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 5,
           "status": "Finished",
@@ -8327,7 +8327,7 @@
         },
         {
           "position": 5,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:11.641",
           "q2": "1:11.314",
@@ -8480,7 +8480,7 @@
           "clean_laps": 54
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 76.405,
           "gap_pct": 0.45,
           "clean_laps": 55
@@ -8580,7 +8580,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -1.034
         },
@@ -8607,7 +8607,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 1.045
@@ -8765,7 +8765,7 @@
         },
         {
           "position": 6,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 13,
           "status": "Finished",
@@ -8912,7 +8912,7 @@
         },
         {
           "position": 4,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:21.495",
           "q2": "1:21.358",
@@ -9067,7 +9067,7 @@
           "clean_laps": 40
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 86.181,
           "gap_pct": 1.036,
           "clean_laps": 38
@@ -9174,7 +9174,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -1.108
         },
@@ -9187,7 +9187,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 1.121
@@ -9312,7 +9312,7 @@
       "race_result": [
         {
           "position": 1,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 2,
           "status": "Finished",
@@ -9483,7 +9483,7 @@
         },
         {
           "position": 2,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:54.404",
           "q2": "1:52.818",
@@ -9645,7 +9645,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": -1.76
@@ -9688,7 +9688,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": 1.792
         },
@@ -9792,7 +9792,7 @@
         },
         {
           "position": 2,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 4,
           "status": "Finished",
@@ -9971,7 +9971,7 @@
         },
         {
           "position": 4,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:30.622",
           "q2": "1:29.925",
@@ -10111,7 +10111,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -0.451
         },
@@ -10131,7 +10131,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 0.454
@@ -10280,7 +10280,7 @@
         },
         {
           "position": 4,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 9,
           "status": "Finished",
@@ -10443,7 +10443,7 @@
         },
         {
           "position": 4,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:36.163",
           "q2": "1:35.864",
@@ -10598,7 +10598,7 @@
           "clean_laps": 45
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 101.809,
           "gap_pct": 0.618,
           "clean_laps": 43
@@ -10712,13 +10712,13 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -0.208
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 0.209
@@ -10859,7 +10859,7 @@
         },
         {
           "position": 3,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 4,
           "status": "Finished",
@@ -11030,7 +11030,7 @@
         },
         {
           "position": 4,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:19.706",
           "q2": "1:18.615",
@@ -11173,7 +11173,7 @@
           "clean_laps": 66
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 82.901,
           "gap_pct": 0.415,
           "clean_laps": 66
@@ -11291,7 +11291,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -0.452
         },
@@ -11311,7 +11311,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 0.454
@@ -11484,7 +11484,7 @@
         },
         {
           "position": 7,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 4,
           "status": "Finished",
@@ -11630,7 +11630,7 @@
         },
         {
           "position": 5,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 9,
           "status": "Finished",
@@ -11824,7 +11824,7 @@
         },
         {
           "position": 9,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:13.613",
           "q2": "1:11.456",
@@ -11957,7 +11957,7 @@
           "clean_laps": 50
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 76.228,
           "gap_pct": 0.537,
           "clean_laps": 52
@@ -12040,7 +12040,7 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -4.926
         },
@@ -12088,7 +12088,7 @@
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 5.181
@@ -12194,7 +12194,7 @@
         },
         {
           "position": 3,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "grid": 2,
           "status": "Finished",
@@ -12349,7 +12349,7 @@
         },
         {
           "position": 2,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Red Bull Racing",
           "q1": "1:24.820",
           "q2": "1:24.419",
@@ -12514,7 +12514,7 @@
           "clean_laps": 54
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 90.226,
           "gap_pct": 0.098,
           "clean_laps": 51
@@ -12626,13 +12626,13 @@
         {
           "team": "Red Bull Racing",
           "driver": "Max Verstappen",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q3",
           "gap_pct": -0.271
         },
         {
           "team": "Red Bull Racing",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Max Verstappen",
           "segment": "Q3",
           "gap_pct": 0.272

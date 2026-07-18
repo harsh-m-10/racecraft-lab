@@ -31,7 +31,7 @@
         },
         {
           "position": 4,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 16,
           "status": "Finished",
@@ -55,7 +55,7 @@
         },
         {
           "position": 7,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 17,
           "status": "Finished",
@@ -290,7 +290,7 @@
         },
         {
           "position": 16,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:16.525",
           "q2": null,
@@ -298,7 +298,7 @@
         },
         {
           "position": 17,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:16.579",
           "q2": null,
@@ -355,7 +355,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q1",
           "gap_pct": -0.724
         },
@@ -432,20 +432,20 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.082
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q1",
           "gap_pct": 0.729
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": 0.082
@@ -505,7 +505,7 @@
         },
         {
           "position": 6,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 8,
           "status": "Finished",
@@ -577,7 +577,7 @@
         },
         {
           "position": 15,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 12,
           "status": "Lapped",
@@ -675,7 +675,7 @@
         },
         {
           "position": 7,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 7,
           "status": "Finished",
@@ -771,7 +771,7 @@
         },
         {
           "position": 19,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 20,
           "status": "Finished",
@@ -845,7 +845,7 @@
         },
         {
           "position": 8,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:31.676",
           "q2": "1:31.590",
@@ -877,7 +877,7 @@
         },
         {
           "position": 12,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:31.921",
           "q2": "1:31.632",
@@ -1004,7 +1004,7 @@
           "clean_laps": 50
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 97.782,
           "gap_pct": 1.01,
           "clean_laps": 51
@@ -1058,7 +1058,7 @@
           "clean_laps": 50
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 98.457,
           "gap_pct": 1.708,
           "clean_laps": 49
@@ -1075,7 +1075,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.417
         },
@@ -1116,7 +1116,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.419
@@ -1144,7 +1144,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": -0.239
@@ -1194,7 +1194,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 0.239
         },
@@ -1253,7 +1253,7 @@
         },
         {
           "position": 6,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 6,
           "status": "Finished",
@@ -1333,7 +1333,7 @@
         },
         {
           "position": 16,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 16,
           "status": "Finished",
@@ -1416,7 +1416,7 @@
         },
         {
           "position": 6,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:27.968",
           "q2": "1:27.639",
@@ -1496,7 +1496,7 @@
         },
         {
           "position": 16,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:28.570",
           "q2": null,
@@ -1585,7 +1585,7 @@
           "clean_laps": 50
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 93.112,
           "gap_pct": 1.053,
           "clean_laps": 50
@@ -1615,7 +1615,7 @@
           "clean_laps": 50
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 93.37,
           "gap_pct": 1.333,
           "clean_laps": 50
@@ -1689,13 +1689,13 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.271
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.271
@@ -1765,7 +1765,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": -0.059
@@ -1773,7 +1773,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 0.059
         },
@@ -1886,7 +1886,7 @@
         },
         {
           "position": 11,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 5,
           "status": "Finished",
@@ -1958,7 +1958,7 @@
         },
         {
           "position": 20,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 16,
           "status": "Disqualified",
@@ -1993,7 +1993,7 @@
         },
         {
           "position": 4,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:31.415",
           "q2": "1:30.716",
@@ -2089,7 +2089,7 @@
         },
         {
           "position": 16,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:32.067",
           "q2": null,
@@ -2178,7 +2178,7 @@
           "clean_laps": 48
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 98.422,
           "gap_pct": 0.947,
           "clean_laps": 48
@@ -2226,7 +2226,7 @@
           "clean_laps": 36
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 98.971,
           "gap_pct": 1.51,
           "clean_laps": 48
@@ -2261,7 +2261,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.226
         },
@@ -2274,7 +2274,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.227
@@ -2358,7 +2358,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": -0.129
@@ -2373,7 +2373,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 0.129
         },
@@ -2439,7 +2439,7 @@
         },
         {
           "position": 6,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 5,
           "status": "Finished",
@@ -2511,7 +2511,7 @@
         },
         {
           "position": 15,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 18,
           "status": "Lapped",
@@ -2594,7 +2594,7 @@
         },
         {
           "position": 5,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:28.128",
           "q2": "1:27.798",
@@ -2698,7 +2698,7 @@
         },
         {
           "position": 18,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:28.782",
           "q2": null,
@@ -2747,7 +2747,7 @@
           "clean_laps": 45
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 93.792,
           "gap_pct": 0.919,
           "clean_laps": 45
@@ -2801,7 +2801,7 @@
           "clean_laps": 45
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 95.505,
           "gap_pct": 2.762,
           "clean_laps": 44
@@ -2849,7 +2849,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.522
         },
@@ -2862,7 +2862,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.525
@@ -2953,7 +2953,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": -0.76
@@ -2968,7 +2968,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 0.766
         }
@@ -3020,7 +3020,7 @@
         },
         {
           "position": 6,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 3,
           "status": "Finished",
@@ -3084,7 +3084,7 @@
         },
         {
           "position": 14,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 16,
           "status": "Lapped",
@@ -3190,7 +3190,7 @@
         },
         {
           "position": 7,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 1,
           "status": "Finished",
@@ -3206,7 +3206,7 @@
         },
         {
           "position": 9,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 11,
           "status": "Finished",
@@ -3320,7 +3320,7 @@
         },
         {
           "position": 3,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:27.077",
           "q2": "1:26.606",
@@ -3424,7 +3424,7 @@
         },
         {
           "position": 16,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:27.473",
           "q2": null,
@@ -3513,7 +3513,7 @@
           "clean_laps": 48
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 91.725,
           "gap_pct": 0.712,
           "clean_laps": 49
@@ -3549,7 +3549,7 @@
           "clean_laps": 50
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 92.881,
           "gap_pct": 1.981,
           "clean_laps": 47
@@ -3596,7 +3596,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": -0.132
@@ -3611,7 +3611,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": 0.132
         },
@@ -3667,7 +3667,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.149
         },
@@ -3687,7 +3687,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": 0.149
@@ -3816,7 +3816,7 @@
         },
         {
           "position": 12,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 17,
           "status": "Finished",
@@ -3872,7 +3872,7 @@
         },
         {
           "position": 19,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 13,
           "status": "Retired",
@@ -3987,7 +3987,7 @@
         },
         {
           "position": 13,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:15.943",
           "q2": "1:15.772",
@@ -4019,7 +4019,7 @@
         },
         {
           "position": 17,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:16.518",
           "q2": null,
@@ -4142,7 +4142,7 @@
           "clean_laps": 47
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 82.096,
           "gap_pct": 1.679,
           "clean_laps": 40
@@ -4160,7 +4160,7 @@
           "clean_laps": 50
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 82.284,
           "gap_pct": 1.912,
           "clean_laps": 49
@@ -4183,7 +4183,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q2",
           "gap_pct": -0.578
         },
@@ -4252,7 +4252,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q2",
           "gap_pct": 0.581
@@ -4260,7 +4260,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.233
         },
@@ -4280,7 +4280,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": 0.233
@@ -4427,7 +4427,7 @@
         },
         {
           "position": 16,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 13,
           "status": "Lapped",
@@ -4443,7 +4443,7 @@
         },
         {
           "position": 18,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 15,
           "status": "Lapped",
@@ -4566,7 +4566,7 @@
         },
         {
           "position": 13,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:11.871",
           "q2": "1:11.596",
@@ -4582,7 +4582,7 @@
         },
         {
           "position": 15,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:11.880",
           "q2": null,
@@ -4721,7 +4721,7 @@
           "clean_laps": 61
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 78.508,
           "gap_pct": 4.52,
           "clean_laps": 63
@@ -4739,7 +4739,7 @@
           "clean_laps": 65
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 78.918,
           "gap_pct": 5.065,
           "clean_laps": 62
@@ -4832,7 +4832,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": -0.043
@@ -4840,13 +4840,13 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q1",
           "gap_pct": -0.519
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q1",
           "gap_pct": 0.522
@@ -4854,7 +4854,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 0.043
         },
@@ -4926,7 +4926,7 @@
         },
         {
           "position": 5,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 15,
           "status": "Finished",
@@ -5030,7 +5030,7 @@
         },
         {
           "position": 18,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 6,
           "status": "Retired",
@@ -5089,7 +5089,7 @@
         },
         {
           "position": 6,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:12.815",
           "q2": "1:12.585",
@@ -5169,7 +5169,7 @@
         },
         {
           "position": 16,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:13.190",
           "q2": null,
@@ -5246,7 +5246,7 @@
           "clean_laps": 55
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 80.909,
           "gap_pct": 1.339,
           "clean_laps": 48
@@ -5276,7 +5276,7 @@
           "clean_laps": 54
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 81.531,
           "gap_pct": 2.119,
           "clean_laps": 54
@@ -5349,7 +5349,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.365
         },
@@ -5362,7 +5362,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.366
@@ -5405,7 +5405,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.198
         },
@@ -5432,7 +5432,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": 0.199
@@ -5489,7 +5489,7 @@
         },
         {
           "position": 3,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 4,
           "status": "Finished",
@@ -5529,7 +5529,7 @@
         },
         {
           "position": 8,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 11,
           "status": "Finished",
@@ -5660,7 +5660,7 @@
         },
         {
           "position": 4,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:12.279",
           "q2": "1:11.974",
@@ -5732,7 +5732,7 @@
         },
         {
           "position": 13,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:12.323",
           "q2": "1:12.183",
@@ -5803,7 +5803,7 @@
           "clean_laps": 61
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 75.51,
           "gap_pct": 0.283,
           "clean_laps": 59
@@ -5845,7 +5845,7 @@
           "clean_laps": 59
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 77.067,
           "gap_pct": 2.351,
           "clean_laps": 61
@@ -5921,7 +5921,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.689
         },
@@ -5941,7 +5941,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.694
@@ -6004,7 +6004,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": -0.086
@@ -6026,7 +6026,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 0.086
         },
@@ -6130,7 +6130,7 @@
         },
         {
           "position": 9,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 20,
           "status": "Lapped",
@@ -6210,7 +6210,7 @@
         },
         {
           "position": 19,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 9,
           "status": "Retired",
@@ -6293,7 +6293,7 @@
         },
         {
           "position": 9,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:05.178",
           "q2": "1:05.052",
@@ -6381,7 +6381,7 @@
         },
         {
           "position": 20,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:05.606",
           "q2": null,
@@ -6438,7 +6438,7 @@
           "clean_laps": 61
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 70.797,
           "gap_pct": 1.838,
           "clean_laps": 61
@@ -6518,7 +6518,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.786
         },
@@ -6539,13 +6539,13 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.736
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.792
@@ -6622,7 +6622,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": 0.742
@@ -6651,7 +6651,7 @@
         },
         {
           "position": 3,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 19,
           "status": "Finished",
@@ -6755,7 +6755,7 @@
         },
         {
           "position": 16,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 10,
           "status": "Retired",
@@ -6846,7 +6846,7 @@
         },
         {
           "position": 7,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:26.265",
           "q2": "1:25.620",
@@ -6942,7 +6942,7 @@
         },
         {
           "position": 19,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:26.574",
           "q2": null,
@@ -6983,7 +6983,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.404
         },
@@ -7003,7 +7003,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.406
@@ -7074,7 +7074,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.148
         },
@@ -7087,7 +7087,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": 0.148
@@ -7195,7 +7195,7 @@
         },
         {
           "position": 12,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 14,
           "status": "Finished",
@@ -7227,7 +7227,7 @@
         },
         {
           "position": 16,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 19,
           "status": "Finished",
@@ -7397,7 +7397,7 @@
         },
         {
           "position": 17,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 19,
           "status": "Finished",
@@ -7405,7 +7405,7 @@
         },
         {
           "position": 18,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 17,
           "status": "Finished",
@@ -7535,7 +7535,7 @@
         },
         {
           "position": 14,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:41.844",
           "q2": "1:41.707",
@@ -7567,7 +7567,7 @@
         },
         {
           "position": 18,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:42.139",
           "q2": null,
@@ -7630,7 +7630,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q1",
           "gap_pct": -0.348
         },
@@ -7658,7 +7658,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q2",
           "gap_pct": -0.365
         },
@@ -7685,7 +7685,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q2",
           "gap_pct": 0.366
@@ -7713,7 +7713,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q1",
           "gap_pct": 0.349
@@ -7812,7 +7812,7 @@
         },
         {
           "position": 10,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 15,
           "status": "Lapped",
@@ -7836,7 +7836,7 @@
         },
         {
           "position": 13,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 18,
           "status": "Lapped",
@@ -8015,7 +8015,7 @@
         },
         {
           "position": 15,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:15.782",
           "q2": "1:16.386",
@@ -8047,7 +8047,7 @@
         },
         {
           "position": 19,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:16.081",
           "q2": null,
@@ -8100,7 +8100,7 @@
           "clean_laps": 64
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 82.37,
           "gap_pct": 1.807,
           "clean_laps": 64
@@ -8112,7 +8112,7 @@
           "clean_laps": 67
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 82.447,
           "gap_pct": 1.902,
           "clean_laps": 66
@@ -8209,7 +8209,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q2",
           "gap_pct": -1.551
         },
@@ -8230,7 +8230,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.651
         },
@@ -8285,7 +8285,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q2",
           "gap_pct": 1.576
@@ -8313,7 +8313,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": 0.655
@@ -8437,7 +8437,7 @@
         },
         {
           "position": 14,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 17,
           "status": "Finished",
@@ -8453,7 +8453,7 @@
         },
         {
           "position": 16,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 11,
           "status": "Finished",
@@ -8576,7 +8576,7 @@
         },
         {
           "position": 11,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:09.845",
           "q2": "1:09.493",
@@ -8624,7 +8624,7 @@
         },
         {
           "position": 17,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:10.195",
           "q2": null,
@@ -8681,7 +8681,7 @@
           "clean_laps": 55
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 75.232,
           "gap_pct": 0.618,
           "clean_laps": 53
@@ -8765,7 +8765,7 @@
           "clean_laps": 54
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 76.745,
           "gap_pct": 2.641,
           "clean_laps": 50
@@ -8809,7 +8809,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q2",
           "gap_pct": -0.259
         },
@@ -8843,7 +8843,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q2",
           "gap_pct": 0.26
@@ -8858,7 +8858,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.225
         },
@@ -8885,7 +8885,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": 0.226
@@ -8976,7 +8976,7 @@
         },
         {
           "position": 9,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 6,
           "status": "Finished",
@@ -9064,7 +9064,7 @@
         },
         {
           "position": 20,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 12,
           "status": "Did not start",
@@ -9123,7 +9123,7 @@
         },
         {
           "position": 7,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:19.747",
           "q2": "1:19.245",
@@ -9163,7 +9163,7 @@
         },
         {
           "position": 12,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:19.777",
           "q2": "1:19.498",
@@ -9284,7 +9284,7 @@
           "clean_laps": 49
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 83.671,
           "gap_pct": 0.942,
           "clean_laps": 49
@@ -9389,13 +9389,13 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.054
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.054
@@ -9403,7 +9403,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q2",
           "gap_pct": -0.22
         },
@@ -9430,7 +9430,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q2",
           "gap_pct": 0.221
@@ -9523,7 +9523,7 @@
         },
         {
           "position": 4,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 4,
           "status": "Finished",
@@ -9619,7 +9619,7 @@
         },
         {
           "position": 16,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 17,
           "status": "Finished",
@@ -9686,7 +9686,7 @@
         },
         {
           "position": 4,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:42.247",
           "q2": "1:41.464",
@@ -9790,7 +9790,7 @@
         },
         {
           "position": 17,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:42.916",
           "q2": null,
@@ -9829,7 +9829,7 @@
           "clean_laps": 42
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 105.197,
           "gap_pct": 0.227,
           "clean_laps": 43
@@ -9913,7 +9913,7 @@
           "clean_laps": 42
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 107.023,
           "gap_pct": 1.967,
           "clean_laps": 42
@@ -9961,7 +9961,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": -0.346
@@ -9969,7 +9969,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": 0.347
         },
@@ -10025,7 +10025,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.394
         },
@@ -10045,7 +10045,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": 0.395
@@ -10104,7 +10104,7 @@
         },
         {
           "position": 5,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 4,
           "status": "Finished",
@@ -10224,7 +10224,7 @@
         },
         {
           "position": 20,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 11,
           "status": "Lapped",
@@ -10259,7 +10259,7 @@
         },
         {
           "position": 4,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:30.036",
           "q2": "1:29.649",
@@ -10315,7 +10315,7 @@
         },
         {
           "position": 11,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:30.715",
           "q2": "1:30.141",
@@ -10426,7 +10426,7 @@
           "clean_laps": 57
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 96.969,
           "gap_pct": 0.54,
           "clean_laps": 57
@@ -10462,7 +10462,7 @@
           "clean_laps": 56
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 98.407,
           "gap_pct": 2.031,
           "clean_laps": 55
@@ -10520,7 +10520,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.423
         },
@@ -10540,7 +10540,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.425
@@ -10589,7 +10589,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": -0.116
@@ -10611,7 +10611,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 0.116
         },
@@ -10707,7 +10707,7 @@
         },
         {
           "position": 8,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 11,
           "status": "Finished",
@@ -10747,7 +10747,7 @@
         },
         {
           "position": 13,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 7,
           "status": "Finished",
@@ -10869,7 +10869,7 @@
         },
         {
           "position": 8,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 11,
           "status": "Finished",
@@ -10909,7 +10909,7 @@
         },
         {
           "position": 13,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 4,
           "status": "Finished",
@@ -11023,7 +11023,7 @@
         },
         {
           "position": 7,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:33.501",
           "q2": "1:33.044",
@@ -11055,7 +11055,7 @@
         },
         {
           "position": 11,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:33.551",
           "q2": "1:33.334",
@@ -11166,7 +11166,7 @@
           "clean_laps": 48
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 99.88,
           "gap_pct": 0.552,
           "clean_laps": 49
@@ -11208,7 +11208,7 @@
           "clean_laps": 49
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 100.293,
           "gap_pct": 0.967,
           "clean_laps": 50
@@ -11275,7 +11275,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.309
         },
@@ -11295,7 +11295,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.31
@@ -11323,7 +11323,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": -0.61
@@ -11352,7 +11352,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 0.614
         },
@@ -11425,7 +11425,7 @@
         },
         {
           "position": 6,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 6,
           "status": "Finished",
@@ -11529,7 +11529,7 @@
         },
         {
           "position": 19,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 13,
           "status": "Retired",
@@ -11588,7 +11588,7 @@
         },
         {
           "position": 6,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:17.291",
           "q2": "1:16.773",
@@ -11644,7 +11644,7 @@
         },
         {
           "position": 13,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:17.251",
           "q2": "1:17.016",
@@ -11745,7 +11745,7 @@
           "clean_laps": 61
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 82.467,
           "gap_pct": 0.485,
           "clean_laps": 61
@@ -11811,7 +11811,7 @@
           "clean_laps": 62
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 84.225,
           "gap_pct": 2.627,
           "clean_laps": 21
@@ -11848,7 +11848,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.11
         },
@@ -11861,7 +11861,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.11
@@ -11910,7 +11910,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": -0.208
@@ -11932,7 +11932,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 0.208
         },
@@ -11980,7 +11980,7 @@
         },
         {
           "position": 2,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 2,
           "status": "Finished",
@@ -12036,7 +12036,7 @@
         },
         {
           "position": 9,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 10,
           "status": "Finished",
@@ -12142,7 +12142,7 @@
         },
         {
           "position": 2,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 2,
           "status": "Finished",
@@ -12246,7 +12246,7 @@
         },
         {
           "position": 15,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 10,
           "status": "Finished",
@@ -12304,7 +12304,7 @@
         },
         {
           "position": 2,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:10.192",
           "q2": "1:09.774",
@@ -12368,7 +12368,7 @@
         },
         {
           "position": 10,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:10.337",
           "q2": "1:09.985",
@@ -12467,7 +12467,7 @@
           "clean_laps": 59
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 74.268,
           "gap_pct": 0.58,
           "clean_laps": 59
@@ -12539,7 +12539,7 @@
           "clean_laps": 60
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 75.153,
           "gap_pct": 1.778,
           "clean_laps": 61
@@ -12567,7 +12567,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": -0.367
@@ -12596,7 +12596,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": 0.369
         },
@@ -12708,7 +12708,7 @@
         },
         {
           "position": 3,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 17,
           "status": "Finished",
@@ -12740,7 +12740,7 @@
         },
         {
           "position": 7,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 11,
           "status": "Finished",
@@ -12935,7 +12935,7 @@
         },
         {
           "position": 11,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:54.555",
           "q2": "1:52.781",
@@ -12983,7 +12983,7 @@
         },
         {
           "position": 17,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:56.314",
           "q2": null,
@@ -13052,7 +13052,7 @@
           "clean_laps": 43
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 95.615,
           "gap_pct": 0.544,
           "clean_laps": 45
@@ -13076,7 +13076,7 @@
           "clean_laps": 43
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 96.108,
           "gap_pct": 1.062,
           "clean_laps": 43
@@ -13149,7 +13149,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q1",
           "gap_pct": -2.725
         },
@@ -13197,7 +13197,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": -1.816
@@ -13239,7 +13239,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q1",
           "gap_pct": 2.802
@@ -13247,7 +13247,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 1.85
         },
@@ -13305,7 +13305,7 @@
         },
         {
           "position": 5,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 5,
           "status": "Finished",
@@ -13425,7 +13425,7 @@
         },
         {
           "position": 20,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 11,
           "status": "Retired",
@@ -13475,7 +13475,7 @@
         },
         {
           "position": 6,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 7,
           "status": "Finished",
@@ -13555,7 +13555,7 @@
         },
         {
           "position": 16,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 14,
           "status": "Finished",
@@ -13629,7 +13629,7 @@
         },
         {
           "position": 5,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:20.576",
           "q2": "1:20.084",
@@ -13677,7 +13677,7 @@
         },
         {
           "position": 11,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:20.630",
           "q2": "1:20.353",
@@ -13788,7 +13788,7 @@
           "clean_laps": 50
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 86.395,
           "gap_pct": 1.703,
           "clean_laps": 50
@@ -13897,13 +13897,13 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q3",
           "gap_pct": -0.23
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q3",
           "gap_pct": 0.231
@@ -13945,7 +13945,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q2",
           "gap_pct": -0.225
@@ -13967,7 +13967,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q2",
           "gap_pct": 0.225
         },
@@ -14085,7 +14085,7 @@
         },
         {
           "position": 9,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "grid": 18,
           "status": "Finished",
@@ -14133,7 +14133,7 @@
         },
         {
           "position": 15,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "grid": 14,
           "status": "Finished",
@@ -14288,7 +14288,7 @@
         },
         {
           "position": 14,
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "team": "Mercedes",
           "q1": "1:22.894",
           "q2": "1:23.080",
@@ -14320,7 +14320,7 @@
         },
         {
           "position": 18,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Kick Sauber",
           "q1": "1:23.450",
           "q2": null,
@@ -14381,7 +14381,7 @@
           "clean_laps": 55
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 89.601,
           "gap_pct": 1.558,
           "clean_laps": 53
@@ -14453,7 +14453,7 @@
           "clean_laps": 55
         },
         {
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "median_lap_s": 90.088,
           "gap_pct": 2.11,
           "clean_laps": 55
@@ -14490,7 +14490,7 @@
         {
           "team": "Mercedes",
           "driver": "George Russell",
-          "teammate": "Kimi Antonelli",
+          "teammate": "Andrea Kimi Antonelli",
           "segment": "Q2",
           "gap_pct": -0.421
         },
@@ -14511,7 +14511,7 @@
         {
           "team": "Kick Sauber",
           "driver": "Gabriel Bortoleto",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.091
         },
@@ -14559,7 +14559,7 @@
         },
         {
           "team": "Mercedes",
-          "driver": "Kimi Antonelli",
+          "driver": "Andrea Kimi Antonelli",
           "teammate": "George Russell",
           "segment": "Q2",
           "gap_pct": 0.423
@@ -14587,7 +14587,7 @@
         },
         {
           "team": "Kick Sauber",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Gabriel Bortoleto",
           "segment": "Q1",
           "gap_pct": 0.091

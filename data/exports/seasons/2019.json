@@ -55,7 +55,7 @@
         },
         {
           "position": 7,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 11,
           "status": "+1 Lap",
@@ -103,7 +103,7 @@
         },
         {
           "position": 13,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 10,
           "status": "+1 Lap",
@@ -242,7 +242,7 @@
         },
         {
           "position": 10,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:22.908",
           "q2": "1:22.532",
@@ -250,7 +250,7 @@
         },
         {
           "position": 11,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:22.540",
           "q2": "1:22.562",
@@ -367,7 +367,7 @@
           "clean_laps": 54
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 89.05,
           "gap_pct": 1.486,
           "clean_laps": 53
@@ -397,7 +397,7 @@
           "clean_laps": 53
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 90.02,
           "gap_pct": 2.592,
           "clean_laps": 53
@@ -511,14 +511,14 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.131
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q2",
           "gap_pct": -0.01
@@ -526,7 +526,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q2",
           "gap_pct": 0.01
         },
@@ -554,7 +554,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.131
         },
@@ -666,7 +666,7 @@
         },
         {
           "position": 10,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 14,
           "status": "Finished",
@@ -722,7 +722,7 @@
         },
         {
           "position": 17,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 17,
           "status": "Engine",
@@ -861,7 +861,7 @@
         },
         {
           "position": 14,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:29.893",
           "q2": "1:29.756",
@@ -885,7 +885,7 @@
         },
         {
           "position": 17,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:30.034",
           "q2": null,
@@ -948,7 +948,7 @@
           "clean_laps": 42
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 97.35,
           "gap_pct": 1.111,
           "clean_laps": 41
@@ -996,7 +996,7 @@
           "clean_laps": 41
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 98.108,
           "gap_pct": 1.899,
           "clean_laps": 40
@@ -1112,7 +1112,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.194
         },
@@ -1132,7 +1132,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.359
@@ -1153,7 +1153,7 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q1",
           "gap_pct": 0.195
@@ -1161,7 +1161,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.36
         },
@@ -1243,7 +1243,7 @@
         },
         {
           "position": 8,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 12,
           "status": "+1 Lap",
@@ -1339,7 +1339,7 @@
         },
         {
           "position": 20,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 8,
           "status": "Power Unit",
@@ -1406,7 +1406,7 @@
         },
         {
           "position": 8,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:33.644",
           "q2": "1:33.968",
@@ -1438,7 +1438,7 @@
         },
         {
           "position": 12,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:34.026",
           "q2": "1:33.299",
@@ -1543,7 +1543,7 @@
           "clean_laps": 51
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 99.797,
           "gap_pct": 2.605,
           "clean_laps": 51
@@ -1597,7 +1597,7 @@
           "clean_laps": 51
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 100.624,
           "gap_pct": 3.455,
           "clean_laps": 11
@@ -1661,13 +1661,13 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q3",
           "gap_pct": -0.004
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q3",
           "gap_pct": 0.004
@@ -1688,7 +1688,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.282
@@ -1710,7 +1710,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.283
         },
@@ -1776,7 +1776,7 @@
         },
         {
           "position": 6,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 5,
           "status": "Finished",
@@ -1840,7 +1840,7 @@
         },
         {
           "position": 14,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 15,
           "status": "+1 Lap",
@@ -1931,7 +1931,7 @@
         },
         {
           "position": 5,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:42.249",
           "q2": "1:41.870",
@@ -2019,7 +2019,7 @@
         },
         {
           "position": 16,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:43.427",
           "q2": null,
@@ -2102,7 +2102,7 @@
           "clean_laps": 34
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 107.61,
           "gap_pct": 1.757,
           "clean_laps": 44
@@ -2156,7 +2156,7 @@
           "clean_laps": 42
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 108.869,
           "gap_pct": 2.948,
           "clean_laps": 39
@@ -2204,7 +2204,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.371
@@ -2240,7 +2240,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.91
         },
@@ -2261,7 +2261,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.373
         },
@@ -2274,7 +2274,7 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q1",
           "gap_pct": 0.918
@@ -2397,7 +2397,7 @@
         },
         {
           "position": 13,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 0,
           "status": "Finished",
@@ -2413,7 +2413,7 @@
         },
         {
           "position": 15,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 15,
           "status": "Finished",
@@ -2576,7 +2576,7 @@
         },
         {
           "position": 15,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:18.286",
           "q2": "1:17.886",
@@ -2584,7 +2584,7 @@
         },
         {
           "position": 16,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:18.404",
           "q2": null,
@@ -2697,13 +2697,13 @@
           "clean_laps": 55
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 83.858,
           "gap_pct": 2.313,
           "clean_laps": 55
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 84.196,
           "gap_pct": 2.726,
           "clean_laps": 55
@@ -2812,7 +2812,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": -0.024
         },
@@ -2846,14 +2846,14 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.236
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q1",
           "gap_pct": 0.024
@@ -2861,7 +2861,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.236
         },
@@ -2982,7 +2982,7 @@
         },
         {
           "position": 12,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 16,
           "status": "+1 Lap",
@@ -2990,7 +2990,7 @@
         },
         {
           "position": 13,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 11,
           "status": "+1 Lap",
@@ -3137,7 +3137,7 @@
         },
         {
           "position": 11,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:12.097",
           "q2": "1:11.670",
@@ -3185,7 +3185,7 @@
         },
         {
           "position": 17,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:12.233",
           "q2": null,
@@ -3263,7 +3263,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q2",
           "gap_pct": -0.177
         },
@@ -3290,7 +3290,7 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q2",
           "gap_pct": 0.178
@@ -3332,7 +3332,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.842
@@ -3340,7 +3340,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.849
         },
@@ -3414,7 +3414,7 @@
         },
         {
           "position": 7,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 7,
           "status": "+1 Lap",
@@ -3454,7 +3454,7 @@
         },
         {
           "position": 12,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 15,
           "status": "+1 Lap",
@@ -3577,7 +3577,7 @@
         },
         {
           "position": 7,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:11.720",
           "q2": "1:11.553",
@@ -3649,7 +3649,7 @@
         },
         {
           "position": 16,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:12.197",
           "q2": null,
@@ -3720,7 +3720,7 @@
           "clean_laps": 60
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 76.886,
           "gap_pct": 1.756,
           "clean_laps": 59
@@ -3744,7 +3744,7 @@
           "clean_laps": 59
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 77.269,
           "gap_pct": 2.263,
           "clean_laps": 61
@@ -3829,7 +3829,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q3",
           "gap_pct": -0.355
         },
@@ -3849,7 +3849,7 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q3",
           "gap_pct": 0.356
@@ -3912,7 +3912,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.095
@@ -3927,7 +3927,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.096
         },
@@ -4009,7 +4009,7 @@
         },
         {
           "position": 8,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 13,
           "status": "+1 Lap",
@@ -4041,7 +4041,7 @@
         },
         {
           "position": 12,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 14,
           "status": "+1 Lap",
@@ -4212,7 +4212,7 @@
         },
         {
           "position": 13,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:30.865",
           "q2": "1:30.544",
@@ -4220,7 +4220,7 @@
         },
         {
           "position": 14,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:30.964",
           "q2": "1:30.738",
@@ -4307,7 +4307,7 @@
           "clean_laps": 42
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 96.614,
           "gap_pct": 1.902,
           "clean_laps": 45
@@ -4343,7 +4343,7 @@
           "clean_laps": 44
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 96.849,
           "gap_pct": 2.15,
           "clean_laps": 45
@@ -4450,7 +4450,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q2",
           "gap_pct": -0.193
         },
@@ -4484,14 +4484,14 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q2",
           "gap_pct": 0.194
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.831
@@ -4520,7 +4520,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.838
         },
@@ -4626,7 +4626,7 @@
         },
         {
           "position": 11,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 13,
           "status": "+1 Lap",
@@ -4642,7 +4642,7 @@
         },
         {
           "position": 13,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 15,
           "status": "+1 Lap",
@@ -4797,7 +4797,7 @@
         },
         {
           "position": 12,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:04.733",
           "q2": "1:04.516",
@@ -4829,7 +4829,7 @@
         },
         {
           "position": 16,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:04.789",
           "q2": null,
@@ -4912,13 +4912,13 @@
           "clean_laps": 67
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 70.032,
           "gap_pct": 1.894,
           "clean_laps": 67
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 70.132,
           "gap_pct": 2.04,
           "clean_laps": 67
@@ -5070,7 +5070,7 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q2",
           "gap_pct": -0.423
@@ -5085,7 +5085,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q2",
           "gap_pct": 0.425
         },
@@ -5098,7 +5098,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.066
@@ -5106,7 +5106,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.066
         },
@@ -5211,7 +5211,7 @@
         },
         {
           "position": 10,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 10,
           "status": "Finished",
@@ -5267,7 +5267,7 @@
         },
         {
           "position": 17,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 15,
           "status": "+1 Lap",
@@ -5374,7 +5374,7 @@
         },
         {
           "position": 10,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:26.568",
           "q2": "1:26.397",
@@ -5414,7 +5414,7 @@
         },
         {
           "position": 15,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:26.649",
           "q2": "1:26.928",
@@ -5517,7 +5517,7 @@
           "clean_laps": 41
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 91.525,
           "gap_pct": 2.022,
           "clean_laps": 41
@@ -5547,7 +5547,7 @@
           "clean_laps": 41
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 91.939,
           "gap_pct": 2.484,
           "clean_laps": 38
@@ -5617,7 +5617,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q3",
           "gap_pct": -0.236
         },
@@ -5637,7 +5637,7 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q3",
           "gap_pct": 0.237
@@ -5672,7 +5672,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.13
@@ -5694,7 +5694,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.13
         },
@@ -5840,7 +5840,7 @@
         },
         {
           "position": 16,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 9,
           "status": "Accident",
@@ -5872,7 +5872,7 @@
         },
         {
           "position": 20,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 8,
           "status": "Spun off",
@@ -5939,7 +5939,7 @@
         },
         {
           "position": 8,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:13.194",
           "q2": "1:12.776",
@@ -5947,7 +5947,7 @@
         },
         {
           "position": 9,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:13.186",
           "q2": "1:12.766",
@@ -6095,14 +6095,14 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q2",
           "gap_pct": -0.918
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q2",
           "gap_pct": -0.045
@@ -6124,7 +6124,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q2",
           "gap_pct": 0.045
         },
@@ -6138,7 +6138,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q2",
           "gap_pct": 0.926
         },
@@ -6258,7 +6258,7 @@
         },
         {
           "position": 11,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 16,
           "status": "+1 Lap",
@@ -6266,7 +6266,7 @@
         },
         {
           "position": 12,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 11,
           "status": "+1 Lap",
@@ -6421,7 +6421,7 @@
         },
         {
           "position": 11,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:16.790",
           "q2": "1:16.565",
@@ -6469,7 +6469,7 @@
         },
         {
           "position": 17,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:17.109",
           "q2": null,
@@ -6562,7 +6562,7 @@
           "clean_laps": 65
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 82.927,
           "gap_pct": 2.102,
           "clean_laps": 65
@@ -6586,7 +6586,7 @@
           "clean_laps": 65
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 83.364,
           "gap_pct": 2.64,
           "clean_laps": 65
@@ -6695,7 +6695,7 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q1",
           "gap_pct": -0.604
@@ -6737,7 +6737,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.558
@@ -6745,14 +6745,14 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 0.608
         },
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.562
         },
@@ -6811,7 +6811,7 @@
         },
         {
           "position": 6,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 7,
           "status": "Finished",
@@ -6827,7 +6827,7 @@
         },
         {
           "position": 8,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 12,
           "status": "Finished",
@@ -6982,7 +6982,7 @@
         },
         {
           "position": 7,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:45.899",
           "q2": "1:44.549",
@@ -6998,7 +6998,7 @@
         },
         {
           "position": 9,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:45.732",
           "q2": "1:44.707",
@@ -7125,7 +7125,7 @@
           "clean_laps": 36
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 109.87,
           "gap_pct": 1.508,
           "clean_laps": 36
@@ -7137,7 +7137,7 @@
           "clean_laps": 34
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 110.309,
           "gap_pct": 1.913,
           "clean_laps": 34
@@ -7242,13 +7242,13 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q3",
           "gap_pct": -0.273
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q3",
           "gap_pct": 0.273
@@ -7262,7 +7262,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q2",
           "gap_pct": -0.324
@@ -7291,7 +7291,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q2",
           "gap_pct": 0.325
         },
@@ -7370,7 +7370,7 @@
         },
         {
           "position": 5,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 6,
           "status": "Finished",
@@ -7386,7 +7386,7 @@
         },
         {
           "position": 7,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 18,
           "status": "Finished",
@@ -7541,7 +7541,7 @@
         },
         {
           "position": 6,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:20.155",
           "q2": "1:20.275",
@@ -7629,7 +7629,7 @@
         },
         {
           "position": 17,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:21.291",
           "q2": null,
@@ -7716,13 +7716,13 @@
           "clean_laps": 46
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 85.551,
           "gap_pct": 1.819,
           "clean_laps": 46
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 85.611,
           "gap_pct": 1.889,
           "clean_laps": 46
@@ -7814,13 +7814,13 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q3",
           "gap_pct": -0.262
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q3",
           "gap_pct": 0.263
@@ -7835,7 +7835,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": -0.797
         },
@@ -7890,7 +7890,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": 0.804
@@ -7981,7 +7981,7 @@
         },
         {
           "position": 9,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 8,
           "status": "Finished",
@@ -8061,7 +8061,7 @@
         },
         {
           "position": 19,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 15,
           "status": "Engine",
@@ -8136,7 +8136,7 @@
         },
         {
           "position": 8,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:39.001",
           "q2": "1:38.580",
@@ -8152,7 +8152,7 @@
         },
         {
           "position": 10,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:39.909",
           "q2": "1:38.520",
@@ -8259,7 +8259,7 @@
           "clean_laps": 46
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 108.224,
           "gap_pct": 0.679,
           "clean_laps": 46
@@ -8271,7 +8271,7 @@
           "clean_laps": 46
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 108.462,
           "gap_pct": 0.901,
           "clean_laps": 33
@@ -8420,7 +8420,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.07
@@ -8463,7 +8463,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.07
         },
@@ -8544,7 +8544,7 @@
         },
         {
           "position": 7,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 11,
           "status": "Finished",
@@ -8568,7 +8568,7 @@
         },
         {
           "position": 10,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 6,
           "status": "Finished",
@@ -8707,7 +8707,7 @@
         },
         {
           "position": 7,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:34.236",
           "q2": "1:33.898",
@@ -8747,7 +8747,7 @@
         },
         {
           "position": 12,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:34.336",
           "q2": "1:33.958",
@@ -8850,7 +8850,7 @@
           "clean_laps": 44
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 100.197,
           "gap_pct": 2.532,
           "clean_laps": 42
@@ -8862,7 +8862,7 @@
           "clean_laps": 42
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 100.228,
           "gap_pct": 2.564,
           "clean_laps": 42
@@ -8979,7 +8979,7 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q3",
           "gap_pct": -0.397
@@ -9001,7 +9001,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q3",
           "gap_pct": 0.399
         },
@@ -9014,7 +9014,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q2",
           "gap_pct": -0.292
@@ -9036,7 +9036,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q2",
           "gap_pct": 0.293
         },
@@ -9139,7 +9139,7 @@
         },
         {
           "position": 8,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 17,
           "status": "+1 Lap",
@@ -9235,7 +9235,7 @@
         },
         {
           "position": 20,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 15,
           "status": "Disqualified",
@@ -9358,7 +9358,7 @@
         },
         {
           "position": 15,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:29.619",
           "q2": "1:30.112",
@@ -9374,7 +9374,7 @@
         },
         {
           "position": 17,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:30.344",
           "q2": null,
@@ -9443,7 +9443,7 @@
           "clean_laps": 44
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 95.728,
           "gap_pct": 2.783,
           "clean_laps": 45
@@ -9473,7 +9473,7 @@
           "clean_laps": 47
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 96.243,
           "gap_pct": 3.336,
           "clean_laps": 47
@@ -9601,7 +9601,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": -0.83
         },
@@ -9621,7 +9621,7 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q1",
           "gap_pct": -0.226
@@ -9629,13 +9629,13 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q1",
           "gap_pct": 0.227
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": 0.837
@@ -9696,7 +9696,7 @@
         },
         {
           "position": 7,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 11,
           "status": "Finished",
@@ -9720,7 +9720,7 @@
         },
         {
           "position": 10,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 12,
           "status": "+1 Lap",
@@ -9891,7 +9891,7 @@
         },
         {
           "position": 11,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:17.465",
           "q2": "1:16.687",
@@ -9899,7 +9899,7 @@
         },
         {
           "position": 12,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:17.608",
           "q2": "1:16.885",
@@ -10008,7 +10008,7 @@
           "clean_laps": 65
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 81.716,
           "gap_pct": 1.264,
           "clean_laps": 64
@@ -10032,7 +10032,7 @@
           "clean_laps": 64
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 81.899,
           "gap_pct": 1.491,
           "clean_laps": 63
@@ -10165,14 +10165,14 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.769
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q2",
           "gap_pct": -0.062
@@ -10180,7 +10180,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q2",
           "gap_pct": 0.062
         },
@@ -10201,7 +10201,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.775
         },
@@ -10305,7 +10305,7 @@
         },
         {
           "position": 9,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 11,
           "status": "+1 Lap",
@@ -10313,7 +10313,7 @@
         },
         {
           "position": 10,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 0,
           "status": "+1 Lap",
@@ -10484,7 +10484,7 @@
         },
         {
           "position": 11,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:34.092",
           "q2": "1:33.815",
@@ -10548,7 +10548,7 @@
         },
         {
           "position": 19,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:35.808",
           "q2": null,
@@ -10631,7 +10631,7 @@
           "clean_laps": 46
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 101.933,
           "gap_pct": 2.007,
           "clean_laps": 48
@@ -10655,7 +10655,7 @@
           "clean_laps": 45
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 102.219,
           "gap_pct": 2.294,
           "clean_laps": 46
@@ -10739,7 +10739,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q2",
           "gap_pct": -0.221
         },
@@ -10752,7 +10752,7 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q2",
           "gap_pct": 0.221
@@ -10774,7 +10774,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": -1.97
         },
@@ -10808,7 +10808,7 @@
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": 2.009
@@ -10892,7 +10892,7 @@
         },
         {
           "position": 9,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 15,
           "status": "Finished",
@@ -10940,7 +10940,7 @@
         },
         {
           "position": 15,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 13,
           "status": "Finished",
@@ -11095,7 +11095,7 @@
         },
         {
           "position": 14,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:09.050",
           "q2": "1:08.921",
@@ -11103,7 +11103,7 @@
         },
         {
           "position": 15,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:09.288",
           "q2": "1:09.035",
@@ -11212,7 +11212,7 @@
           "clean_laps": 51
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 74.221,
           "gap_pct": 1.97,
           "clean_laps": 51
@@ -11254,7 +11254,7 @@
           "clean_laps": 52
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 75.163,
           "gap_pct": 3.264,
           "clean_laps": 51
@@ -11346,7 +11346,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q2",
           "gap_pct": -0.026
         },
@@ -11359,14 +11359,14 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q2",
           "gap_pct": 0.026
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q1",
           "gap_pct": -0.357
@@ -11381,7 +11381,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q1",
           "gap_pct": 0.358
         },
@@ -11455,7 +11455,7 @@
         },
         {
           "position": 7,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "grid": 10,
           "status": "+1 Lap",
@@ -11495,7 +11495,7 @@
         },
         {
           "position": 12,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "grid": 9,
           "status": "+1 Lap",
@@ -11642,7 +11642,7 @@
         },
         {
           "position": 10,
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "team": "Renault",
           "q1": "1:37.506",
           "q2": "1:36.859",
@@ -11650,7 +11650,7 @@
         },
         {
           "position": 11,
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "team": "Racing Point",
           "q1": "1:36.961",
           "q2": "1:37.055",
@@ -11791,7 +11791,7 @@
           "clean_laps": 48
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "median_lap_s": 104.484,
           "gap_pct": 2.174,
           "clean_laps": 51
@@ -11803,7 +11803,7 @@
           "clean_laps": 49
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "median_lap_s": 104.557,
           "gap_pct": 2.246,
           "clean_laps": 51
@@ -11904,7 +11904,7 @@
         {
           "team": "Renault",
           "driver": "Daniel Ricciardo",
-          "teammate": "Nico Hulkenberg",
+          "teammate": "Nico H\u00fclkenberg",
           "segment": "Q3",
           "gap_pct": -0.263
         },
@@ -11917,14 +11917,14 @@
         },
         {
           "team": "Renault",
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico H\u00fclkenberg",
           "teammate": "Daniel Ricciardo",
           "segment": "Q3",
           "gap_pct": 0.263
         },
         {
           "team": "Racing Point",
-          "driver": "Sergio Perez",
+          "driver": "Sergio P\u00e9rez",
           "teammate": "Lance Stroll",
           "segment": "Q2",
           "gap_pct": -0.049
@@ -11939,7 +11939,7 @@
         {
           "team": "Racing Point",
           "driver": "Lance Stroll",
-          "teammate": "Sergio Perez",
+          "teammate": "Sergio P\u00e9rez",
           "segment": "Q2",
           "gap_pct": 0.049
         },
