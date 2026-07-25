@@ -3328,7 +3328,15 @@
       "season": 2026,
       "session": "Race",
       "status": "failed"
+    },
+    "2026-11-Qualifying": {
+      "ingested_at": "2026-07-25T19:03:00+00:00",
+      "laps": 0,
+      "round": 11,
+      "season": 2026,
+      "session": "Qualifying",
+      "status": "ok"
     }
   },
-  "updated_at": "2026-07-25T16:53:49+00:00"
+  "updated_at": "2026-07-25T19:03:00+00:00"
 }
