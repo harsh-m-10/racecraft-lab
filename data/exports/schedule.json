@@ -461,23 +461,23 @@
       "sessions": [
         {
           "name": "Practice 1",
-          "date_utc": "2026-10-02T08:30:00Z"
+          "date_utc": "2026-10-02T04:30:00Z"
         },
         {
           "name": "Practice 2",
-          "date_utc": "2026-10-02T12:30:00Z"
+          "date_utc": "2026-10-02T08:00:00Z"
         },
         {
           "name": "Practice 3",
-          "date_utc": "2026-10-03T09:00:00Z"
+          "date_utc": "2026-10-03T04:30:00Z"
         },
         {
           "name": "Qualifying",
-          "date_utc": "2026-10-03T13:00:00Z"
+          "date_utc": "2026-10-03T08:00:00Z"
         },
         {
           "name": "Race",
-          "date_utc": "2026-10-04T12:00:00Z"
+          "date_utc": "2026-10-04T07:00:00Z"
         }
       ]
     },
