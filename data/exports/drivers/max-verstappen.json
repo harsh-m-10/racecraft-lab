@@ -3,7 +3,7 @@
   "slug": "max-verstappen",
   "is_active": true,
   "power_score": 52.19,
-  "power_score_v2": 72.73,
+  "power_score_v2": 72.61,
   "delta_score": 49.74,
   "chaos_index": 57.69,
   "sunday_edge": 47.59,
@@ -117,8 +117,8 @@
       "races": 9,
       "race_pace_norm": 60.51,
       "avg_pace_gap_pct": 0.81,
-      "quali_h2h_norm": 60.18,
-      "quali_median_gap_pct": -0.16,
+      "quali_h2h_norm": 60.2,
+      "quali_median_gap_pct": -0.17,
       "tyre_management_norm": 42.57,
       "launch_norm": 43.79
     }
