@@ -8,7 +8,7 @@
   "chaos_index": 43.26,
   "sunday_edge": 47.05,
   "race_pace": 45.73,
-  "quali_h2h": 47.59,
+  "quali_h2h": 47.56,
   "tyre_management": 51.92,
   "launch": 54.93,
   "low_confidence": false,
@@ -105,7 +105,7 @@
       "races": 9,
       "race_pace_norm": 46.06,
       "avg_pace_gap_pct": 2.98,
-      "quali_h2h_norm": 42.59,
+      "quali_h2h_norm": 42.41,
       "quali_median_gap_pct": 0.23,
       "tyre_management_norm": 42.77,
       "launch_norm": 63.08
