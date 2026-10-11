@@ -3,7 +3,7 @@
   "slug": "george-russell",
   "is_active": true,
   "power_score": 42.66,
-  "power_score_v2": 52.75,
+  "power_score_v2": 52.78,
   "delta_score": 46.14,
   "chaos_index": 42.79,
   "sunday_edge": 45.84,
@@ -106,7 +106,7 @@
       "race_pace_norm": 61.42,
       "avg_pace_gap_pct": 0.67,
       "quali_h2h_norm": 44.33,
-      "quali_median_gap_pct": 0.25,
+      "quali_median_gap_pct": 0.24,
       "tyre_management_norm": 41.91,
       "launch_norm": 43.54
     }
