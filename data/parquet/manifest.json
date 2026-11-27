@@ -3542,14 +3542,14 @@
       "status": "ok"
     },
     "2026-21-Race": {
-      "attempts": 3,
+      "attempts": 4,
       "error": "The data you are trying to access has not been loaded yet. See `Session.load`",
-      "last_attempt_at": "2026-11-23T17:09:35+00:00",
+      "last_attempt_at": "2026-11-27T06:36:33+00:00",
       "round": 21,
       "season": 2026,
       "session": "Race",
       "status": "failed"
     }
   },
-  "updated_at": "2026-11-23T17:09:35+00:00"
+  "updated_at": "2026-11-27T06:36:33+00:00"
 }
